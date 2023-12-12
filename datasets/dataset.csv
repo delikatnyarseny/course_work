@@ -1,0 +1,4141 @@
+Movie Name,IMDB Rating,Rotten Tomatoes Users,Rotten Tomatoes Critics,Metacritic Users,Metacritic Critics
+Touch of Evil,8.0,9.2,9.5,8.4,9.9
+Seven Samurai,8.6,9.7,10.0,8.8,9.8
+Pan's Labyrinth,8.2,9.1,9.5,8.6,9.8
+Some Like It Hot,6.6,9.4,9.4,8.3,9.8
+North by Northwest,8.3,9.4,9.7,8.0,9.8
+Hoop Dreams,8.3,9.2,9.8,8.0,9.8
+Rashomon,8.2,9.3,9.8,8.5,9.8
+All About Eve,8.2,9.4,9.9,8.7,9.8
+Jules and Jim,7.7,8.9,9.4,6.5,9.7
+My Left Foot,7.8,9.2,9.8,8.3,9.7
+Psycho,8.5,9.5,9.6,8.8,9.7
+"4 Months, 3 Weeks and 2 Days",7.9,8.6,9.6,7.9,9.7
+Battleship Potemkin,7.9,8.6,10.0,8.5,9.7
+American Graffiti,7.4,8.4,9.6,7.4,9.7
+12 Angry Men,9.0,9.7,10.0,8.8,9.7
+Dumbo,7.2,4.8,4.5,7.7,9.6
+Roma,7.3,7.2,9.6,7.7,9.6
+Parasite,4.0,9.0,9.9,8.7,9.6
+Spirited Away,8.6,9.6,9.7,8.9,9.6
+Toy Story,8.3,9.2,10.0,8.8,9.6
+Ran,8.2,9.5,9.6,8.4,9.6
+Rosemary's Baby,8.0,8.7,9.6,8.3,9.6
+12 Years a Slave,8.1,9.0,9.5,8.0,9.6
+Manchester by the Sea,7.8,7.8,9.6,8.2,9.6
+Nashville,7.6,8.4,9.1,8.0,9.6
+Sansho the Bailiff,8.4,9.5,10.0,6.8,9.6
+Ratatouille,8.1,8.7,9.6,8.6,9.6
+Snow White and the Seven Dwarfs,7.6,7.8,9.7,8.1,9.6
+Mean Streets,7.2,8.4,9.6,7.3,9.6
+Gravity,8.1,7.9,9.6,7.8,9.6
+Fantasia,7.7,8.3,9.5,8.3,9.6
+Beauty and the Beast,5.1,9.0,9.5,8.3,9.5
+Don't Look Now,6.6,7.6,9.4,6.8,9.5
+My Fair Lady,7.7,9.0,9.4,7.4,9.5
+I Am Not Your Negro,7.9,8.3,9.9,5.3,9.5
+Rocks,7.6,8.1,9.7,6.6,9.5
+Amour,7.9,8.2,9.3,8.1,9.5
+Anatomy of a Murder,8.0,9.0,10.0,8.1,9.5
+Zero Dark Thirty,7.4,8.0,9.1,6.9,9.5
+Double Indemnity,8.3,9.5,9.7,8.6,9.5
+Schindler's List,9.0,9.7,9.8,8.8,9.5
+Pulp Fiction,8.9,9.6,9.2,9.0,9.5
+Carol,6.5,7.4,9.4,7.9,9.4
+Before Midnight,5.9,8.2,9.8,8.3,9.4
+Amazing Grace,5.6,8.5,6.7,8.2,9.4
+Dunkirk,7.1,8.1,9.2,8.3,9.4
+Taxi Driver,6.7,9.3,9.6,7.7,9.4
+Call Me by Your Name,7.8,8.6,9.4,7.9,9.4
+La La Land,6.6,8.1,9.1,8.4,9.4
+Rio Bravo,8.0,9.0,9.6,8.2,9.3
+Reversal of Fortune,7.2,7.8,9.2,8.1,9.3
+Duck Soup,6.5,9.1,9.1,7.9,9.3
+Days of Heaven,7.8,8.9,9.3,8.4,9.3
+Toni Erdmann,7.3,7.3,9.3,7.1,9.3
+McCabe & Mrs. Miller,7.6,8.6,8.5,8.0,9.3
+Inside Llewyn Davis,7.4,7.4,9.2,7.8,9.3
+Stagecoach,7.8,8.6,10.0,7.6,9.3
+There Will Be Blood,8.2,8.6,9.1,8.1,9.3
+Badlands,7.7,9.0,9.7,8.4,9.3
+Do the Right Thing,8.0,8.9,9.1,8.2,9.3
+Yojimbo,8.2,9.6,9.5,7.8,9.3
+Brother's Keeper,8.2,2.3,5.7,7.0,9.3
+Crumb,8.0,8.9,9.5,8.4,9.3
+Spotlight,5.5,9.3,9.7,8.2,9.3
+Invasion of the Body Snatchers,7.7,8.2,9.2,7.9,9.2
+The Class,7.7,8.2,9.5,7.4,9.2
+Platoon,8.1,9.3,8.9,8.0,9.2
+No Country for Old Men,8.2,8.6,9.3,7.9,9.2
+Chinatown,8.2,9.3,9.9,8.7,9.2
+Frenzy,6.2,7.8,9.0,7.4,9.2
+Brief Encounter,8.0,9.1,9.1,7.6,9.2
+Cool Hand Luke,8.1,9.5,10.0,8.5,9.2
+Little Women,6.5,7.7,8.9,5.8,9.2
+Top Hat,7.7,9.0,10.0,7.3,9.2
+Annie Hall,8.0,9.2,9.7,6.6,9.2
+Quiz Show,7.5,8.7,9.7,8.5,9.2
+Leviathan,5.8,8.0,9.7,7.3,9.2
+Toy Story 3,8.3,9.0,9.8,8.9,9.2
+This Is Spinal Tap,7.9,9.2,9.5,8.1,9.2
+L.A. Confidential,8.2,9.4,9.9,8.6,9.1
+Ikiru,8.3,9.7,9.8,8.3,9.1
+Time,7.6,5.1,9.8,5.2,9.1
+The Killing,7.9,9.2,9.6,7.7,9.1
+Swing Time,7.5,8.6,9.3,6.3,9.1
+Breaking Away,7.7,8.8,9.5,8.4,9.1
+On the Waterfront,8.1,9.5,9.9,8.7,9.1
+Ida,5.5,7.9,9.6,7.5,9.1
+Her,6.2,8.2,9.4,8.6,9.1
+Lost in Translation,7.7,8.5,9.5,7.5,9.1
+Secrets & Lies,8.0,9.1,9.6,8.2,9.1
+Bambi,7.3,7.3,9.1,7.7,9.1
+Bringing Up Baby,7.8,8.9,9.4,7.6,9.1
+Saving Private Ryan,8.6,9.5,9.4,8.8,9.1
+Burning,6.3,6.2,9.4,7.8,9.0
+Ben-Hur,8.1,5.2,2.5,8.4,9.0
+After Hours,6.6,8.7,9.1,8.0,9.0
+Great Expectations,6.3,8.8,10.0,8.0,9.0
+Winter's Bone,8.4,7.6,9.4,7.3,9.0
+Close Encounters of the Third Kind,7.6,8.5,9.4,7.8,9.0
+Red Beard,8.3,9.5,7.3,8.2,9.0
+Bloody Sunday,7.6,9.1,9.2,8.4,9.0
+My Voyage to Italy,8.2,8.7,10.0,7.3,9.0
+Phantom Thread,7.4,7.1,9.1,7.7,9.0
+American Splendor,7.4,8.6,9.4,7.8,9.0
+It's Such a Beautiful Day,8.5,9.2,10.0,8.1,9.0
+The Birds,7.6,8.3,9.4,7.8,9.0
+Topsy-Turvy,7.3,7.9,9.0,8.0,9.0
+King Kong,7.9,8.6,9.6,7.9,9.0
+Before Sunset,7.7,9.2,9.4,8.6,9.0
+Being John Malkovich,7.7,8.7,9.4,8.7,9.0
+Almost Famous,7.9,9.2,8.9,6.1,9.0
+High and Low,6.8,9.5,9.6,8.0,9.0
+Paths of Glory,8.4,9.5,9.6,8.4,9.0
+Hannah and Her Sisters,7.8,9.0,9.1,8.0,9.0
+The Circus,6.2,9.4,9.7,8.2,9.0
+The Tale,7.2,8.2,9.9,7.3,9.0
+Paterson,7.3,7.2,9.6,7.8,9.0
+Gosford Park,7.2,7.8,8.7,7.4,9.0
+Mad Max: Fury Road,8.1,8.6,9.7,8.5,9.0
+Capturing the Friedmans,7.7,8.9,9.7,7.8,9.0
+American Hustle,7.2,7.4,9.2,7.3,9.0
+Hamilton,5.9,8.8,8.3,7.6,8.9
+Assault on Precinct 13,7.3,8.0,9.6,7.6,8.9
+Man on Wire,7.7,8.7,10.0,8.2,8.9
+Still Walking,7.9,9.0,10.0,8.5,8.9
+Whiplash,6.4,9.4,9.4,8.9,8.9
+Barry Lyndon,8.1,9.2,8.9,8.6,8.9
+Elle,6.1,7.3,9.1,7.2,8.9
+Ghost World,7.3,8.4,9.3,8.1,8.9
+Captain Blood,6.3,8.9,10.0,7.5,8.9
+No End in Sight,8.2,9.4,9.6,8.2,8.9
+It's a Wonderful Life,8.6,9.5,9.4,8.5,8.9
+Phoenix,6.7,7.8,9.8,7.8,8.9
+Western,6.8,6.4,9.1,7.1,8.9
+Stop Making Sense,8.7,9.7,10.0,8.3,8.9
+Deep Red,7.5,8.6,9.3,7.3,8.9
+Alien,8.5,9.4,9.8,8.8,8.9
+Columbus,8.2,8.0,9.6,7.4,8.9
+Night of the Living Dead,7.8,6.8,6.7,8.2,8.9
+The Artist,7.3,8.7,9.5,8.1,8.9
+Yankee Doodle Dandy,7.6,8.3,9.0,8.0,8.9
+Raging Bull,8.1,9.3,9.3,7.1,8.9
+Foreign Correspondent,7.4,8.1,9.5,7.9,8.9
+Eternal Sunshine of the Spotless Mind,8.3,9.4,9.2,8.8,8.9
+High Noon,8.0,8.9,9.4,8.4,8.9
+Rebel Without a Cause,7.6,8.8,9.3,7.6,8.9
+Long Day's Journey Into Night,7.5,8.5,9.4,7.1,8.8
+4 Little Girls,7.8,8.9,10.0,7.2,8.8
+Wild Strawberries,8.1,9.4,9.4,8.2,8.8
+Azor,6.5,6.0,9.8,6.7,8.8
+Paddington 2,7.8,8.8,9.9,8.3,8.8
+City Hall,6.2,6.4,9.8,6.2,8.8
+Capote,7.3,8.2,8.9,7.7,8.8
+The Death of Stalin,7.2,7.9,9.4,7.3,8.8
+Miracle on 34th Street,7.9,6.2,6.0,7.7,8.8
+Strangers on a Train,7.9,9.2,9.8,8.6,8.8
+"Three Billboards Outside Ebbing, Missouri",8.1,8.7,9.0,7.8,8.8
+Quest,6.6,7.5,9.8,7.2,8.8
+Chicken Run,7.1,6.5,9.7,8.0,8.8
+Hell or High Water,8.7,8.8,9.7,8.1,8.8
+Up,6.3,9.0,9.8,8.7,8.8
+Mildred Pierce,7.9,9.0,8.8,7.8,8.8
+Tootsie,7.4,8.1,9.0,7.9,8.8
+Marooned in Iraq,7.4,8.2,9.3,7.7,8.8
+To Kill a Mockingbird,8.3,9.3,9.3,8.5,8.8
+Anomalisa,7.3,7.1,9.1,7.5,8.8
+Toy Story 2,7.9,8.7,10.0,8.7,8.8
+Black Panther,7.3,7.9,9.6,6.3,8.8
+Brooklyn,8.3,8.7,9.7,7.9,8.8
+Nobody Knows,8.0,9.3,9.3,8.5,8.8
+Mary Poppins,7.8,8.6,9.6,8.0,8.8
+Poetry,3.4,8.6,10.0,8.0,8.7
+Aftershock,4.2,2.4,3.9,5.5,8.7
+Shakespeare in Love,7.1,8.0,9.2,7.1,8.7
+It Happened One Night,8.1,9.3,9.8,8.4,8.7
+Scarface,7.7,9.3,8.1,7.4,8.7
+To Be and to Have,7.8,9.1,9.7,7.7,8.7
+Halloween,7.7,8.9,9.6,8.6,8.7
+Eraserhead,7.3,8.2,9.1,7.7,8.7
+In the Mood for Love,8.1,9.4,9.1,7.9,8.7
+Goldfinger,7.7,8.9,9.9,8.2,8.7
+One False Move,7.1,7.5,9.4,7.6,8.7
+Descendant,4.1,6.1,10.0,7.2,8.7
+Jane,8.0,8.5,9.8,8.3,8.7
+Jaws,8.1,9.0,9.7,8.6,8.7
+Spartacus,7.9,8.7,9.4,8.4,8.7
+Back to the Future,8.5,9.4,9.7,8.9,8.7
+Hope,4.7,8.1,9.8,6.7,8.7
+Brokeback Mountain,7.7,8.2,8.8,8.2,8.7
+Mutiny on the Bounty,7.6,8.4,9.6,8.3,8.7
+Particle Fever,7.4,8.3,9.6,8.1,8.7
+Tarnation,7.1,8.2,9.2,7.1,8.7
+Murderball,7.7,8.9,9.8,8.4,8.7
+The Shape of Water,7.4,7.2,9.2,7.0,8.7
+Rewind,5.0,9.6,10.0,6.8,8.7
+Shine,7.6,9.0,9.1,8.3,8.7
+Grizzly Man,7.8,8.5,9.2,7.2,8.7
+Adam's Rib,6.3,8.6,9.6,7.8,8.7
+Dirty Harry,7.7,9.0,8.9,8.2,8.7
+Moneyball,7.6,8.6,9.4,7.9,8.7
+All About My Mother,7.8,9.3,9.8,8.5,8.7
+The Duke of Burgundy,6.5,6.5,9.4,6.9,8.7
+Tampopo,7.9,9.3,10.0,8.5,8.7
+Blow Out,7.4,8.1,8.7,7.9,8.6
+Diane,6.1,7.7,8.8,7.1,8.6
+The Magician,6.7,8.5,10.0,7.5,8.6
+The Thin Man,7.9,9.4,9.8,7.6,8.6
+Point Blank,7.3,8.4,9.2,6.8,8.6
+Playground,7.2,3.8,8.6,7.8,8.6
+Room,6.7,9.3,9.3,8.3,8.6
+Dog Day Afternoon,8.0,9.0,9.6,8.5,8.6
+To Be or Not to Be,8.2,7.5,6.0,7.9,8.6
+Nebraska,8.1,8.3,9.1,8.0,8.6
+Like Water for Chocolate,7.1,8.4,8.7,7.0,8.6
+Ordinary People,7.7,8.8,8.9,6.7,8.6
+Heavenly Creatures,7.3,8.3,9.3,7.2,8.6
+Dreamcatcher,5.5,3.5,2.8,6.3,8.6
+To Die For,4.6,6.5,8.8,8.5,8.6
+Million Dollar Baby,6.8,9.0,9.0,7.5,8.6
+Shadows,6.2,5.7,6.0,7.0,8.6
+Rebecca,7.7,3.8,3.9,8.4,8.6
+Fargo,6.6,9.2,9.4,8.6,8.6
+Mulholland Dr.,8.2,8.7,8.5,7.0,8.6
+Boys Don't Cry,7.5,8.7,9.0,7.6,8.6
+Dead Ringers,7.2,8.2,8.4,5.5,8.6
+In the Bedroom,7.4,8.1,9.3,7.5,8.6
+Patton,7.9,9.3,9.0,8.3,8.6
+Stranger Than Paradise,7.4,8.8,9.6,6.4,8.6
+Bonnie and Clyde,7.7,8.8,9.0,8.2,8.6
+West Side Story,7.6,9.3,9.1,7.7,8.6
+Drug War,7.0,7.7,9.4,7.2,8.6
+Happening,6.1,7.4,9.9,7.2,8.6
+The Big Sick,7.5,8.8,9.8,7.0,8.6
+Argo,7.0,9.0,9.6,7.7,8.6
+Talk to Her,7.9,9.3,9.1,8.2,8.6
+Under the Sand,7.0,8.3,9.3,7.4,8.6
+Traffic,7.6,8.5,9.2,8.8,8.6
+The Master,4.4,6.2,8.4,7.3,8.6
+Nausicaä of the Valley of the Wind,8.0,8.9,8.9,8.5,8.6
+Aladdin,5.3,9.4,5.7,8.7,8.6
+Los Angeles Plays Itself,7.8,8.5,9.6,8.3,8.6
+This Is England,7.1,9.0,9.3,7.8,8.6
+Sweet Sixteen,5.1,8.8,9.7,8.1,8.6
+The Player,7.5,8.4,9.7,8.1,8.6
+Ponyo,7.6,8.3,9.1,7.7,8.6
+Z,8.2,9.3,9.4,7.4,8.6
+Black Narcissus,7.7,8.8,10.0,6.3,8.6
+Only Angels Have Wings,7.6,8.2,10.0,7.4,8.6
+Baby Driver,7.6,8.6,9.2,7.8,8.6
+Beasts of the Southern Wild,7.2,7.6,8.6,7.5,8.6
+Last Train Home,7.6,8.7,10.0,8.0,8.6
+Persona,8.1,9.4,9.1,7.8,8.6
+Walkabout,7.6,8.6,8.5,7.9,8.5
+Before Night Falls,7.1,8.3,7.4,6.6,8.5
+Five Easy Pieces,7.4,8.4,8.9,7.6,8.5
+From Here to Eternity,7.6,8.4,8.8,7.9,8.5
+Raiders of the Lost Ark,8.4,9.6,9.6,8.9,8.5
+Harry Potter and the Deathly Hallows: Part 2,8.1,8.9,9.6,8.2,8.5
+Take Shelter,7.3,8.1,9.2,7.7,8.5
+The Pianist,4.8,9.6,9.5,8.0,8.5
+Exit Through the Gift Shop,7.9,9.1,9.6,8.1,8.5
+El Dorado,6.9,8.7,10.0,6.7,8.5
+Sleeping Beauty,6.9,8.0,8.9,7.9,8.5
+Easy Rider,7.3,8.2,8.4,7.5,8.5
+Knocked Up,6.3,8.3,8.9,6.7,8.5
+Turtles Can Fly,8.0,9.3,8.8,8.3,8.5
+Tinker Tailor Soldier Spy,8.5,6.5,8.4,6.6,8.5
+Half Nelson,6.7,8.2,9.1,7.8,8.5
+The Sun,7.3,7.9,9.3,6.8,8.5
+Street Fight,7.9,9.3,10.0,6.9,8.5
+Before the Devil Knows You're Dead,7.3,7.1,8.8,8.3,8.5
+Get Out,6.5,8.6,9.8,7.5,8.5
+About Schmidt,7.2,7.4,8.6,7.6,8.5
+Hero,5.7,5.0,6.7,8.8,8.5
+Shane,7.6,8.8,10.0,7.6,8.5
+Passing,7.3,8.6,9.0,6.6,8.5
+Mudbound,7.4,8.5,9.7,6.7,8.5
+Atlantis,6.5,6.2,9.7,6.8,8.5
+Hedwig and the Angry Inch,7.7,9.3,9.2,8.3,8.5
+Unforgiven,8.2,7.7,9.4,8.2,8.5
+The Past,7.8,8.3,9.2,8.3,8.5
+Cinderella,6.8,8.0,9.7,7.7,8.5
+24 Hour Party People,7.3,8.7,8.7,8.3,8.5
+Atonement,6.9,8.0,8.3,7.8,8.5
+Naked,7.7,9.1,8.8,8.3,8.5
+Restrepo,7.4,8.8,9.6,7.5,8.5
+Out of Sight,4.9,7.4,9.4,8.8,8.5
+Women on the Verge of a Nervous Breakdown,7.5,8.9,9.1,8.0,8.5
+Atlantic City,6.1,7.7,10.0,7.3,8.5
+EO,6.7,6.7,9.6,7.0,8.5
+Slumdog Millionaire,8.0,9.0,9.1,7.8,8.4
+Holy Motors,7.0,7.1,9.2,7.6,8.4
+Sling Blade,8.0,9.2,9.7,8.3,8.4
+A Christmas Tale,6.2,6.6,8.6,6.9,8.4
+Giant,7.6,8.7,8.8,7.4,8.4
+Brazil,5.9,9.0,9.8,8.6,8.4
+The Dark Knight,5.3,9.4,9.4,8.9,8.4
+Children of Men,7.9,8.5,9.2,8.5,8.4
+Broadcast News,7.2,7.9,9.8,7.5,8.4
+American Movie,7.8,9.0,9.4,8.2,8.4
+Moonrise Kingdom,7.8,8.6,9.3,8.1,8.4
+The Handmaiden,7.3,9.1,9.6,8.5,8.4
+Lantana,7.2,8.2,9.1,8.3,8.4
+Oliver Twist,5.9,8.4,10.0,7.8,8.4
+49 Up,8.1,8.7,9.7,6.4,8.4
+American Beauty,5.0,9.3,8.7,8.8,8.4
+Blade Runner,8.1,9.1,8.9,8.7,8.4
+Kagemusha,7.9,9.2,8.8,6.2,8.4
+Heart of a Dog,8.6,6.4,9.6,5.8,8.4
+Lagaan: Once Upon a Time in India,8.1,9.3,9.5,7.9,8.4
+No Man's Land,6.0,9.2,9.3,8.0,8.4
+Prizzi's Honor,6.7,6.2,8.5,6.3,8.4
+All the President's Men,7.9,9.2,9.4,8.2,8.4
+2001: A Space Odyssey,8.3,8.9,9.1,8.2,8.4
+Darwin's Nightmare,7.4,8.7,9.0,7.5,8.4
+Aliens,8.4,9.4,9.8,9.0,8.4
+Looper,5.3,8.2,9.3,8.2,8.4
+Graduation,6.4,8.2,9.4,7.3,8.4
+Kubo and the Two Strings,7.7,8.6,9.7,8.1,8.4
+Distant,7.5,8.2,8.7,8.3,8.4
+Cat on a Hot Tin Roof,7.9,9.2,9.7,7.6,8.4
+Snowpiercer,7.1,7.3,9.4,7.2,8.4
+Happy-Go-Lucky,5.0,6.7,9.3,8.0,8.4
+Lassie,6.5,5.6,8.8,7.1,8.4
+Shrek,7.9,9.0,8.8,8.8,8.4
+California Split,7.1,8.3,8.7,7.5,8.4
+Dave Chappelle's Block Party,7.2,7.4,9.2,7.6,8.4
+Sense and Sensibility,6.7,9.0,9.7,8.2,8.4
+Stalag 17,8.0,9.3,9.1,7.8,8.4
+Mystic River,7.9,8.9,8.8,7.2,8.4
+Stray Dogs,5.9,5.2,8.6,6.3,8.4
+One Flew Over the Cuckoo's Nest,8.7,9.6,9.3,8.7,8.4
+13 Assassins,7.5,8.8,9.5,8.0,8.4
+Together,5.9,5.7,7.1,7.9,8.4
+Crazy Heart,7.2,7.6,9.0,7.5,8.3
+The Fool,6.1,9.1,9.3,8.1,8.3
+Stray,8.9,8.7,10.0,7.4,8.3
+Fighter,7.4,7.9,9.6,8.5,8.3
+Network,8.1,9.3,9.2,8.4,8.3
+Trainspotting,8.1,9.3,9.0,8.7,8.3
+Welcome to the Dollhouse,7.4,8.6,9.3,7.8,8.3
+Horse Feathers,7.5,8.6,9.7,7.5,8.3
+Fantastic Mr. Fox,7.9,8.5,9.3,8.3,8.3
+Limbo,6.2,7.0,7.2,6.8,8.3
+In the Loop,8.1,8.2,9.4,7.9,8.3
+Bus 174,7.8,9.0,9.6,7.6,8.3
+Soul,6.0,8.8,9.5,8.2,8.3
+Osama,7.3,8.7,9.6,6.5,8.3
+The Salt of the Earth,7.8,9.0,9.5,8.4,8.3
+Glory,5.7,8.6,9.4,7.0,8.3
+Office,7.1,4.8,8.7,5.6,8.3
+Being There,7.9,9.2,9.5,7.6,8.3
+Kiki's Delivery Service,7.8,8.8,9.8,8.5,8.3
+Moonstruck,7.1,8.0,9.3,8.4,8.3
+Raising Victor Vargas,7.2,8.3,9.6,6.3,8.3
+Waking Life,7.7,8.7,8.0,8.0,8.3
+Spider-Man 2,7.5,8.2,9.3,8.5,8.3
+True Grit,7.4,8.4,8.9,6.6,8.3
+When We Were Kings,8.0,9.4,9.8,8.5,8.3
+Avatar,6.3,8.2,8.2,7.5,8.3
+Paranoid Park,6.6,6.5,7.7,6.6,8.3
+Pina,9.4,8.1,9.5,7.2,8.3
+Rosie,7.7,10.0,6.7,6.6,8.3
+Hugo,6.0,7.8,9.3,7.7,8.3
+Wild Reeds,7.3,8.7,10.0,7.8,8.3
+Rachel Getting Married,6.7,6.2,8.4,5.7,8.3
+Drag Me to Hell,6.6,6.2,9.2,8.2,8.3
+Spider,6.6,6.8,8.5,7.1,8.3
+Manhattan,7.0,9.2,9.4,8.2,8.3
+Up in the Air,5.7,7.9,9.0,7.4,8.3
+Milk,4.6,8.9,9.3,7.6,8.3
+Lilya 4-Ever,7.8,9.1,8.4,8.0,8.3
+Enter the Dragon,7.6,9.1,8.8,7.7,8.3
+Belle,5.8,9.5,9.5,7.9,8.3
+Vera Drake,7.6,8.4,9.2,7.4,8.3
+Kill Bill: Vol. 2,8.0,8.9,8.4,8.2,8.3
+Babe,7.2,6.7,9.7,7.6,8.3
+Private Life,7.0,7.8,9.4,7.8,8.3
+BlacKkKlansman,7.5,8.3,9.6,7.3,8.3
+Red Army,7.6,8.5,9.2,7.7,8.3
+Porco Rosso,7.7,8.7,9.5,8.1,8.3
+The Post,8.3,7.3,8.8,7.0,8.3
+Blind,7.5,4.2,1.9,7.5,8.3
+Superman II,6.8,7.6,8.3,7.6,8.3
+101 Dalmatians,5.7,4.0,4.1,7.9,8.3
+Henry V,7.0,8.9,9.8,7.0,8.3
+Eastern Promises,7.6,8.3,8.9,7.1,8.3
+Sweeney Todd: The Demon Barber of Fleet Street,8.4,8.1,8.6,7.7,8.3
+Charade,6.4,9.2,9.4,8.0,8.3
+Blood Simple,7.6,8.8,9.3,8.1,8.3
+Court,7.6,7.9,9.8,8.4,8.3
+"20,000 Days on Earth",7.4,7.8,9.5,6.6,8.3
+Election,7.3,7.9,9.2,8.6,8.3
+Creed,5.9,8.9,9.5,8.0,8.2
+Local Hero,7.3,8.7,10.0,7.5,8.2
+Monsieur Lazhar,7.5,8.6,9.7,7.7,8.2
+Glengarry Glen Ross,7.7,8.8,9.5,8.1,8.2
+Gigi,6.1,7.4,8.8,6.9,8.2
+Venus,6.0,8.6,10.0,7.1,8.2
+Diner,7.1,7.7,9.1,8.4,8.2
+Three Times,6.9,7.1,8.5,6.4,8.2
+127 Hours,7.5,8.5,9.3,8.1,8.2
+Tell No One,7.5,8.7,9.3,7.5,8.2
+The End of the Tour,7.2,8.2,9.2,7.5,8.2
+Memories of Murder,4.4,9.3,9.5,8.4,8.2
+Enron: The Smartest Guys in the Room,7.8,8.7,9.7,8.1,8.2
+Forrest Gump,8.8,9.5,7.1,7.9,8.2
+Leaving Las Vegas,7.5,8.5,9.1,8.5,8.2
+Maiden,7.2,9.7,9.8,8.2,8.2
+War for the Planet of the Apes,7.4,8.4,9.4,8.0,8.2
+Duma,7.2,8.0,9.4,8.4,8.2
+Short Term 12,7.3,9.2,9.8,8.4,8.2
+Parenthood,7.1,7.6,9.2,8.3,8.2
+Sugar,6.3,6.1,7.8,7.8,8.2
+Marwencol,7.5,8.7,9.8,7.8,8.2
+To Catch a Thief,7.0,8.4,9.2,7.0,8.2
+The Lobster,7.1,6.5,8.7,7.1,8.2
+Pride & Prejudice,7.8,8.9,8.7,8.6,8.2
+Winged Migration,7.9,8.7,9.5,8.2,8.2
+Star Trek,8.4,9.1,9.4,7.8,8.2
+Mandy,7.2,6.7,9.0,7.0,8.2
+A Quiet Place,7.7,8.3,9.6,7.0,8.2
+Michael Clayton,7.2,6.9,9.1,7.6,8.2
+Downfall,7.2,9.4,9.0,8.6,8.2
+The Spectacular Now,7.0,7.6,9.1,7.9,8.2
+Face/Off,7.3,8.2,9.2,8.8,8.2
+Let the Right One In,7.8,9.0,9.8,8.5,8.2
+Rams,7.2,8.3,9.5,7.6,8.2
+Paris Is Burning,8.2,8.9,9.8,6.7,8.2
+Certified Copy,7.2,7.0,8.9,7.8,8.2
+Broadway Danny Rose,7.4,8.4,10.0,7.1,8.2
+Taxi to the Dark Side,7.5,9.0,10.0,7.1,8.2
+Repo Man,6.9,7.8,9.8,8.0,8.2
+Pig,5.3,8.4,9.7,7.2,8.2
+Steve Jobs,7.0,7.3,8.5,7.1,8.2
+Marley,7.9,9.0,9.5,8.0,8.2
+Touching the Void,8.0,9.2,9.4,8.6,8.2
+Grey Gardens,7.5,7.8,8.8,8.6,8.2
+Side by Side,6.1,8.6,9.3,8.3,8.2
+Isle of Dogs,3.5,8.7,9.0,8.0,8.2
+Mountain,8.1,6.3,8.7,5.5,8.2
+The Return,7.3,3.2,1.6,8.2,8.2
+Get Shorty,6.9,7.0,8.8,8.5,8.2
+My Life as a Dog,7.6,9.0,10.0,8.0,8.2
+Frozen River,6.2,7.4,8.8,7.9,8.2
+The Killer,6.9,9.1,7.9,8.0,8.2
+Drugstore Cowboy,7.3,8.5,9.7,8.5,8.2
+Blow-Up,7.5,8.4,8.7,8.0,8.2
+Tess,7.3,7.8,8.1,8.5,8.2
+Late Marriage,7.1,7.9,8.8,6.7,8.2
+One Day in September,7.8,9.2,9.7,6.0,8.2
+Requiem,7.4,6.6,8.6,7.9,8.2
+Captain Phillips,7.8,8.9,9.3,8.1,8.2
+A Hero,7.8,8.3,9.7,7.8,8.2
+Three Kings,7.1,7.7,9.4,8.6,8.2
+George Washington,7.9,8.5,8.4,7.4,8.2
+Blade Runner 2049,6.8,8.2,8.8,8.3,8.1
+Step,6.9,7.8,9.6,8.6,8.1
+Experimenter,6.6,6.1,8.6,7.5,8.1
+Eden,5.2,4.7,7.2,6.5,8.1
+Short Cuts,7.7,8.8,9.5,7.4,8.1
+Georgia,6.0,6.6,8.1,8.3,8.1
+Duel,7.3,8.4,8.9,8.6,8.1
+Mass,6.5,9.0,9.5,7.7,8.1
+Breaking the Waves,7.8,9.1,8.5,8.0,8.1
+Wadjda,7.5,8.8,9.9,7.3,8.1
+Fresh,7.5,8.0,8.2,7.8,8.1
+Arrival,7.4,8.2,9.4,8.2,8.1
+Juno,6.0,8.8,9.4,8.2,8.1
+Elena,4.0,7.5,8.1,6.7,8.1
+Blue Valentine,7.3,7.7,8.6,6.9,8.1
+Close,3.1,8.5,9.1,7.4,8.1
+Truman,7.1,8.0,9.9,7.8,8.1
+Master and Commander: The Far Side of the World,7.5,8.0,8.5,6.6,8.1
+Four Weddings and a Funeral,7.1,7.4,9.6,7.9,8.1
+Serpico,7.7,8.8,9.1,8.4,8.1
+Top Five,6.4,6.4,8.6,6.8,8.1
+Klute,7.1,8.0,9.3,6.9,8.1
+Coming Home,7.3,8.5,8.9,7.1,8.1
+Living in Oblivion,7.5,8.7,8.6,7.1,8.1
+Coco,7.9,9.4,9.7,8.3,8.1
+Locke,7.1,7.2,9.1,7.7,8.1
+Bridge of Spies,8.3,8.7,9.1,7.6,8.1
+Driving Miss Daisy,7.3,8.1,8.4,8.2,8.1
+Shaun the Sheep Movie,7.3,8.1,9.9,8.4,8.1
+Twinsters,7.5,9.0,9.2,7.8,8.1
+Beginners,7.2,7.7,8.5,8.1,8.1
+Autumn Tale,7.4,8.5,9.4,6.8,8.1
+"Paris, Texas",8.1,9.3,9.4,7.6,8.1
+Bright Star,6.9,6.8,8.3,7.1,8.1
+Wait Until Dark,7.7,9.1,9.6,7.0,8.1
+Jackie,5.0,6.0,8.8,7.3,8.1
+Weekend,5.8,7.8,9.3,8.3,8.1
+Beginning,7.5,7.0,9.0,7.3,8.1
+Sweetie,6.7,7.4,9.0,7.0,8.1
+Little Shop of Horrors,7.1,7.9,9.0,7.7,8.1
+No,6.5,8.0,9.3,7.4,8.1
+My Architect,7.4,8.3,9.3,8.2,8.1
+Hot Fuzz,7.8,8.9,9.1,8.6,8.1
+Django Unchained,8.5,9.2,8.7,8.6,8.1
+Sister,7.1,7.5,9.6,6.8,8.1
+Us,7.1,6.0,9.3,6.4,8.1
+Happiness,6.6,8.9,8.3,2.6,8.1
+Black Orpheus,7.4,8.6,8.7,7.8,8.1
+Moana,6.8,6.5,8.7,7.8,8.1
+The Wailing,7.2,8.2,9.9,7.9,8.1
+Shadow,6.4,8.0,9.4,7.3,8.1
+White Sun,7.1,9.3,10.0,7.8,8.1
+Memento,7.5,9.4,9.3,9.0,8.1
+Reservoir Dogs,8.3,9.4,9.0,8.6,8.1
+Skyfall,7.8,8.6,9.2,7.7,8.1
+In the Company of Men,7.1,8.0,8.9,6.9,8.1
+Upstream Color,6.5,6.9,8.6,6.9,8.1
+Hunt for the Wilderpeople,7.8,9.1,9.7,8.1,8.1
+Harry Potter and the Goblet of Fire,7.7,7.4,8.8,7.8,8.1
+Paprika,5.5,8.7,8.5,8.1,8.1
+The Assassin,6.3,4.8,8.0,6.3,8.1
+Hairspray,7.0,8.4,9.2,7.6,8.1
+I'm the One That I Want,6.0,7.1,5.9,7.4,8.1
+Chicago,7.3,8.3,8.6,7.9,8.1
+Daughters of the Dust,6.7,6.5,9.4,7.6,8.1
+Goodnight Mommy,6.7,6.6,8.5,7.8,8.1
+Midnight in Paris,6.3,8.3,9.3,8.0,8.1
+The Guardians,8.2,5.4,9.4,5.7,8.1
+A War,7.0,7.9,8.9,7.4,8.1
+District 9,7.9,8.2,9.0,8.1,8.1
+The World,7.1,6.5,7.2,8.0,8.1
+Picnic at Hanging Rock,7.4,8.3,9.1,7.9,8.1
+To Live and Die in L.A.,7.3,7.9,8.6,7.9,8.1
+Bad Education,7.4,8.3,9.4,7.7,8.1
+Bullitt,7.4,8.5,9.8,7.1,8.1
+Silver Linings Playbook,7.7,8.6,9.2,8.5,8.1
+Buena Vista Social Club,7.6,9.0,9.2,7.9,8.1
+Encounters at the End of the World,7.7,8.3,9.4,7.6,8.0
+Waves,6.7,8.1,8.4,7.5,8.0
+The Martian,5.8,9.1,9.1,8.1,8.0
+Neon Bull,6.8,6.7,8.8,7.5,8.0
+Melancholia,5.8,6.7,7.9,6.7,8.0
+On the Ropes,7.3,7.5,9.3,7.8,8.0
+Little Girl,7.0,5.4,10.0,4.6,8.0
+Junebug,6.9,7.3,8.6,7.9,8.0
+Sorry to Bother You,6.9,7.0,9.3,7.0,8.0
+Dead Man Walking,5.1,8.5,9.5,7.7,8.0
+Promises,8.3,9.6,9.6,8.2,8.0
+Love and Death on Long Island,6.9,5.7,8.7,7.2,8.0
+"Food, Inc.",7.8,8.6,9.5,8.2,8.0
+Forbidden Planet,7.5,8.5,9.6,7.6,8.0
+Incendies,8.3,9.2,9.1,8.1,8.0
+Nine Queens,7.9,9.4,9.2,8.5,8.0
+Under the Skin,6.9,6.2,8.8,6.8,8.0
+Incredibles 2,7.6,8.4,9.3,7.8,8.0
+Casino Royale,5.0,9.0,9.4,8.5,8.0
+Taste of Cherry,7.7,8.3,8.3,7.4,8.0
+Bugsy,6.8,6.9,8.4,8.0,8.0
+Cabaret,3.2,8.7,9.2,8.1,8.0
+Mystery Train,7.5,8.7,8.9,8.2,8.0
+Iris,6.4,7.3,7.9,7.4,8.0
+Good Time,7.3,8.2,9.1,7.7,8.0
+Henry: Portrait of a Serial Killer,7.0,7.1,8.9,7.6,8.0
+Spellbound,7.5,8.3,9.7,7.7,8.0
+Rabbit-Proof Fence,7.4,8.6,8.8,7.7,8.0
+Big Night,7.3,8.4,9.7,8.4,8.0
+Freaks,7.8,8.8,9.5,7.7,8.0
+Central Station,8.0,9.5,9.4,8.6,8.0
+Whale Rider,7.5,8.8,9.1,5.6,8.0
+Bring Me the Head of Alfredo Garcia,7.4,8.5,7.8,7.8,8.0
+Lucky,5.3,5.0,1.5,7.4,8.0
+Coraline,7.7,7.4,9.0,8.4,8.0
+Children of a Lesser God,7.2,7.8,8.0,6.9,8.0
+North Dallas Forty,6.9,7.1,8.4,8.5,8.0
+Lorenzo's Oil,7.3,8.0,9.2,8.2,8.0
+"Good Night, and Good Luck.",7.4,8.3,9.3,7.2,8.0
+The Survivalist,4.1,6.6,9.6,6.3,8.0
+Little Miss Sunshine,7.8,9.1,9.1,7.5,8.0
+Cow,7.8,6.8,9.6,6.6,8.0
+Frost/Nixon,7.7,8.8,9.3,7.8,8.0
+Minority Report,7.6,8.0,9.0,7.0,8.0
+Get Carter,7.3,2.8,1.1,7.5,8.0
+Senna,8.5,9.5,9.3,8.2,7.9
+"Monsters, Inc.",8.1,9.0,9.6,8.6,7.9
+Time Bandits,6.9,7.7,9.0,7.0,7.9
+X,6.3,7.5,9.4,6.6,7.9
+March of the Penguins,7.5,8.1,9.4,7.8,7.9
+Jonestown: The Life and Death of Peoples Temple,7.8,8.9,9.4,7.9,7.9
+Oasis,5.2,8.4,9.0,8.1,7.9
+Dinner Rush,7.3,8.5,9.1,6.1,7.9
+Spring Forward,7.5,8.1,8.8,7.5,7.9
+City of God,8.6,9.7,9.1,8.8,7.9
+Red Rock West,7.0,7.5,9.7,8.3,7.9
+Lolita,7.5,7.5,6.9,8.3,7.9
+She's Gotta Have It,6.8,7.2,9.4,6.6,7.9
+Pride,5.5,7.2,4.7,7.6,7.9
+Ava,6.5,6.8,8.4,5.0,7.9
+Hotel Rwanda,8.1,9.4,9.1,8.6,7.9
+El Cid,7.2,7.8,9.3,7.8,7.9
+Cyrano de Bergerac,7.4,9.0,10.0,7.7,7.9
+Planet of the Apes,8.0,2.7,4.4,8.1,7.9
+Baran,7.8,9.0,8.9,7.1,7.9
+High Fidelity,8.1,9.0,9.1,8.4,7.9
+The Fly,7.1,7.1,9.5,8.3,7.9
+Coriolanus,5.3,5.8,9.2,6.9,7.9
+Annihilation,8.5,6.6,8.8,7.1,7.9
+Policeman,5.5,4.7,6.1,6.5,7.9
+Midnight Cowboy,7.8,8.8,8.9,8.2,7.9
+Broken Flowers,7.1,7.0,8.7,6.2,7.9
+Loving,6.1,7.6,8.8,7.1,7.9
+Silence,6.2,6.9,8.3,7.6,7.9
+November,7.2,4.1,3.1,7.7,7.9
+Hitchcock/Truffaut,7.3,7.6,9.6,8.0,7.9
+Flags of Our Fathers,7.1,6.9,7.3,7.0,7.9
+Wings of Desire,7.9,9.3,9.8,7.8,7.9
+Beasts of No Nation,7.7,9.2,9.1,8.2,7.9
+Gandhi,8.0,9.2,8.9,7.5,7.9
+Iron Monkey,7.5,8.6,9.1,8.2,7.9
+Quest for Fire,7.3,7.5,8.8,6.7,7.9
+Disclosure,6.2,4.1,5.9,7.0,7.9
+Green Room,8.6,7.5,9.0,7.2,7.9
+Family Plot,6.8,6.2,9.2,7.8,7.9
+Iron Man,6.3,9.1,9.4,8.6,7.9
+Control Room,7.7,8.7,9.5,7.5,7.9
+Tarzan,7.1,7.5,8.9,7.8,7.9
+Only Lovers Left Alive,7.2,7.5,8.6,7.5,7.9
+Terms of Endearment,7.4,8.3,8.1,7.6,7.9
+Selma,7.5,8.6,9.9,7.2,7.9
+Poltergeist,7.3,7.9,8.8,8.2,7.9
+Underground,7.3,9.6,8.6,7.6,7.9
+Dawn of the Planet of the Apes,7.6,8.8,9.1,8.2,7.9
+Till,7.2,9.7,9.6,7.1,7.9
+Mother,7.6,7.9,10.0,8.1,7.9
+Free Willy,6.0,5.0,7.1,7.3,7.9
+Suspiria,7.3,7.3,6.5,7.7,7.9
+Searching for Sugar Man,8.2,9.2,9.5,8.4,7.9
+Sing Street,7.9,9.2,9.5,8.4,7.9
+Yellow Submarine,7.4,8.4,9.7,7.8,7.9
+Manufactured Landscapes,7.2,8.0,8.4,6.0,7.9
+Zodiac,7.0,7.7,9.0,8.4,7.9
+Black Swan,3.4,8.4,8.5,8.2,7.9
+Our Children,6.8,6.9,9.3,8.2,7.9
+Hilary and Jackie,7.3,8.3,8.8,7.9,7.8
+Lady and the Tramp,7.3,5.0,6.6,7.9,7.8
+Indignation,6.8,7.4,8.1,7.3,7.8
+Bird,7.1,7.9,8.3,7.3,7.8
+Enough Said,7.0,7.5,9.5,7.6,7.8
+Play Misty for Me,6.9,7.2,8.5,7.6,7.8
+28 Weeks Later,6.9,6.6,7.2,6.9,7.8
+Insomnia,5.5,7.7,9.2,8.0,7.8
+Control,5.9,2.2,7.1,7.6,7.8
+My Flesh and Blood,8.3,9.3,9.0,4.5,7.8
+Roman Holiday,8.0,9.3,9.5,8.3,7.8
+Lifeboat,7.6,8.7,9.0,8.1,7.8
+Airplane!,7.7,8.9,9.7,7.9,7.8
+Thirteen,8.3,7.7,8.1,8.4,7.8
+Castle in the Sky,8.0,9.1,9.6,8.5,7.8
+Blue Jasmine,7.3,7.7,9.1,7.6,7.8
+It Comes at Night,6.2,4.4,8.8,6.3,7.8
+Please Give,6.6,6.4,8.6,7.5,7.8
+Hellboy II: The Golden Army,7.0,7.1,8.6,7.7,7.8
+Tabu,6.1,7.7,9.3,6.4,7.8
+Lumumba,7.2,8.3,8.2,4.5,7.8
+Speed,7.9,7.6,9.4,8.6,7.8
+Breathe,7.7,7.2,6.8,6.5,7.8
+Clash,4.3,8.2,9.3,7.1,7.8
+Amanda Knox,5.6,7.1,8.3,7.1,7.8
+Babette's Feast,7.8,9.1,9.7,8.0,7.8
+Near Dark,6.9,7.4,8.3,7.5,7.8
+Dirty Pretty Things,7.3,8.2,9.4,8.3,7.8
+Chungking Express,8.0,9.3,8.8,8.3,7.8
+A Silent Voice,6.2,9.3,9.5,8.5,7.8
+After the Wedding,7.7,8.7,8.8,8.0,7.8
+Devil in a Blue Dress,6.8,7.0,9.2,6.7,7.8
+Midnight Run,7.5,8.7,9.5,8.6,7.8
+The Guard,7.0,8.1,9.4,7.3,7.8
+Blue Ruin,7.1,7.9,9.6,7.4,7.8
+Ex Machina,7.7,8.6,9.2,8.0,7.8
+Detective Story,7.5,7.1,7.2,7.0,7.8
+Eve's Bayou,7.2,8.9,8.3,7.0,7.8
+Dr. No,7.2,8.2,9.5,7.5,7.8
+Much Ado About Nothing,4.9,8.6,9.0,7.5,7.8
+Ruthless People,6.9,7.2,9.3,5.9,7.8
+Lost in America,7.0,7.7,9.5,7.4,7.8
+Endless Poetry,7.5,8.0,9.3,7.3,7.8
+Barbarian,3.0,7.1,9.3,7.4,7.8
+Lone Star,6.1,8.3,9.2,7.7,7.8
+Thief,7.2,8.1,7.9,8.6,7.8
+Tracks,6.3,7.7,8.2,7.2,7.8
+Magnolia,8.0,8.9,8.3,4.5,7.8
+1917,6.0,8.8,8.9,8.3,7.8
+Love Exposure,8.0,8.8,9.1,8.2,7.8
+Gaslight,7.3,7.7,10.0,8.8,7.8
+Morvern Callar,6.7,7.4,8.5,5.7,7.8
+Last Orders,6.9,7.2,7.9,6.0,7.8
+"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.",7.5,8.7,10.0,7.0,7.8
+Logan Lucky,7.0,7.6,9.2,6.9,7.8
+James and the Giant Peach,6.7,6.5,9.1,6.6,7.8
+Alice Doesn't Live Here Anymore,7.3,8.2,8.9,7.2,7.8
+Dazed and Confused,7.6,9.0,9.2,7.9,7.8
+2046,7.4,8.5,8.6,7.5,7.8
+Kung Fu Hustle,7.7,8.9,9.0,8.5,7.8
+Win It All,6.2,5.5,8.5,7.0,7.7
+The Messenger,6.1,2.1,3.3,7.6,7.7
+"Play It Again, Sam",7.6,8.9,9.7,4.9,7.7
+Children of Heaven,8.2,9.5,8.3,7.6,7.7
+Grandma,7.2,6.7,9.1,6.9,7.7
+"I, Tonya",7.5,8.8,9.0,7.8,7.7
+Evolution,6.3,4.8,4.3,7.0,7.7
+Fat Girl,6.4,6.4,7.4,7.3,7.7
+Grindhouse,4.4,8.7,8.4,7.9,7.7
+Body Heat,7.4,8.0,9.6,8.5,7.7
+Pom Poko,7.3,7.7,8.6,7.1,7.7
+Relic,7.9,5.2,9.2,6.1,7.7
+Ruby in Paradise,6.9,7.6,8.6,7.8,7.7
+Chi-Raq,5.9,5.0,8.2,5.4,7.7
+Saturday Night Fever,6.8,7.1,8.3,8.2,7.7
+Pump Up the Volume,7.2,8.4,7.9,8.2,7.7
+Animal Crackers,7.4,7.8,6.4,6.5,7.7
+Calvary,6.8,8.0,8.9,7.4,7.7
+Tom Jones,6.4,5.8,8.0,7.2,7.7
+Apprentice,6.9,6.3,8.5,7.0,7.7
+Apples,6.8,7.2,9.3,6.0,7.7
+The Hunt,7.2,6.6,5.7,8.4,7.7
+The Beguiled,7.2,4.8,7.8,6.1,7.7
+Somers Town,6.8,7.5,9.6,6.8,7.7
+Scratch,7.8,9.3,9.4,4.9,7.7
+Shanghai Noon,6.6,6.5,8.0,8.5,7.7
+Detroit,5.4,7.9,8.2,6.6,7.7
+The Edge of Seventeen,7.3,8.3,9.4,7.6,7.7
+Logan,5.9,9.0,9.4,8.5,7.7
+Water,6.9,9.0,9.1,7.0,7.7
+Monsoon Wedding,7.3,8.7,9.5,7.6,7.7
+How to Train Your Dragon 2,7.8,9.0,9.2,8.3,7.7
+The Disaster Artist,7.3,8.5,9.1,7.6,7.6
+Kandahar,6.8,7.5,8.9,7.1,7.6
+Rosetta,7.4,8.3,9.0,8.0,7.6
+Smoke Signals,7.2,8.2,8.1,6.6,7.6
+Grosse Pointe Blank,7.3,8.7,8.2,8.4,7.6
+Maggie's Plan,8.9,5.2,8.6,6.3,7.6
+Adventureland,6.8,6.1,8.8,7.3,7.6
+Inside Man,7.6,8.5,8.6,7.3,7.6
+Guardians of the Galaxy,7.0,9.2,9.2,8.2,7.6
+Birdman of Alcatraz,7.8,8.4,9.1,7.5,7.6
+The Hunter,6.2,4.4,7.9,6.1,7.6
+Lore,6.3,7.6,9.4,7.6,7.6
+In America,7.7,9.1,8.9,8.3,7.6
+Jesus' Son,6.9,8.3,7.9,6.8,7.6
+Princess Mononoke,8.3,9.4,9.3,8.8,7.6
+Donnie Brasco,7.7,8.9,8.8,3.0,7.6
+When Harry Met Sally...,7.7,8.9,9.1,8.3,7.6
+Hoosiers,7.4,8.8,9.1,8.3,7.6
+Heat,6.1,9.4,8.8,8.6,7.6
+Blue Velvet,7.7,8.8,9.5,7.8,7.6
+Dreamgirls,6.6,7.1,7.9,7.3,7.6
+All Quiet on the Western Front,8.1,8.9,9.8,7.9,7.6
+Peter Pan,7.1,8.0,7.7,6.8,7.6
+Flight,6.0,7.5,7.7,7.3,7.6
+Citizen K,7.1,7.1,9.5,6.1,7.6
+Dave,6.9,7.2,9.5,7.0,7.6
+Shine a Light,7.1,7.4,8.6,7.4,7.6
+Blue Car,6.6,6.5,8.1,6.7,7.6
+Chuck & Buck,6.6,6.6,8.4,7.6,7.6
+Menace II Society,7.5,9.3,8.4,8.1,7.6
+Father of the Bride,7.1,7.4,9.0,6.3,7.6
+Shotgun Stories,7.1,8.0,8.8,7.3,7.6
+Housebound,4.2,7.3,9.5,7.6,7.6
+Zola,7.3,6.8,8.8,6.2,7.6
+Midnight Special,6.6,6.7,8.3,6.8,7.6
+Undertow,5.8,9.0,8.8,8.3,7.6
+Japan,5.4,7.4,7.9,4.8,7.6
+Brothers,3.4,8.5,8.9,8.4,7.6
+Margin Call,7.1,7.4,8.7,7.2,7.6
+Wonder Woman,4.6,7.8,8.3,6.0,7.6
+Shaun of the Dead,7.9,9.3,9.2,8.5,7.6
+House Party,6.5,8.1,9.4,8.2,7.6
+Safe,7.7,7.5,8.7,8.2,7.6
+Stronger,5.2,8.0,9.0,7.3,7.6
+Reds,7.3,8.2,9.0,8.2,7.6
+Tim's Vermeer,7.8,8.6,8.9,8.5,7.6
+Standing in the Shadows of Motown,7.8,8.9,9.1,8.0,7.6
+Chevalier,7.0,5.0,8.3,3.2,7.6
+Reality,1.0,6.9,8.0,,8.7
+Witness,7.4,8.0,9.3,8.3,7.6
+Trees Lounge,7.1,7.9,8.1,6.8,7.6
+What We Do in the Shadows,7.3,8.7,9.6,7.8,7.6
+10 Cloverfield Lane,7.2,7.9,9.0,7.6,7.6
+Ghost in the Shell,7.9,8.9,9.5,8.5,7.6
+Rabbit Hole,7.0,7.2,8.7,7.6,7.6
+American Gangster,7.8,8.9,8.1,7.6,7.6
+Nightcrawler,7.9,8.6,9.5,8.6,7.6
+The Hunger Games: Catching Fire,7.5,8.9,9.0,7.9,7.6
+Submarine,6.4,8.2,8.8,7.8,7.6
+The Stranger,6.4,9.7,10.0,7.8,7.6
+Superbad,7.6,8.7,8.8,8.0,7.6
+Sophie Scholl: The Final Days,7.6,8.8,8.7,8.3,7.6
+Pearl,6.6,8.2,9.2,6.8,7.6
+The Lovers,7.1,4.2,8.2,6.2,7.6
+Down to the Bone,7.2,7.0,9.4,6.2,7.6
+Lucas,6.9,7.0,7.3,7.1,7.5
+Inherit the Wind,8.1,9.1,9.3,6.8,7.5
+OT: Our Town,7.3,7.7,8.8,8.0,7.5
+State and Main,6.7,7.0,8.5,6.1,7.5
+Rango,7.1,7.0,8.8,7.7,7.5
+Border,6.1,7.6,9.7,6.6,7.5
+Frank,5.5,7.2,9.2,7.1,7.5
+Easy Money,4.6,6.3,8.6,6.5,7.5
+"What Happened, Miss Simone?",7.6,8.5,9.0,7.9,7.5
+Bulworth,6.8,6.8,7.6,7.6,7.5
+Jeremiah Johnson,7.6,8.9,9.5,7.5,7.5
+Possession,7.3,5.8,6.3,7.7,7.5
+Blaze,6.0,6.6,9.5,5.8,7.5
+Down by Law,7.7,9.4,8.7,7.5,7.5
+Boy A,7.6,8.7,8.8,8.1,7.5
+Risky Business,6.6,7.3,9.2,3.9,7.5
+Heavy,6.7,6.7,8.7,5.4,7.5
+Lovely & Amazing,6.7,6.3,8.6,7.5,7.5
+Joy Ride,5.7,8.3,10.0,,8.1
+Attack the Block,6.7,7.5,9.0,7.1,7.5
+Misery,7.8,9.0,9.1,8.4,7.5
+Win Win,7.2,8.5,9.4,7.7,7.5
+Clean,6.8,5.6,4.7,7.1,7.5
+Croupier,7.0,7.9,9.5,6.4,7.5
+Lost in La Mancha,7.3,7.7,9.4,7.7,7.5
+Infernal Affairs,8.0,9.5,9.4,6.8,7.5
+Bernie,7.1,7.3,8.8,7.2,7.5
+Bridesmaids,5.8,7.6,8.9,7.1,7.5
+Tully,6.4,7.4,8.7,7.4,7.5
+Darkest Hour,4.2,8.2,8.4,7.3,7.5
+I Shot Andy Warhol,6.6,7.1,7.7,7.3,7.5
+Stefan Zweig: Farewell to Europe,6.7,6.7,9.3,7.0,7.5
+Enchanted,6.4,8.0,9.3,8.2,7.5
+Lady Vengeance,7.5,8.7,7.6,8.0,7.5
+Shrek 2,7.3,6.9,8.9,8.7,7.5
+Elizabeth,7.4,8.6,8.3,7.4,7.5
+Mistress America,6.7,6.6,8.2,6.6,7.5
+Spy,6.6,7.8,9.5,4.9,7.5
+Casualties of War,7.1,7.5,8.3,5.1,7.5
+The Escape,5.5,4.9,7.6,6.0,7.5
+The Wolfpack,7.0,6.8,8.7,6.7,7.5
+Little Children,7.5,8.2,8.0,7.4,7.5
+Terminator 2: Judgment Day,8.6,9.5,9.2,8.9,7.5
+Dark Days,7.7,8.9,9.4,7.5,7.5
+Captain America: Civil War,7.8,8.9,9.0,8.0,7.5
+Stand by Me,8.1,9.4,9.2,8.4,7.5
+The Square,6.8,7.1,8.5,7.1,7.5
+Kitchen Stories,7.3,8.6,9.1,7.1,7.5
+Roger Dodger,6.9,7.6,8.8,7.8,7.5
+Startup.com,7.1,7.3,9.3,7.0,7.5
+Liberty Heights,7.0,7.6,8.6,8.3,7.5
+Born on the Fourth of July,7.2,7.6,8.5,7.7,7.5
+Funny Face,6.3,4.5,6.9,7.0,7.5
+Dial M for Murder,8.2,9.2,9.0,8.3,7.5
+Graceland,7.9,7.1,8.5,5.8,7.5
+X-Men: Days of Future Past,7.9,9.1,9.0,8.3,7.5
+Peggy Sue Got Married,6.4,5.5,8.7,7.4,7.5
+Silent Movie,6.7,7.2,8.1,5.9,7.5
+Martha Marcy May Marlene,6.8,7.1,9.0,7.0,7.5
+Kicking and Screaming,6.7,7.5,5.7,7.7,7.5
+Baadasssss!,7.3,8.4,9.1,8.4,7.5
+Trainwreck,6.2,6.6,8.4,5.5,7.5
+In This World,7.3,8.8,8.9,7.3,7.5
+About a Boy,7.1,5.5,9.3,7.4,7.5
+This Film Is Not Yet Rated,7.4,8.1,8.4,7.3,7.5
+Orlando,7.1,8.2,8.4,7.7,7.5
+Bastard Out of Carolina,7.3,8.4,10.0,7.4,7.5
+What Ever Happened to Baby Jane?,8.0,9.1,9.2,7.6,7.5
+Solas,7.5,8.7,9.0,7.8,7.5
+The Longest Day,7.7,9.0,8.7,7.2,7.5
+Waitress,7.0,7.4,8.9,7.0,7.5
+Who's Afraid of Virginia Woolf?,8.0,9.0,9.6,7.7,7.5
+The Skeleton Twins,6.8,6.9,8.6,7.2,7.4
+Natural Born Killers,7.2,8.1,4.8,6.9,7.4
+Me and Earl and the Dying Girl,7.7,8.6,8.1,8.1,7.4
+The Rabbi's Cat,7.1,7.6,9.4,7.7,7.4
+I Kill Giants,6.1,7.4,7.7,6.7,7.4
+Sicko,8.0,8.7,9.1,7.5,7.4
+Monster,7.3,8.1,8.1,7.3,7.4
+Frankenweenie,7.2,7.0,8.8,7.4,7.4
+Black Hawk Down,7.7,8.8,7.7,7.9,7.4
+Radio Days,7.4,8.4,9.2,7.2,7.4
+For a Few Dollars More,8.2,9.4,9.2,8.4,7.4
+Rize,7.1,8.5,8.4,8.4,7.4
+Wild,7.6,7.5,8.8,7.2,7.4
+Humpday,6.0,5.1,7.9,6.8,7.4
+Shakespeare Behind Bars,7.6,8.4,9.3,7.1,7.4
+Oliver!,7.4,8.1,9.0,6.8,7.4
+Flushed Away,6.6,6.5,7.3,7.5,7.4
+Awakenings,7.8,8.9,8.6,8.3,7.4
+Tucker: The Man and His Dream,6.9,6.8,8.3,6.9,7.4
+Tomboy,4.7,8.3,9.6,7.6,7.4
+Farewell,6.8,7.6,8.6,7.1,7.4
+Red Lights,6.4,6.5,8.4,5.9,7.4
+Ocean's Eleven,6.5,8.0,8.3,8.6,7.4
+Rush,8.4,7.1,7.1,8.5,7.4
+Mean Creek,7.1,8.2,8.9,7.9,7.4
+Bully,6.9,7.8,8.5,7.3,7.4
+The Magnificent Seven,7.7,8.7,8.9,7.4,7.4
+Kundun,7.0,7.8,7.4,7.6,7.4
+Winnie the Pooh,7.1,8.0,9.0,7.5,7.4
+Munich,7.5,8.3,7.8,8.0,7.4
+Thelma,7.0,7.7,9.2,7.7,7.4
+Millions,6.5,7.8,8.8,8.2,7.4
+East Is East,6.9,7.8,7.8,6.6,7.4
+Edward Scissorhands,7.9,9.1,8.9,8.7,7.4
+Dangerous Liaisons,7.6,7.1,8.8,7.6,7.4
+In the Line of Fire,7.2,7.9,9.6,8.4,7.4
+Hidden Figures,7.8,9.3,9.3,7.5,7.4
+Assassins,6.3,8.2,9.8,6.6,7.4
+Clear and Present Danger,6.9,7.4,8.0,7.4,7.4
+Golden Door,6.8,6.9,7.2,7.7,7.4
+The Town,5.8,8.5,9.2,7.3,7.4
+Dressed to Kill,6.6,7.4,8.2,8.0,7.4
+Into the Abyss,6.5,7.6,9.2,7.5,7.4
+Interstellar,6.6,8.6,7.2,8.5,7.4
+Bridge to Terabithia,5.9,7.0,8.5,7.4,7.4
+Happy People: A Year in the Taiga,7.7,7.7,8.8,7.3,7.4
+Egg,5.0,4.0,10.0,4.0,7.4
+Billy Elliot,7.7,8.9,8.5,7.4,7.4
+Days of Wine and Roses,7.9,8.9,10.0,7.7,7.4
+Kung Fu Panda,7.6,8.3,8.7,8.3,7.4
+The Duke,7.2,8.5,9.7,7.3,7.4
+Hercules,5.4,4.8,5.8,7.4,7.4
+Invictus,8.2,7.5,7.6,7.1,7.4
+Big Hero 6,7.8,9.1,9.0,7.8,7.4
+Mommy,4.8,8.9,8.8,8.4,7.4
+My Kid Could Paint That,7.1,7.8,9.4,8.1,7.4
+Sin City,5.9,7.8,7.7,8.7,7.4
+She Said,7.3,9.1,8.8,5.0,7.4
+Source Code,7.5,8.2,9.2,7.7,7.4
+Metallica: Some Kind of Monster,7.5,8.3,8.8,6.7,7.4
+Beast,8.1,7.7,6.8,7.0,7.4
+Joe,6.8,6.8,8.6,7.2,7.4
+Teacher's Pet,7.9,7.1,8.6,7.9,7.4
+Breach,7.0,6.7,8.4,7.3,7.4
+Japanese Story,6.8,6.9,6.8,7.3,7.3
+Cast Away,7.8,8.4,8.9,7.7,7.3
+High Art,6.6,7.7,7.6,8.5,7.3
+Wag the Dog,7.1,7.6,8.6,7.4,7.3
+Cape Fear,7.7,7.7,7.5,8.5,7.3
+Roxanne,6.6,6.3,8.8,7.5,7.3
+Tangerines,8.1,8.9,8.8,8.2,7.3
+1945,7.1,8.3,9.7,7.7,7.3
+Mysterious Skin,7.6,8.9,8.6,8.1,7.3
+On the Rocks,7.5,5.0,8.7,6.3,7.3
+Malcolm X,7.5,9.1,8.9,7.9,7.3
+Fantastic Planet,7.7,8.7,9.1,7.0,7.3
+Into the Wild,8.1,8.9,8.3,8.1,7.3
+Red Cliff,6.6,7.8,9.1,7.4,7.3
+Tokyo Godfathers,7.8,9.1,9.1,8.0,7.3
+Lilo & Stitch,7.3,7.7,8.7,8.4,7.3
+Show Me Love,7.5,8.6,9.1,7.3,7.3
+Rust and Bone,7.4,8.0,8.2,7.9,7.3
+Eye in the Sky,6.9,8.2,9.5,7.1,7.3
+Val,5.2,8.9,9.4,7.8,7.3
+All About Lily Chou-Chou,7.5,8.9,6.9,7.6,7.3
+Wordplay,7.4,8.0,9.4,6.9,7.3
+"Like Father, Like Son",6.0,8.9,8.6,8.0,7.3
+Erin Brockovich,7.4,8.1,8.5,8.2,7.3
+1971,8.2,7.8,9.7,7.8,7.3
+A Most Wanted Man,6.7,6.5,8.5,7.0,7.3
+Host,4.7,7.1,9.9,6.3,7.3
+Something Wild,6.7,6.9,9.1,8.2,7.3
+Wind River,6.3,9.0,8.8,7.9,7.3
+"One, Two, Three",7.9,8.8,9.2,8.3,7.3
+Marnie,7.1,7.3,8.3,6.7,7.3
+The Raid: Redemption,7.6,8.7,8.7,8.1,7.3
+Sonatine,7.0,8.9,9.2,5.0,7.3
+Inland Empire,6.1,7.5,7.2,7.4,7.3
+Blazing Saddles,7.7,9.1,8.9,7.0,7.3
+Supernova,2.1,6.9,9.0,7.3,7.3
+Re-Animator,7.2,8.2,9.4,7.8,7.3
+Meet the Parents,6.7,7.9,8.4,8.6,7.3
+Last Life in the Universe,7.5,9.0,9.0,8.3,7.3
+Super Size Me,7.2,7.2,9.2,7.5,7.3
+I'm Not Scared,7.4,8.7,9.0,7.6,7.3
+Casino,6.3,9.3,7.9,8.7,7.3
+Gilbert,8.8,8.7,9.5,7.0,7.3
+Working Girl,6.8,6.7,8.3,8.2,7.3
+Mad Max,6.8,7.0,9.1,7.0,7.3
+Indie Game: The Movie,7.6,9.1,9.4,8.2,7.3
+L.I.E.,7.1,7.8,8.4,6.5,7.3
+Our Lady of the Assassins,6.8,6.8,7.8,7.2,7.3
+Space Cowboys,6.5,5.3,7.8,6.2,7.3
+Beyond the Mat,7.6,8.3,8.2,7.9,7.3
+Wonder Boys,7.2,8.3,8.1,7.9,7.3
+Not One Less,7.7,9.0,9.6,7.8,7.3
+Straw Dogs,7.4,8.2,8.2,7.6,7.3
+Boiling Point,6.8,6.4,9.4,7.3,7.3
+Cars,7.2,8.0,7.4,7.5,7.3
+Spider-Man,7.3,6.7,9.0,8.0,7.3
+Zombieland,7.1,8.6,8.9,8.5,7.3
+Big,7.3,8.2,9.8,8.3,7.3
+Girl,5.2,3.3,5.7,6.1,7.3
+Rope,7.9,9.0,9.2,8.4,7.3
+Breakdown,6.1,3.6,1.0,8.4,7.3
+Share,7.1,3.6,8.6,5.1,7.3
+River's Edge,6.9,7.6,8.8,7.1,7.3
+Mission: Impossible - Ghost Protocol,7.4,7.6,9.3,7.9,7.3
+Hive,6.7,8.1,10.0,6.1,7.3
+Cold in July,6.7,6.7,8.4,7.3,7.3
+Metal: A Headbanger's Journey,8.0,9.1,9.0,8.0,7.3
+Shattered Glass,7.1,7.9,9.2,7.7,7.3
+Innocence,6.7,3.3,1.9,8.2,7.3
+Bull Durham,7.1,8.2,9.7,8.4,7.3
+War of the Worlds,6.5,4.2,7.5,7.5,7.3
+Thirst,5.4,5.2,10.0,7.6,7.3
+Notes on a Scandal,7.4,8.3,8.8,7.9,7.3
+American Sniper,7.3,8.4,7.2,6.5,7.2
+Bros,6.2,9.0,8.9,4.1,7.2
+Stevie,6.9,7.0,6.0,8.1,7.2
+Road to Perdition,7.7,8.6,8.1,7.9,7.2
+Go,7.2,7.8,9.1,8.5,7.2
+Antz,6.5,5.2,9.2,8.5,7.2
+Gone Baby Gone,7.6,8.6,9.5,7.7,7.2
+The Insult,7.6,8.8,8.6,8.2,7.2
+Magic Mike,6.1,6.0,7.8,6.1,7.2
+Straight Outta Compton,7.8,9.1,8.8,7.7,7.2
+Captain Fantastic,8.6,8.5,8.3,7.8,7.2
+Matilda,3.6,7.3,9.1,7.6,7.2
+Bowling for Columbine,8.0,8.3,9.5,7.1,7.2
+Groundhog Day,8.0,8.8,9.4,8.5,7.2
+JFK,8.0,8.8,8.4,8.4,7.2
+"Love, Simon",7.5,8.8,9.2,8.1,7.2
+In the House,6.8,8.4,8.8,7.4,7.2
+Exotica,7.0,8.3,9.5,6.2,7.2
+City of Gold,7.1,8.0,8.9,7.4,7.2
+Gran Torino,8.1,9.0,8.1,7.9,7.2
+All That Jazz,7.8,8.5,8.7,8.0,7.2
+Seabiscuit,7.3,7.6,7.8,7.1,7.2
+Kissing Jessica Stein,6.6,6.5,8.3,7.9,7.2
+3-Iron,7.9,9.4,8.7,8.3,7.2
+Welcome to Sarajevo,6.7,7.4,7.8,6.3,7.2
+Happy End,7.9,5.4,7.0,6.5,7.2
+Earth,7.2,7.1,7.5,6.4,7.2
+Bone Tomahawk,7.6,7.4,9.1,7.2,7.2
+Risk,5.2,5.0,8.0,7.2,7.2
+Phantasm,6.6,6.7,7.4,7.5,7.2
+7 Days,3.7,8.0,8.6,7.0,7.2
+Superman Returns,6.1,6.1,7.4,6.9,7.2
+Pi,7.3,8.5,8.8,7.4,7.2
+Presumed Innocent,6.9,6.7,8.6,7.6,7.2
+Wreck-It Ralph,7.7,8.6,8.7,8.3,7.2
+Hellboy,6.8,4.8,1.7,7.6,7.2
+Betting on Zero,7.2,7.9,10.0,8.2,7.2
+Sleepless in Seattle,6.8,7.5,7.5,7.0,7.2
+"Hail, Caesar!",6.3,4.4,8.6,6.0,7.2
+East of Eden,7.8,9.0,8.6,7.7,7.2
+Igby Goes Down,6.9,8.0,7.5,7.3,7.2
+Safety Not Guaranteed,6.9,8.0,9.1,7.4,7.2
+Christine,6.3,7.1,8.9,6.8,7.2
+Die Hard,8.2,9.4,9.4,5.5,7.2
+Star Trek Into Darkness,7.5,8.9,8.4,7.6,7.2
+Dope,6.9,8.3,8.8,7.5,7.2
+Alice,7.7,5.7,7.1,4.5,7.2
+Bellflower,6.3,6.3,7.3,5.7,7.2
+Bob & Carol & Ted & Alice,6.7,6.6,8.2,6.8,7.2
+50/50,7.9,8.8,9.3,8.4,7.2
+War Horse,7.5,7.4,7.5,6.7,7.2
+Super 8,5.7,7.5,8.1,7.3,7.2
+Heaven Can Wait,7.4,6.8,8.7,7.5,7.2
+Easy A,7.0,7.7,8.5,7.2,7.2
+Priceless,6.4,7.7,4.0,7.0,7.2
+Transsiberian,6.6,6.5,9.1,6.6,7.2
+Down and Out in Beverly Hills,6.2,5.3,7.9,7.7,7.2
+Barry,6.3,5.1,8.0,5.9,7.2
+Slow West,6.9,7.4,9.2,6.6,7.2
+Nowhere in Africa,7.5,8.8,8.5,7.8,7.2
+Felicia's Journey,7.0,7.1,8.8,6.7,7.2
+Your Sister's Sister,6.7,6.6,8.3,6.4,7.2
+Koyaanisqatsi,8.2,9.1,9.0,7.3,7.2
+Shame,6.5,7.5,7.9,7.7,7.2
+Akeelah and the Bee,7.4,8.1,8.5,7.7,7.2
+Brick,7.2,8.6,8.0,7.1,7.2
+Doctor Strange,6.6,8.6,8.9,8.0,7.2
+Death and the Maiden,7.2,8.1,8.2,7.7,7.2
+Watcher,8.9,6.7,8.8,6.2,7.2
+Ghost Town,6.0,6.0,8.5,6.9,7.2
+Mostly Martha,7.2,8.9,9.2,8.2,7.2
+Walk the Line,7.8,9.0,8.2,8.3,7.2
+Six Degrees of Separation,6.8,7.1,8.8,6.8,7.2
+Terri,6.8,6.1,8.7,6.8,7.2
+Daylight,5.9,6.4,9.1,5.5,7.2
+Match Point,8.0,8.1,7.7,8.4,7.2
+"They Shoot Horses, Don't They?",7.8,8.9,8.5,7.5,7.2
+Still Alice,7.5,8.5,8.5,7.8,7.2
+Ethel & Ernest,7.7,8.7,9.7,6.7,7.2
+Strictly Ballroom,7.2,8.7,8.8,7.2,7.2
+The Silence,7.8,2.5,2.9,6.3,7.2
+Despicable Me,7.6,8.3,8.0,7.6,7.2
+Real Genius,6.9,8.3,7.7,7.5,7.1
+Harry Potter and the Order of the Phoenix,7.5,8.1,7.8,7.3,7.1
+Smashed,6.5,6.8,8.3,8.0,7.1
+Paradise Now,6.0,8.7,8.9,7.8,7.1
+Chasing Amy,7.2,8.3,8.7,8.3,7.1
+F/X,6.7,5.3,8.9,7.8,7.1
+Land of the Dead,6.2,5.1,7.4,6.7,7.1
+Being Elmo: A Puppeteer's Journey,7.6,8.7,9.5,7.3,7.1
+The Imitation Game,7.8,9.1,9.0,8.1,7.1
+Wal-Mart: The High Cost of Low Price,6.8,6.5,9.0,7.5,7.1
+Leap Year,6.1,4.7,2.3,7.4,7.1
+Bugsy Malone,6.8,8.0,8.1,7.0,7.1
+Married to the Mob,6.2,4.9,9.0,8.5,7.1
+The Raid 2,7.9,8.7,8.2,8.4,7.1
+All the Real Girls,6.7,7.8,7.1,6.8,7.1
+Tadpole,6.2,5.7,7.7,6.3,7.1
+Spy Kids,5.6,4.7,9.3,7.9,7.1
+Wonderland,7.1,6.5,3.4,8.4,7.1
+Luca,6.8,8.6,9.1,7.7,7.1
+Prey,5.3,1.9,1.3,6.3,7.1
+Searching,6.2,8.7,9.2,7.9,7.1
+Rudy,7.5,9.0,7.8,8.2,7.1
+Thank You for Smoking,7.5,8.7,8.6,7.4,7.1
+Pete's Dragon,6.3,6.0,5.6,6.7,7.1
+Monkey Shines,6.2,4.1,5.5,6.6,7.1
+Ema,7.4,6.3,8.8,5.2,7.1
+Intimate Strangers,6.5,6.9,8.6,7.6,7.1
+Intolerable Cruelty,6.3,4.8,7.5,6.6,7.1
+Bowfinger,6.5,6.1,8.1,8.3,7.1
+Tropic Thunder,7.1,7.1,8.2,7.4,7.1
+Disgrace,6.5,6.2,8.3,6.5,7.1
+Wildcat,5.6,8.7,9.2,6.9,7.1
+Mad Max Beyond Thunderdome,6.2,4.9,8.1,6.2,7.1
+The Crow,7.5,9.0,8.4,8.0,7.1
+Dolls,6.3,5.1,6.0,6.9,7.1
+Tangled,5.9,8.7,8.9,8.4,7.1
+Edge of Tomorrow,7.9,9.0,9.1,8.6,7.1
+Three,7.8,2.7,1.7,6.7,7.1
+Mulan,7.7,4.7,7.2,8.4,7.1
+Swingers,7.2,8.9,8.8,4.2,7.1
+1985,8.1,8.2,9.6,7.0,7.1
+Rapt,6.5,6.7,9.7,6.7,7.1
+Hacksaw Ridge,8.1,9.1,8.4,8.2,7.1
+That Thing You Do!,7.0,7.8,9.4,7.8,7.1
+Rosewood,7.2,8.3,8.7,8.6,7.1
+Deep Blue,6.2,8.0,6.7,6.8,7.1
+From Up on Poppy Hill,7.4,7.9,8.7,7.5,7.1
+22 Jump Street,7.0,7.7,8.4,8.0,7.1
+We Are What We Are,5.7,5.0,8.6,5.3,7.1
+Young Adult,6.3,4.9,8.0,6.5,7.1
+Aileen: Life and Death of a Serial Killer,7.1,7.3,8.5,6.6,7.1
+Nicholas Nickleby,7.2,7.6,7.8,6.1,7.1
+Real Women Have Curves,6.9,7.5,8.5,4.7,7.1
+On the Town,7.3,8.3,9.3,6.0,7.1
+Mad Hot Ballroom,7.4,8.3,8.4,6.8,7.1
+Bronson,7.0,7.4,7.6,7.5,7.1
+Mansfield Park,6.7,7.7,7.7,7.0,7.1
+Next Stop Wonderland,6.6,7.4,7.4,5.2,7.1
+Macbeth,5.3,7.6,8.6,7.2,7.1
+Warrior,7.2,9.2,8.4,8.5,7.1
+Requiem for a Dream,8.3,9.3,7.8,8.7,7.1
+Where the Wild Things Are,6.7,5.7,7.3,6.5,7.1
+Fallen Angels,6.4,8.6,9.5,7.8,7.1
+Collateral,7.5,8.4,8.6,8.5,7.1
+Carandiru,7.6,8.6,6.8,7.4,7.1
+Carnage,3.5,1.4,2.5,5.0,7.1
+Shadow of the Vampire,6.9,7.4,8.1,7.6,7.1
+Twin Falls Idaho,7.1,8.4,7.8,6.0,7.1
+Pleasantville,5.9,7.9,8.6,8.6,7.1
+Waiting for Guffman,7.4,9.1,9.1,7.2,7.1
+House of Sand and Fog,7.5,8.3,7.4,8.5,7.1
+Clockers,6.9,7.4,7.3,7.0,7.1
+Manhattan Murder Mystery,7.3,8.3,9.4,7.5,7.1
+Don't Breathe,6.4,7.9,8.8,8.0,7.1
+Molly's Game,7.4,8.4,8.2,7.4,7.1
+Star Trek IV: The Voyage Home,7.3,8.1,8.2,7.6,7.1
+Beyond the Gates,5.1,2.9,8.3,7.4,7.1
+Mayor of the Sunset Strip,7.0,7.7,8.7,7.8,7.1
+Breath,7.5,7.3,8.0,8.3,7.1
+Holes,7.0,7.6,7.8,7.7,7.1
+In July,7.6,8.9,8.9,7.3,7.1
+Tape,7.2,7.6,7.7,7.3,7.1
+Waking Ned Devine,7.3,8.8,8.4,7.4,7.1
+Drinking Buddies,6.1,4.9,8.4,6.5,7.1
+The Theory of Everything,6.5,8.4,8.0,7.8,7.1
+Dogman,8.4,7.8,8.4,8.2,7.1
+The Road,8.0,5.9,6.5,6.2,7.1
+Cam,7.7,5.3,9.3,6.6,7.1
+Dawn of the Dead,7.8,9.0,9.3,7.1,7.1
+Sweetheart,6.0,5.0,9.3,5.2,7.1
+Rain,7.2,8.4,8.5,4.7,7.1
+Sunshine,7.9,7.3,7.6,8.1,7.1
+October Sky,7.8,8.8,9.1,8.3,7.1
+Men in Black,7.7,8.0,9.1,8.6,7.1
+Piranha,2.8,4.4,7.4,6.3,7.1
+Donnie Darko,8.0,8.0,8.7,7.9,7.1
+Bliss,5.4,4.4,2.8,8.2,7.1
+Ghostbusters,7.8,8.8,9.5,8.3,7.1
+Our Brand Is Crisis,6.9,3.4,3.7,7.7,7.1
+Dracula,7.4,5.8,5.9,7.0,7.1
+Rocky,6.6,6.9,9.2,8.6,7.0
+Fort Tilden,5.6,4.8,8.8,6.0,7.0
+Prisoners,6.0,8.7,8.1,8.5,7.0
+Bird People,6.1,3.9,6.1,6.9,7.0
+Batman Begins,8.2,9.4,8.4,8.3,7.0
+Cure,7.5,8.4,9.3,7.6,7.0
+Bad Company,6.2,3.1,2.7,6.1,7.0
+Quills,7.2,8.3,7.5,7.2,7.0
+Hamlet,2.9,9.1,10.0,,8.2
+Good Will Hunting,8.3,9.4,9.7,8.6,7.0
+In & Out,6.4,5.2,7.3,2.4,7.0
+Smoke,6.7,8.9,8.8,7.6,7.0
+"I Love You, Man",7.0,7.4,8.3,7.8,7.0
+The Walk,5.6,6.7,2.1,7.5,7.0
+Late Night,7.4,7.7,7.9,6.0,7.0
+Galaxy Quest,7.4,7.9,9.0,8.1,7.0
+Sweet and Lowdown,7.2,8.2,7.7,7.9,7.0
+Bringing Out the Dead,6.8,7.0,7.3,4.6,7.0
+Cookie's Fortune,6.8,6.6,8.6,7.4,7.0
+1900,7.7,8.4,5.7,5.2,7.0
+Catch-22,7.1,7.6,8.1,6.7,7.0
+Starman,7.0,7.0,8.6,8.0,7.0
+Vicky Cristina Barcelona,7.1,7.4,8.0,7.0,7.0
+Public Enemies,7.4,5.9,6.8,7.5,7.0
+Resurrection,5.1,7.6,8.3,5.8,7.0
+Tsotsi,7.2,8.6,8.2,7.7,7.0
+The Nice Guys,6.5,7.9,9.1,7.7,7.0
+Bob Roberts,7.0,7.8,9.5,4.5,7.0
+The Little Prince,6.3,8.4,9.2,7.7,7.0
+Owning Mahowny,7.0,7.5,7.8,7.1,7.0
+Devils on the Doorstep,8.2,9.5,9.1,7.2,7.0
+Girlfight,6.7,7.5,8.7,7.1,7.0
+Spring,7.2,7.0,8.5,7.1,7.0
+Unstrung Heroes,6.7,6.1,7.5,6.2,7.0
+Roger & Me,7.5,7.9,10.0,5.6,7.0
+Bad Lieutenant,7.0,7.3,7.7,7.0,7.0
+Test,7.5,5.7,8.2,6.8,7.0
+Barfly,7.1,8.2,7.6,6.4,7.0
+Captain America: The Winter Soldier,7.7,9.2,9.0,8.3,7.0
+Gremlins,7.3,7.8,8.6,7.2,7.0
+Millennium Actress,7.8,9.0,9.3,7.9,7.0
+Freaky Friday,6.3,5.7,8.8,8.1,7.0
+Gunner Palace,6.6,6.6,8.5,8.2,7.0
+Curse of the Golden Flower,7.0,6.5,6.5,7.5,7.0
+Elephant,7.1,7.9,7.4,7.0,7.0
+Elling,7.5,9.1,8.5,6.6,7.0
+Primary Colors,6.7,6.4,8.1,8.2,7.0
+Ed Wood,7.8,8.8,9.3,7.2,7.0
+Liar Liar,6.9,7.5,8.3,8.7,7.0
+Dead Calm,6.8,6.3,8.3,7.8,7.0
+Happy Together,5.9,9.1,8.4,8.0,7.0
+Who Killed the Electric Car?,7.6,8.4,8.9,8.0,7.0
+Outsourced,7.0,7.3,7.6,7.3,7.0
+Teddy Bear,8.2,8.0,9.4,8.2,7.0
+Audition,6.5,10.0,8.0,7.9,7.0
+Lethal Weapon 2,7.3,7.7,8.2,8.1,7.0
+Wuthering Heights,7.1,4.7,6.9,6.5,7.0
+21 Grams,7.6,8.6,8.1,7.7,7.0
+Benjamin,6.1,7.7,9.0,2.6,7.0
+The Poseidon Adventure,7.1,7.6,8.2,7.7,7.0
+Pulse,5.4,6.0,7.6,7.0,7.0
+Pure,6.9,5.9,7.4,7.8,7.0
+Hellbender,7.6,5.3,9.7,5.4,7.0
+Contagion,4.8,6.3,8.5,7.0,7.0
+Fido,6.7,7.2,7.3,8.0,7.0
+Pieces of April,7.0,7.3,8.4,8.0,7.0
+Bad Santa,7.1,7.5,7.8,8.6,7.0
+It Might Get Loud,7.6,8.5,7.9,8.3,7.0
+Places in the Heart,7.4,8.3,8.9,8.1,7.0
+I.O.U.S.A.,7.5,8.6,8.8,6.5,7.0
+Fearless,7.1,8.0,8.5,8.3,7.0
+Cedar Rapids,6.3,5.9,8.6,7.0,7.0
+Beetlejuice,7.5,8.2,8.5,8.6,7.0
+Lars and the Real Girl,7.3,8.4,8.1,7.9,7.0
+Boy,6.8,8.6,8.8,7.3,7.0
+Clerks,7.7,8.9,9.0,8.4,7.0
+Thumbsucker,6.5,7.1,7.1,7.1,6.9
+Kicks,6.4,7.3,8.5,6.9,6.9
+Inglourious Basterds,8.4,8.8,8.9,7.8,6.9
+Dragon: The Bruce Lee Story,7.0,7.9,7.4,6.8,6.9
+Never Let Me Go,6.2,7.0,7.1,7.7,6.9
+Batman,6.1,8.4,7.3,8.1,6.9
+Revolutionary Road,7.3,7.1,6.7,7.3,6.9
+Live Free or Die Hard,7.1,8.6,8.2,6.9,6.9
+Training Day,7.7,8.9,7.4,8.7,6.9
+Body Double,6.8,6.5,7.7,6.8,6.9
+Romeo and Juliet,7.2,5.4,7.8,7.4,6.9
+Time After Time,7.1,7.2,8.7,7.7,6.9
+Lion,5.0,9.1,8.4,7.9,6.9
+Cinderella Man,8.0,9.1,8.0,8.6,6.9
+Rocketman,7.8,8.8,8.9,7.4,6.9
+Monsoon,4.4,8.3,6.7,6.8,6.9
+Duplicity,5.2,3.7,6.5,5.1,6.9
+It,7.2,8.1,8.8,7.8,6.9
+Funny Games,7.5,5.4,5.1,5.5,6.9
+Monster's Ball,7.1,6.7,8.5,4.0,6.9
+Small Time Crooks,6.6,5.7,6.6,6.6,6.9
+There's Something About Mary,7.1,6.1,8.4,8.4,6.9
+Penguins,4.7,8.0,9.2,7.1,6.9
+Julia,7.7,7.0,7.4,7.4,6.9
+High Plains Drifter,7.4,8.6,9.4,7.8,6.9
+Blockers,6.2,5.1,8.4,6.2,6.9
+Out of Africa,7.1,8.2,6.1,7.0,6.9
+Nurse Betty,6.3,4.5,8.3,1.1,6.9
+Slums of Beverly Hills,6.7,6.8,8.1,7.7,6.9
+American Hardcore,7.3,7.8,7.2,8.0,6.9
+Chronicle,8.5,7.1,8.5,7.4,6.9
+Arthur Christmas,7.1,7.7,9.2,7.4,6.9
+Chronic,6.6,5.5,7.6,6.5,6.9
+Into the Woods,8.7,4.9,7.1,6.0,6.9
+Doctor Zhivago,7.9,8.8,8.4,8.2,6.9
+Leto,8.0,7.6,7.9,7.6,6.9
+Captain Underpants: The First Epic Movie,6.2,6.2,8.7,6.7,6.9
+Predestination,7.5,7.5,8.4,7.9,6.9
+Gremlins 2: The New Batch,6.4,5.8,7.1,6.6,6.9
+Sunshine State,6.8,5.8,8.0,6.0,6.9
+"O Brother, Where Art Thou?",7.7,8.9,7.9,7.8,6.9
+Bastards,6.4,3.6,6.8,5.5,6.9
+Raising Arizona,7.3,8.5,9.0,8.4,6.9
+Live Flesh,7.3,8.7,8.0,7.2,6.9
+Slacker,7.0,7.7,8.1,8.1,6.9
+25th Hour,7.6,8.5,7.9,8.4,6.9
+The Fault in Our Stars,8.5,8.5,8.1,7.4,6.9
+Welcome to Me,7.8,4.6,7.2,6.8,6.9
+Europa,7.6,8.8,8.1,7.7,6.9
+Inferno,7.0,6.0,6.3,7.0,6.9
+21 Jump Street,7.2,8.2,8.5,7.9,6.9
+Redbelt,6.7,6.5,6.7,6.6,6.9
+Hard Times,7.2,8.1,9.3,7.5,6.9
+Fair Game,5.9,3.3,6.4,6.8,6.9
+World's Greatest Dad,6.9,6.7,8.8,7.4,6.9
+Around the World in 80 Days,6.6,5.7,7.0,7.0,6.9
+The Drop,2.6,7.6,8.9,7.5,6.9
+Wilbur Wants to Kill Himself,6.8,7.1,8.4,7.9,6.9
+Kill Bill: Vol. 1,8.2,8.1,8.5,8.7,6.9
+Divided We Fall,7.5,9.0,9.0,7.6,6.9
+Salvador,7.4,8.5,9.0,7.4,6.9
+The Monster,6.2,4.0,8.0,6.0,6.9
+Scott Pilgrim vs. the World,7.5,8.4,8.2,8.0,6.9
+The Golden Voyage of Sinbad,6.8,6.4,7.5,6.8,6.9
+Man Up,7.3,6.9,8.0,6.9,6.9
+Starter for 10,6.7,6.6,9.0,7.3,6.9
+Infamous,8.0,3.8,2.1,8.1,6.8
+Star Trek Beyond,7.6,8.0,8.6,6.6,6.8
+Icarus,7.6,9.3,9.2,7.4,6.8
+North Country,7.3,7.6,6.9,7.4,6.8
+The Night,5.9,5.1,8.0,5.0,6.8
+Like Crazy,6.6,6.1,7.2,7.2,6.8
+The Hunger Games,8.2,8.1,8.4,7.0,6.8
+Jump Tomorrow,7.1,8.8,8.2,8.2,6.8
+eXistenZ,6.8,6.9,7.4,6.0,6.8
+Eyes Wide Shut,7.5,7.4,7.6,5.7,6.8
+Babe: Pig in the City,5.8,4.1,6.5,6.6,6.8
+Doubt,4.4,7.8,7.9,7.9,6.8
+Braveheart,7.8,8.5,7.5,8.3,6.8
+Deepwater Horizon,7.1,8.2,8.2,7.1,6.8
+Lamb,6.3,6.1,8.6,6.1,6.8
+End of Watch,7.3,8.6,8.5,7.6,6.8
+Manhunt,7.8,2.7,6.7,4.4,6.8
+Apocalypto,7.8,7.9,6.5,7.6,6.8
+Dirty Rotten Scoundrels,7.4,8.4,8.9,8.1,6.8
+Twister,5.3,5.8,6.3,7.1,6.8
+Smile,7.1,7.7,8.0,,7.9
+Chopper,7.5,8.9,7.6,4.5,6.8
+The Meddler,7.8,5.6,8.5,6.1,6.8
+The Conjuring,7.5,8.3,8.6,8.1,6.8
+Henry Fool,7.1,8.2,8.9,6.2,6.8
+We Need to Talk About Kevin,7.5,7.8,7.5,7.4,6.8
+Watermark,4.8,5.8,7.7,5.7,6.8
+Monster House,7.0,6.4,7.5,8.2,6.8
+Black Mass,5.0,6.8,7.3,7.5,6.8
+The Wave,7.1,6.0,6.8,6.3,6.8
+The Hateful Eight,7.8,7.7,7.4,7.6,6.8
+Shaolin Soccer,7.3,8.4,9.0,8.4,6.8
+Back to School,6.7,6.8,8.6,8.2,6.8
+All of Me,5.9,10.0,10.0,5.8,6.8
+10,6.1,5.3,6.8,6.3,6.8
+The Great Train Robbery,7.3,6.9,7.4,6.1,6.8
+Office Space,7.2,9.3,8.0,6.7,6.8
+Charlotte's Web,6.9,6.2,7.8,6.9,6.8
+For Your Consideration,6.3,4.3,5.3,6.0,6.8
+Hustle & Flow,7.3,8.2,8.2,8.4,6.8
+Alice in Wonderland,6.2,7.8,8.4,7.8,6.8
+Why Don't You Play in Hell?,7.1,8.0,8.0,7.4,6.8
+Miracle,8.1,9.0,8.1,7.7,6.8
+Heaven,6.7,6.7,6.3,7.5,6.8
+Bread and Tulips,7.3,8.6,7.1,6.3,6.8
+Little Voice,7.0,7.4,8.0,8.0,6.8
+Popstar: Never Stop Never Stopping,6.7,6.5,7.9,8.2,6.8
+Take This Waltz,6.5,5.8,7.9,6.5,6.8
+Bears,7.1,7.8,8.9,7.1,6.8
+Clueless,6.9,7.6,8.1,8.2,6.8
+Hustle,6.2,9.3,9.3,7.0,6.8
+Avengers: Infinity War,8.4,9.2,8.5,8.5,6.8
+Sorcerer,7.7,8.4,8.0,8.5,6.8
+Fletch,6.9,8.1,7.7,7.5,6.8
+John Wick,8.3,8.1,8.6,8.1,6.8
+Chef,4.1,8.5,8.7,7.7,6.8
+Why We Fight,7.0,8.8,7.8,7.7,6.8
+Down Terrace,6.4,6.2,8.6,5.5,6.8
+On Golden Pond,7.6,8.7,9.3,7.5,6.8
+Rise of the Planet of the Apes,7.6,7.7,8.2,7.8,6.8
+Shall We Dance?,7.7,8.9,9.1,7.5,6.8
+Timecrimes,7.1,7.9,9.0,7.2,6.8
+Yentl,6.6,7.5,6.5,7.7,6.8
+Hair,7.5,8.7,8.2,7.1,6.8
+My Cousin Vinny,7.6,8.7,8.7,7.7,6.8
+Delirious,5.8,3.9,2.9,7.6,6.8
+Stripes,6.8,7.9,8.8,7.3,6.8
+Paranormal Activity,6.3,5.7,8.3,5.9,6.8
+Afterglow,6.0,4.3,7.6,5.0,6.8
+Star Trek II: The Wrath of Khan,7.7,9.0,8.6,8.2,6.8
+Paris,2.5,6.6,6.6,5.5,6.8
+Fracture,7.5,7.3,7.2,8.4,6.8
+Departures,8.0,9.2,8.0,8.0,6.8
+Never Say Never Again,6.1,3.7,7.1,5.8,6.8
+Neighbors,4.4,4.9,5.7,6.3,6.8
+Jude,6.9,7.3,8.1,7.3,6.8
+Top Secret!,7.2,8.0,7.6,6.9,6.8
+Noah,5.0,4.1,7.5,5.4,6.8
+Black Widow,6.7,9.1,7.9,,7.0
+Whip It,6.9,7.4,8.5,6.8,6.8
+Dick Tracy,6.6,5.3,6.3,7.6,6.8
+Marvin's Room,6.7,6.3,8.4,8.0,6.8
+Dragonslayer,6.6,6.2,8.3,6.1,6.8
+Primer,6.7,7.9,7.3,7.5,6.8
+The Girl on the Train,6.0,4.8,4.4,5.3,6.8
+Four Lions,7.3,8.0,8.3,7.8,6.8
+The Falcon and the Snowman,6.8,6.9,8.3,8.3,6.8
+Sophie's Choice,7.5,8.5,7.8,7.8,6.8
+Guinevere,4.8,5.4,8.6,8.1,6.8
+Jurassic Park,8.2,9.1,9.1,8.8,6.8
+Gladiator,6.5,8.7,7.9,8.8,6.7
+Moon,5.0,8.9,9.0,8.3,6.7
+Forgetting Sarah Marshall,7.1,7.6,8.3,7.5,6.7
+Home,8.5,4.0,3.8,7.0,6.7
+Bottle Rocket,6.7,7.9,8.5,8.5,6.7
+Thirteen Days,7.3,8.0,8.3,7.5,6.7
+Interiors,7.3,7.9,8.1,7.0,6.7
+Kung Fu Panda 2,7.2,7.4,8.1,7.9,6.7
+At Close Range,6.9,7.9,8.6,7.3,6.7
+In Bruges,7.9,8.7,8.4,8.5,6.7
+Running on Empty,5.7,6.9,8.1,7.6,6.7
+Phantom of the Paradise,7.3,8.4,8.7,7.3,6.7
+Bolt,3.8,7.4,9.0,8.2,6.7
+Bananas,6.9,7.4,8.3,6.5,6.7
+This Is the End,6.6,7.1,8.3,7.1,6.7
+Sound of My Voice,6.6,6.6,7.5,7.3,6.7
+Fatal Attraction,6.9,7.2,7.5,8.2,6.7
+Fahrenheit 9/11,7.5,7.0,8.2,6.2,6.7
+Stir of Echoes,6.9,7.0,6.7,8.3,6.7
+Summer of Sam,6.7,6.0,5.0,1.4,6.7
+Die Hard 2,7.1,7.0,7.0,8.3,6.7
+The Wall,6.9,4.2,6.5,8.0,6.7
+Charlie Wilson's War,7.0,7.3,8.2,6.7,6.7
+A Midsummer Night's Dream,5.6,6.7,10.0,8.4,6.7
+Ip Man 2,7.5,8.4,9.7,7.6,6.7
+Dead Men Don't Wear Plaid,6.8,7.2,7.7,4.8,6.7
+The Stanford Prison Experiment,6.8,7.5,8.4,7.6,6.7
+Walking and Talking,6.7,7.0,8.8,5.4,6.7
+Haywire,6.5,4.1,8.0,7.6,6.7
+Kink,6.6,5.2,8.8,5.0,6.7
+Perfect Blue,8.0,8.9,8.3,8.9,6.7
+Akira,8.0,9.0,9.1,8.6,6.7
+Silent Running,6.6,6.6,7.1,6.3,6.7
+Annette,8.2,7.6,7.1,6.6,6.7
+"Good Morning, Vietnam",7.3,8.2,8.9,7.8,6.7
+Shallow Grave,7.3,8.3,7.1,8.4,6.7
+Open Range,6.9,8.4,7.9,8.5,6.7
+Enemy of the State,7.3,7.8,7.0,8.2,6.7
+Ronin,7.2,8.0,7.0,8.2,6.7
+Private Parts,6.4,6.8,7.3,7.0,6.7
+Horror of Dracula,7.2,8.1,9.0,7.4,6.7
+Blackboard Jungle,7.4,7.8,7.4,7.6,6.7
+Poison,6.3,6.8,7.9,6.0,6.7
+Runaway Train,7.2,7.6,8.3,6.8,6.7
+The Circle,6.3,7.9,9.4,7.3,6.7
+Garden State,7.4,8.8,8.6,8.5,6.7
+The Green Prince,7.2,8.3,7.7,5.7,6.7
+While You Were Sleeping,6.8,7.9,8.1,8.3,6.7
+Freaky,8.5,8.0,8.3,6.4,6.7
+1984,6.9,7.1,7.3,5.9,6.7
+Furious 7,8.2,8.2,8.1,6.8,6.7
+Reality Bites,6.6,7.4,6.3,8.0,6.7
+Stranger Than Fiction,5.8,5.6,3.8,8.5,6.7
+Arachnophobia,6.5,5.4,9.3,8.3,6.7
+Damsels in Distress,8.4,3.9,7.5,5.4,6.7
+Selena,6.8,7.7,6.7,8.8,6.7
+Barney's Version,7.3,7.8,7.7,6.4,6.7
+Over the Hedge,4.4,7.1,7.5,7.9,6.7
+Cinemania,7.1,6.5,8.6,7.0,6.7
+Confessions of a Dangerous Mind,7.0,7.5,7.9,8.4,6.7
+Me Without You,6.7,7.8,6.7,7.3,6.7
+Maps to the Stars,6.2,4.4,6.2,6.0,6.7
+Hipsters,7.1,9.0,8.0,7.1,6.7
+As Good as It Gets,7.7,8.6,8.6,8.4,6.7
+Trust,7.4,7.0,7.1,6.8,6.7
+Nancy,7.3,5.6,8.6,6.4,6.7
+Outrage,6.7,7.6,7.7,7.1,6.7
+True Stories,7.2,8.3,7.9,5.8,6.7
+Somewhere,6.0,4.8,7.0,6.3,6.7
+Oxygen,6.0,5.5,7.7,6.9,6.7
+Frequency,7.4,8.1,7.0,8.6,6.7
+Barbershop: The Next Cut,5.9,6.6,9.0,5.8,6.7
+The Book of Life,6.5,7.7,8.3,7.3,6.7
+Flanders,6.5,5.7,6.6,6.8,6.7
+Ruby Sparks,7.2,7.5,7.9,8.1,6.7
+Rock School,6.5,6.4,8.1,7.3,6.7
+Fiddler on the Roof,8.0,9.2,8.4,8.1,6.7
+Gabriel,6.1,7.9,8.4,7.8,6.7
+I Saw the Devil,7.8,8.7,8.1,7.9,6.7
+Kill List,6.4,5.8,7.8,6.5,6.7
+Kung Fu Panda 3,7.1,7.8,8.6,7.5,6.6
+Tupac: Resurrection,7.9,9.0,7.8,8.4,6.6
+World Trade Center,6.0,6.0,6.6,5.6,6.6
+Wonder,7.4,8.8,8.5,7.7,6.6
+Jimi: All Is by My Side,5.7,3.6,6.5,5.0,6.6
+Innerspace,6.8,6.5,8.2,8.1,6.6
+The Shining,8.4,9.3,8.2,8.7,6.6
+The Wind,8.0,4.8,8.1,6.1,6.6
+Zelary,7.5,9.1,7.2,7.5,6.6
+Behind the Mask: The Rise of Leslie Vernon,6.7,7.5,7.6,7.7,6.6
+Son of Rambow,7.0,7.9,7.4,7.1,6.6
+In Good Company,6.2,5.4,8.2,8.3,6.6
+Ghost in the Shell 2: Innocence,7.4,8.0,6.4,7.4,6.6
+Cop Car,6.3,5.3,8.2,6.1,6.6
+Terminator 3: Rise of the Machines,6.3,4.6,6.9,7.4,6.6
+Julie & Julia,7.0,7.0,7.8,7.3,6.6
+Crimson Peak,6.5,5.5,7.3,7.6,6.6
+Avengers: Age of Ultron,7.3,8.2,7.6,7.1,6.6
+Captain America: The First Avenger,6.9,7.5,8.0,6.8,6.6
+Born to Be Wild,5.7,8.4,9.8,7.4,6.6
+City Island,7.3,7.9,8.2,8.2,6.6
+Something's Gotta Give,6.7,6.9,7.2,6.2,6.6
+Sausage Party,6.1,5.0,8.2,5.6,6.6
+Dark Star,6.2,6.4,7.7,5.4,6.6
+Diary of the Dead,6.5,4.1,6.1,5.3,6.6
+Emma,7.0,7.7,8.4,8.2,6.6
+Dead Again,6.8,7.6,8.2,8.0,6.6
+Wiener-Dog,5.9,4.1,7.4,5.8,6.6
+Crimson Tide,7.3,8.3,8.9,7.1,6.6
+Cyrano,6.9,8.6,8.5,5.5,6.6
+L.A. Story,6.7,7.5,9.3,7.2,6.6
+Ever After,7.5,3.3,8.0,8.2,6.6
+The Founder,6.0,8.2,8.1,7.4,6.6
+Moonraker,6.2,4.3,5.9,5.9,6.6
+Frantic,6.9,6.4,7.6,8.1,6.6
+Seven Psychopaths,7.1,7.1,8.3,6.8,6.6
+Dog Days,6.6,6.9,4.7,8.0,6.6
+Tuck Everlasting,6.5,7.0,6.0,8.4,6.6
+Pecker,6.3,6.4,5.2,7.4,6.6
+Steamboy,6.8,6.8,6.0,8.3,6.6
+American Me,7.1,9.0,7.3,6.2,6.6
+Blue Thunder,6.4,5.2,7.8,7.8,6.6
+Cowboys,7.5,5.9,9.2,7.4,6.6
+Bronco Billy,6.1,4.8,7.5,6.6,6.6
+Jealousy,5.4,4.5,7.3,5.3,6.6
+Idiocracy,6.5,6.0,7.1,7.4,6.6
+The BFG,6.7,5.7,7.4,6.0,6.6
+Shaft,6.6,9.4,3.4,7.2,6.6
+Diggers,5.4,5.7,7.0,6.5,6.6
+Crash,4.3,8.8,7.4,8.5,6.6
+Tommy,6.6,7.1,7.1,8.0,6.6
+The Danish Girl,7.1,7.2,6.6,6.8,6.6
+Game Night,9.0,7.7,8.5,7.2,6.6
+Don Jon,6.5,5.8,8.0,6.9,6.6
+So Close,6.6,7.7,8.2,7.0,6.6
+The Eye,5.5,7.2,6.4,6.9,6.6
+Bend It Like Beckham,6.7,7.3,8.5,7.6,6.6
+Truth,7.4,6.2,6.3,6.9,6.6
+Disorder,5.9,5.2,7.3,7.0,6.6
+Parents,6.1,5.4,5.3,6.6,6.6
+Dark City,6.7,8.5,7.5,8.6,6.6
+Stardust,4.3,2.2,1.9,8.5,6.6
+Talladega Nights: The Ballad of Ricky Bobby,6.6,7.3,7.1,6.5,6.6
+I Am Trying to Break Your Heart,7.4,9.0,8.8,4.0,6.6
+Valley Girl,6.4,8.2,5.9,7.7,6.6
+We Don't Live Here Anymore,6.3,5.4,6.5,7.6,6.6
+Strange Days,7.2,7.3,6.7,8.3,6.6
+Carlito's Way,7.9,9.1,8.1,8.3,6.6
+Byzantium,6.5,5.1,6.6,7.0,6.6
+Talk Radio,7.2,8.0,8.2,7.0,6.6
+Margot at the Wedding,6.0,4.0,5.2,6.0,6.6
+White Noise,5.5,3.1,0.7,5.4,6.6
+Kick-Ass,7.6,8.1,7.6,8.4,6.6
+King of New York,6.9,7.7,7.0,6.9,6.6
+Transamerica,7.4,8.3,7.7,7.8,6.6
+Philadelphia,7.7,8.9,8.1,7.7,6.6
+The Good Dinosaur,6.7,6.4,7.5,6.6,6.6
+Miami Vice,7.5,4.3,4.7,5.6,6.6
+Breaking,6.5,8.4,8.1,4.6,6.6
+"Paris, je t'aime",7.2,8.4,8.6,6.9,6.6
+Master,6.8,4.9,8.0,4.7,6.6
+Another Earth,7.4,6.6,6.5,6.3,6.6
+Let the Bullets Fly,7.3,7.2,7.6,7.0,6.6
+Marshall,6.7,8.4,8.1,6.6,6.6
+Butch Cassidy and the Sundance Kid,8.0,9.2,8.9,8.6,6.6
+Splice,5.8,3.7,7.5,5.5,6.6
+Barbershop,6.3,6.2,8.2,6.0,6.6
+Heist,4.1,4.1,2.9,8.4,6.6
+Bridget Jones's Diary,6.8,8.1,8.0,8.0,6.6
+Harriet,7.8,9.7,7.4,7.1,6.6
+Cobb,6.4,5.8,6.5,6.4,6.6
+Fantastic Beasts and Where to Find Them,7.2,7.9,7.4,7.3,6.6
+Beverly Hills Cop,7.4,8.2,8.3,8.4,6.6
+Becoming,6.7,5.7,9.3,6.6,6.6
+Earth Girls Are Easy,5.4,4.3,6.8,4.3,6.6
+Mission: Impossible III,6.9,6.9,7.1,7.7,6.6
+Shelter,5.2,8.5,6.0,8.3,6.6
+Soylent Green,7.0,7.0,6.9,6.5,6.6
+Frankie and Johnny,5.6,6.8,6.9,8.1,6.6
+Mean Girls,7.1,6.6,8.4,8.2,6.6
+Two Girls and a Guy,5.5,4.1,5.0,7.4,6.6
+Delicatessen,7.5,9.1,8.9,7.3,6.6
+Mrs. Parker and the Vicious Circle,6.4,6.1,7.6,5.8,6.6
+Deadpool 2,7.6,8.5,8.4,7.9,6.6
+The Amazing Spider-Man,6.2,7.7,7.1,7.1,6.6
+Puzzle,6.5,7.5,8.3,,6.6
+The Infiltrator,6.4,7.1,7.1,7.2,6.6
+Pitch Perfect,6.4,8.3,8.1,7.3,6.6
+Sea of Love,6.8,6.6,7.4,6.9,6.6
+The Idol,5.3,6.6,8.3,6.8,6.6
+Vivo,7.5,7.2,8.6,6.5,6.6
+You're Next,4.9,6.0,7.9,7.0,6.6
+Rogue One: A Star Wars Story,7.8,8.7,8.4,7.6,6.5
+Tremors,7.1,7.5,8.8,7.8,6.5
+White Men Can't Jump,6.8,6.8,7.7,7.3,6.5
+Buried,8.4,6.5,8.7,5.7,6.5
+Black Dynamite,7.4,8.5,8.3,8.4,6.5
+Body Snatchers,6.0,3.9,7.0,5.7,6.5
+Before the Fall,7.4,8.4,6.7,8.0,6.5
+Harry Potter and the Sorcerer's Stone,7.6,8.2,8.1,7.8,6.5
+Eden Lake,6.7,6.6,8.0,6.5,6.5
+Closer,3.7,8.1,6.8,8.6,6.5
+Batman: Mask of the Phantasm,7.8,8.8,8.6,7.1,6.5
+Rain Man,8.0,9.0,8.9,8.5,6.5
+Revenge of the Pink Panther,6.6,7.0,8.4,6.2,6.5
+Shampoo,6.4,5.3,6.5,6.8,6.5
+In the Valley of Elah,7.2,7.7,7.4,7.5,6.5
+Black Christmas,7.1,7.5,7.1,7.0,6.5
+The Rocky Horror Picture Show,7.4,8.5,7.9,7.9,6.5
+My Best Friend,5.2,7.8,10.0,7.0,6.5
+Mystery Science Theater 3000: The Movie,7.2,8.8,8.0,7.3,6.5
+The Fox and the Hound,7.2,7.8,7.2,7.9,6.5
+The Bay,6.3,4.3,7.7,6.8,6.5
+Pinocchio,7.5,7.3,10.0,6.5,6.5
+Puss in Boots,5.4,6.8,8.6,7.5,6.5
+Monsters University,7.2,8.1,8.0,7.6,6.5
+School Ties,6.9,6.8,6.0,7.0,6.5
+Deadpool,8.0,9.0,8.5,8.0,6.5
+Men,7.2,3.9,6.9,5.3,6.5
+Panic Room,6.8,6.4,7.6,8.4,6.5
+Dick,6.2,5.3,7.2,8.0,6.5
+Arlington Road,7.2,7.4,6.3,8.1,6.5
+Bad News Bears,5.8,4.6,4.8,6.4,6.5
+Young Sherlock Holmes,6.8,6.3,6.4,7.4,6.5
+Entertainment,7.5,4.5,8.2,6.1,6.5
+Dan in Real Life,6.8,6.9,6.5,6.6,6.5
+Get Him to the Greek,6.3,6.2,7.3,6.8,6.5
+Saving Face,5.7,8.8,8.7,7.4,6.5
+Ali,6.7,6.5,6.8,6.8,6.5
+Samsara,8.2,8.9,10.0,7.9,6.5
+Knuckle,6.5,6.7,9.3,7.4,6.5
+Seven,5.9,9.5,8.2,8.8,6.5
+Crooklyn,7.0,9.0,7.9,6.4,6.5
+The Jungle Book,6.7,8.6,9.4,8.1,6.5
+Tetro,6.8,7.0,7.1,6.7,6.5
+Clerks II,7.3,8.4,6.3,7.2,6.5
+Unknown White Male,6.5,5.9,7.3,3.9,6.5
+Coco Before Chanel,6.7,5.7,6.4,7.0,6.5
+Find Me Guilty,7.0,6.2,6.2,7.4,6.5
+Tyrannosaur,7.5,8.5,8.3,7.7,6.5
+Coherence,8.4,8.1,8.8,7.9,6.5
+Generation P,6.7,8.5,7.5,6.4,6.5
+Soapdish,6.6,6.3,7.4,7.4,6.5
+Cargo,5.8,6.6,8.7,6.1,6.5
+The Overnight,7.4,5.4,8.2,7.1,6.5
+Hanna,6.7,6.6,7.1,7.7,6.5
+Pacific Rim,6.9,7.7,7.2,7.5,6.5
+The Warrior,6.1,7.1,8.3,6.3,6.5
+We Were Soldiers,7.2,8.4,6.4,6.7,6.5
+Scream,2.9,8.1,7.6,8.6,6.5
+Cocoon,7.9,6.0,7.6,7.9,6.5
+Down in the Valley,6.3,5.3,5.2,6.6,6.5
+In a Better World,7.6,8.6,7.8,7.8,6.5
+Mississippi Burning,7.8,9.0,8.5,8.5,6.5
+Agnes,7.1,3.5,6.7,2.6,6.5
+The Way,8.8,8.3,8.3,7.2,6.4
+Absence of Malice,6.9,6.3,8.1,8.0,6.4
+Sky Captain and the World of Tomorrow,6.1,4.6,7.0,7.6,6.4
+Napoleon Dynamite,7.0,7.4,7.2,7.4,6.4
+Suffragette,6.9,6.8,7.3,6.7,6.4
+Interview,7.9,5.5,5.8,6.9,6.4
+He Got Game,6.9,8.3,8.0,8.3,6.4
+Wanted,6.0,6.9,7.1,4.9,6.4
+Wes Craven's New Nightmare,7.2,6.6,7.9,7.0,6.4
+Thunderball,6.9,7.3,8.5,6.8,6.4
+Outbreak,6.6,5.6,5.9,6.6,6.4
+JCVD,7.1,7.4,8.4,8.0,6.4
+Hot Shots! Part Deux,6.6,6.3,5.8,7.6,6.4
+Elf,7.1,7.9,8.5,8.5,6.4
+Northfork,6.2,6.6,5.7,5.1,6.4
+One Hour Photo,6.8,6.5,8.1,7.6,6.4
+Gattaca,7.7,8.7,8.2,8.6,6.4
+Cop Land,7.0,6.7,7.5,6.5,6.4
+Adam,7.2,7.2,6.6,2.0,6.4
+Prometheus,6.6,6.8,7.3,6.5,6.4
+"New York, New York",6.6,5.8,5.7,6.3,6.4
+Paper Clips,7.3,7.4,7.2,6.9,6.4
+Goon,6.8,7.1,8.1,7.2,6.4
+Eight Below,7.3,7.9,7.3,7.7,6.4
+1408,6.8,6.1,7.9,8.1,6.4
+Mondays in the Sun,7.5,8.6,8.0,5.4,6.4
+Enigma,5.9,5.4,7.2,6.1,6.4
+Saboteur,7.1,7.1,8.0,7.5,6.4
+The Whale,6.4,8.4,8.3,5.8,6.4
+Silkwood,7.1,7.8,7.6,8.4,6.4
+Beautiful Girls,5.1,8.0,7.8,8.6,6.4
+Muppet Treasure Island,6.9,7.7,7.1,7.4,6.4
+The Fury,6.3,4.9,7.7,6.2,6.4
+Team America: World Police,7.2,8.0,7.7,7.5,6.4
+Intermission,7.2,7.5,7.4,7.5,6.4
+Identity,7.3,7.5,6.3,8.5,6.4
+Hell House,6.8,6.6,9.4,8.0,6.4
+American Psycho,7.6,8.5,6.8,8.6,6.4
+Grand Canyon,5.7,7.0,7.8,8.4,6.4
+Swiss Army Man,6.9,7.2,7.2,7.3,6.4
+Chinese Puzzle,6.9,6.7,7.9,5.8,6.4
+Killing Them Softly,6.2,4.4,7.4,6.1,6.4
+Cloverfield,7.0,6.8,7.8,6.4,6.4
+Fury,6.9,8.4,7.6,7.3,6.4
+To the Bone,8.5,6.5,7.0,6.7,6.4
+Surf's Up,5.5,7.0,7.9,8.1,6.4
+Miss Sloane,7.5,7.2,7.6,7.0,6.4
+Nick and Norah's Infinite Playlist,6.6,6.5,7.5,6.3,6.4
+Ant-Man,7.3,8.5,8.3,7.4,6.4
+Chocolat,7.3,8.3,6.3,,8.1
+Grass,7.2,6.5,9.2,7.9,6.4
+Citizen Ruth,7.0,7.4,8.1,6.0,6.4
+Jesus Christ Superstar,7.3,7.6,5.4,6.7,6.4
+Blades of Glory,6.3,6.8,7.0,6.8,6.4
+The Fall,7.0,8.5,6.2,8.4,6.4
+State of Play,8.3,7.3,8.4,7.8,6.4
+Hamburger Hill,6.7,7.2,10.0,7.8,6.4
+Pineapple Express,6.9,7.3,6.8,7.2,6.4
+St. Vincent,9.3,7.8,7.8,7.5,6.4
+Appaloosa,6.7,5.5,7.6,6.0,6.4
+Fried Green Tomatoes,7.7,9.1,7.5,7.7,6.4
+Everest,7.0,6.8,7.3,6.9,6.4
+Freedom Writers,7.6,8.7,7.0,7.8,6.4
+Blood Diamond,8.0,9.0,6.3,8.5,6.4
+Wedding Crashers,7.0,7.0,7.5,8.7,6.4
+Stage Beauty,7.1,7.8,6.4,6.4,6.4
+X-Men,7.3,8.3,8.2,7.5,6.4
+Cradle Will Rock,6.8,7.1,6.5,5.1,6.4
+Flight of the Navigator,6.9,7.5,8.4,8.2,6.4
+Motel Hell,6.0,4.9,6.7,6.6,6.4
+Something New,5.8,7.2,6.1,7.3,6.4
+Nobody,6.6,9.4,8.4,7.5,6.4
+Patriot Games,6.8,7.2,7.4,6.4,6.4
+Ready Player One,7.1,7.7,7.2,7.3,6.4
+It Could Happen to You,6.0,5.4,7.1,8.1,6.4
+Proof,7.2,8.0,9.4,7.1,6.4
+Star Trek: Insurrection,6.4,4.4,5.5,5.8,6.4
+Trekkies,6.9,7.0,8.6,5.5,6.4
+Jackie Brown,7.5,8.5,8.7,8.3,6.4
+Silverado,7.2,8.0,7.8,7.8,6.4
+The Professional,7.4,9.5,7.4,8.6,6.4
+Shortbus,6.4,7.7,6.8,7.3,6.4
+Fast Food Nation,6.3,4.2,4.9,5.9,6.4
+District 13: Ultimatum,6.5,5.5,7.5,7.7,6.4
+Michael,7.1,6.7,8.0,6.9,6.4
+Serial Mom,6.8,7.2,6.3,6.9,6.4
+Tokyo!,7.0,7.2,7.6,6.7,6.3
+Defending Your Life,7.2,8.3,9.8,7.0,6.3
+Little Big Man,7.5,8.7,9.6,7.6,6.3
+Naked Gun 33 1/3: The Final Insult,6.5,5.3,5.6,6.9,6.3
+16 Blocks,6.6,5.7,5.6,7.8,6.3
+Unfaithful,6.6,6.8,5.0,7.6,6.3
+Keep the River on Your Right: A Modern Cannibal Tale,6.7,5.0,7.8,5.6,6.3
+One True Thing,6.9,7.1,8.8,7.6,6.3
+Mr. Nobody,7.7,7.6,6.8,7.6,6.3
+Kids,4.2,7.7,4.7,5.1,6.3
+Monsters,7.3,5.3,7.3,6.4,6.3
+Return,5.7,4.3,8.3,7.2,6.3
+Hard Target,6.2,4.9,6.0,7.5,6.3
+Romancing the Stone,6.9,6.9,8.6,8.0,6.3
+Out of Time,4.4,5.8,6.4,8.1,6.3
+Drumline,5.9,7.0,8.2,6.3,6.3
+Secretary,5.9,8.2,7.8,5.6,6.3
+Wendigo,5.1,3.2,6.0,4.3,6.3
+Waydowntown,6.7,7.9,7.0,5.7,6.3
+Native Son,6.2,4.9,6.2,5.5,6.3
+Walk Hard: The Dewey Cox Story,6.8,5.7,7.4,6.9,6.3
+Don Juan DeMarco,6.7,6.8,7.2,7.3,6.3
+Home Alone,7.7,8.0,6.6,8.2,6.3
+Buster's Mal Heart,6.1,5.5,7.0,6.1,6.3
+Pitch Perfect 2,6.4,6.4,6.5,6.0,6.3
+The Game,5.1,8.4,7.7,8.5,6.3
+Dear Frankie,7.7,9.0,8.1,8.4,6.3
+Atomic Blonde,6.7,6.4,7.9,6.7,6.3
+Anna Karenina,5.2,5.0,6.2,6.4,6.3
+Amistad,7.3,7.9,7.8,7.2,6.3
+"Honey, I Shrunk the Kids",6.4,5.4,7.8,8.1,6.3
+It's Kind of a Funny Story,7.1,6.6,5.8,7.3,6.3
+Gaga: Five Foot Two,7.0,8.0,7.3,7.9,6.3
+Howl,7.4,5.8,6.3,6.7,6.3
+Summer Wars,7.4,8.8,7.9,7.0,6.3
+Hot Tub Time Machine,6.4,5.6,6.4,6.5,6.3
+Anchorman: The Legend of Ron Burgundy,7.1,8.6,6.6,7.9,6.3
+Two Brothers,6.3,7.5,7.8,7.6,6.3
+Spy Game,7.7,7.5,6.5,7.4,6.3
+Changeling,7.5,8.2,6.2,7.8,6.3
+Where Eagles Dare,7.6,8.9,8.3,6.5,6.3
+Zoo,7.4,3.6,6.0,5.9,6.3
+Green Zone,6.8,5.7,5.3,6.3,6.3
+King of California,6.6,6.4,6.3,6.7,6.3
+Damsel,6.8,5.3,6.8,5.1,6.3
+Harry Potter and the Chamber of Secrets,7.4,8.0,8.2,7.3,6.3
+Muriel's Wedding,7.2,8.4,8.0,8.1,6.3
+Hardcore,7.0,6.7,7.4,6.2,6.3
+Falling,5.8,6.2,6.7,6.6,6.3
+Single White Female,6.4,4.4,5.3,7.8,6.3
+Villains,8.1,7.7,8.4,6.9,6.3
+Three Days of the Condor,7.4,8.2,8.8,7.5,6.3
+Luz,6.5,9.9,4.3,5.0,6.3
+Open Water,5.8,3.3,7.1,5.4,6.3
+Rio,6.1,7.1,7.2,7.7,6.3
+Who's That Knocking at My Door?,5.6,6.1,7.1,6.9,6.3
+All Saints,7.1,7.2,9.5,6.0,6.3
+City of Men,7.8,7.8,7.4,7.4,6.3
+World War Z,7.0,7.2,6.6,6.8,6.3
+I Capture the Castle,6.8,7.6,7.8,6.7,6.3
+Alpha,5.5,7.1,8.0,6.6,6.3
+Invincible,6.3,5.1,5.5,7.7,6.3
+Shutter Island,8.2,7.7,6.8,8.5,6.3
+Boiler Room,7.0,7.8,6.6,2.5,6.3
+Life,7.9,4.5,6.4,8.1,6.3
+Scream 2,6.3,5.8,8.2,8.4,6.3
+Phantom of the Opera,6.4,2.2,1.0,7.3,6.3
+Bubble,6.5,6.1,7.1,6.2,6.3
+ATL,6.1,8.6,6.2,7.4,6.3
+Youth in Revolt,5.8,5.2,6.6,8.5,6.3
+Mayhem,4.1,6.6,8.4,7.1,6.2
+Stander,7.1,8.0,7.3,6.2,6.2
+Tequila Sunrise,6.0,4.0,5.0,7.9,6.2
+Severance,5.4,6.1,6.6,7.4,6.2
+"Happy, Texas",6.3,5.5,8.1,8.1,6.2
+V for Vendetta,8.2,9.0,7.3,7.8,6.2
+Nothing in Common,5.9,4.0,5.4,7.3,6.2
+Solo: A Star Wars Story,6.9,6.3,6.9,6.1,6.2
+Iron Man 3,7.1,7.8,7.9,6.7,6.2
+Hollywoodland,6.5,4.8,6.8,5.9,6.2
+Executive Decision,6.5,5.3,6.3,7.0,6.2
+Crocodile Dundee,6.6,5.9,8.9,7.2,6.2
+42,7.5,8.5,8.1,7.5,6.2
+Disturbia,6.8,7.7,6.9,7.9,6.2
+Piglet's Big Movie,6.1,6.4,7.0,7.8,6.2
+Outside Providence,6.4,6.5,5.1,7.2,6.2
+Jesus Camp,7.4,8.0,8.7,7.1,6.2
+Wristcutters: A Love Story,7.2,8.2,6.7,7.3,6.2
+Jacob's Ladder,7.4,3.5,0.4,4.4,6.2
+Killer Joe,6.7,6.1,8.0,6.6,6.2
+Lord of War,7.6,8.4,6.1,8.6,6.2
+Shopgirl,6.3,5.8,6.1,6.5,6.2
+Catch a Fire,6.7,7.1,7.5,6.6,6.2
+Saving Grace,6.9,8.3,6.3,6.9,6.2
+Ocean's Thirteen,6.9,7.5,7.0,6.5,6.2
+Spiral,4.6,5.9,5.0,6.1,6.2
+Made,6.5,6.6,7.1,8.1,6.2
+Brigham City,6.8,8.0,7.1,5.2,6.2
+Dogma,7.3,8.5,6.7,8.5,6.2
+The Fallen,5.1,3.1,8.6,6.6,6.2
+Abe,6.6,6.7,7.1,6.8,6.2
+Beautiful Boy,7.4,5.6,7.1,7.2,6.2
+Big Eyes,7.1,6.8,7.2,7.2,6.2
+Black Sea,8.7,5.9,8.0,6.6,6.2
+The Gift,6.7,7.5,9.1,8.1,6.2
+The Bounty,7.0,7.2,7.4,5.5,6.2
+Curious George,7.8,6.9,7.0,7.2,6.2
+Split,5.5,7.9,7.8,7.0,6.2
+Henry & June,6.3,6.8,6.0,6.0,6.2
+Kong: Skull Island,6.7,6.9,7.5,6.7,6.2
+Veronica Mars,8.4,7.8,8.0,7.5,6.2
+Antwone Fisher,7.3,8.6,7.8,7.9,6.2
+Austin Powers in Goldmember,6.2,4.4,5.3,7.8,6.2
+American History X,8.5,9.6,8.3,8.6,6.2
+The Doors,7.2,7.9,5.7,7.1,6.2
+Hud,7.8,8.9,8.4,7.4,6.2
+Land of Plenty,6.7,6.2,6.3,5.9,6.2
+On a Clear Day,6.9,7.2,6.8,6.6,6.2
+Most Wanted,7.0,4.7,7.0,6.0,6.2
+Harold and Maude,7.9,9.3,8.6,8.3,6.2
+Alligator,6.1,4.9,8.4,6.6,6.2
+Dolores Claiborne,7.4,8.2,8.5,7.5,6.2
+Finding Forrester,7.3,7.9,7.4,8.4,6.2
+G.I. Jane,6.2,5.3,5.3,6.1,6.2
+Chances Are,6.5,6.4,6.7,6.5,6.2
+Night Shift,7.0,6.3,9.3,7.7,6.2
+All the Right Moves,6.0,3.9,6.3,1.8,6.2
+Murder by Death,7.3,8.2,6.5,6.9,6.2
+Fall,5.9,7.9,7.9,6.3,6.2
+Maverick,8.1,7.1,6.7,6.8,6.2
+The Void,3.8,4.8,7.8,6.0,6.2
+Despicable Me 2,7.3,8.5,7.5,7.1,6.2
+Night of the Creeps,6.7,7.0,7.5,8.0,6.2
+Ted,5.3,7.3,6.9,7.0,6.2
+Visitors,7.1,5.0,6.9,6.2,6.2
+Saved!,6.7,7.8,6.1,7.3,6.2
+U-571,6.6,6.2,6.8,6.7,6.2
+My Scientology Movie,6.6,5.9,8.9,6.3,6.2
+Sky High,6.0,4.0,4.0,8.0,6.2
+About Last Night,6.3,6.5,6.9,6.1,6.2
+Empire of the Sun,7.7,9.0,7.6,7.9,6.2
+Red Hill,6.3,5.7,7.9,6.7,6.2
+Micmacs,7.1,7.4,7.2,7.5,6.2
+I Sell the Dead,6.0,4.7,7.3,6.2,6.2
+Thunderbolt and Lightfoot,7.0,7.3,8.8,6.8,6.2
+Una,7.3,5.0,7.6,4.9,6.2
+Fright Night,7.4,5.9,7.2,8.2,6.2
+Match,7.8,6.7,7.6,6.0,6.2
+Plane,7.8,9.4,7.7,6.6,6.2
+Incident at Loch Ness,6.5,6.6,6.2,6.6,6.2
+Fierce Creatures,6.4,5.8,5.3,6.4,6.2
+Dragnet,6.6,6.7,4.3,6.1,6.2
+Bug,5.2,3.4,6.1,5.2,6.2
+The King,5.3,5.3,7.7,7.8,6.2
+Sick,7.5,6.9,8.6,5.1,6.2
+Destroyer,6.3,5.0,7.4,5.7,6.2
+Ararat,6.3,7.1,5.5,7.8,6.2
+My Big Fat Greek Wedding,6.6,7.3,7.6,7.4,6.2
+Unbreakable,7.3,7.7,7.0,8.3,6.2
+Train of Life,7.6,9.3,6.4,8.1,6.2
+Mumford,6.8,6.5,5.7,8.1,6.2
+I Am a Sex Addict,6.4,5.7,6.3,5.8,6.2
+My Favorite Year,7.3,8.4,9.7,7.0,6.2
+Godzilla,7.5,6.6,7.6,6.8,6.2
+Zebraman,6.5,6.8,5.7,7.8,6.2
+The Abyss,7.5,8.3,8.8,7.6,6.2
+Contact,7.3,7.8,6.8,7.8,6.2
+Major League,7.2,8.4,8.3,7.5,6.2
+Apostle,7.9,5.4,7.8,6.1,6.2
+African Cats,7.5,7.7,7.3,7.1,6.1
+The American,6.2,3.9,6.5,6.8,6.1
+Zoolander,6.5,8.0,6.4,7.2,6.1
+Stop-Loss,6.4,2.6,6.5,6.7,6.1
+Margaret,8.9,4.9,7.5,7.7,6.1
+Lucy,6.4,4.7,6.6,7.2,6.1
+Kindergarten Cop,6.2,5.2,5.3,8.1,6.1
+First Blood,7.7,8.5,8.6,8.4,6.1
+Ice Age,5.5,8.2,7.7,7.9,6.1
+Norma Rae,7.3,7.9,9.0,7.4,6.1
+Meet the Robinsons,6.8,7.4,6.7,6.6,6.1
+Land,8.1,8.4,6.9,5.7,6.1
+Stuck,6.1,8.3,5.2,5.7,6.1
+Sunshine Cleaning,6.8,6.3,7.5,6.3,6.1
+Headshot,6.9,4.8,7.1,6.8,6.1
+Edmond,6.2,4.6,4.7,5.1,6.1
+The Natural,7.4,8.8,8.3,7.5,6.1
+Eyewitness,6.3,3.8,7.5,4.5,6.1
+Bound,8.0,8.3,8.9,8.6,6.1
+Best Worst Movie,7.2,8.4,9.4,6.9,6.1
+Enemy,4.3,6.4,7.1,7.4,6.1
+The Hero,5.4,5.9,7.7,6.7,6.1
+Slap Shot,7.2,8.9,8.3,8.6,6.1
+10 Years,6.1,4.0,6.0,6.9,6.1
+Willard,6.2,3.7,5.2,7.0,6.1
+The Count of Monte Cristo,6.6,7.7,8.6,8.5,6.1
+Broken Arrow,7.2,7.1,9.0,3.4,6.1
+Reign Over Me,7.4,8.1,6.4,8.5,6.1
+The Secret Life of Pets,6.5,6.2,7.2,6.2,6.1
+Anchorman 2: The Legend Continues,6.3,5.2,7.5,6.2,6.1
+White Oleander,7.1,8.1,6.9,7.7,6.1
+Deconstructing Harry,7.3,8.2,7.3,7.4,6.1
+Tightrope,8.2,5.0,8.5,6.4,6.1
+Candyman,6.7,7.2,8.4,8.5,6.1
+Generation Iron,7.0,7.8,8.1,7.6,6.1
+Trucker,7.1,5.7,5.9,7.3,6.1
+Cat People,7.2,7.3,9.2,,8.5
+Dog,7.3,8.9,7.7,6.3,6.1
+Freeway,5.0,7.6,7.6,6.0,6.1
+On Her Majesty's Secret Service,6.7,6.4,8.1,7.3,6.1
+Fast Times at Ridgemont High,7.1,8.0,7.8,7.3,6.1
+Frida,6.9,8.5,7.6,7.3,6.1
+One,6.1,7.4,6.1,8.3,6.1
+Stuart Little,6.0,4.1,6.7,6.5,6.1
+Rocky II,7.3,8.2,7.0,7.8,6.1
+The Hornet's Nest,6.1,7.9,7.2,6.1,6.1
+Anastasia,7.0,7.8,9.3,7.9,6.1
+Boys on the Side,6.5,6.9,7.3,7.7,6.1
+Project X,5.7,6.1,2.8,6.8,6.1
+Fear X,6.0,3.8,5.8,8.3,6.1
+Madagascar: Escape 2 Africa,6.6,6.6,6.4,6.8,6.1
+Urban Cowboy,6.4,8.0,7.0,6.6,6.1
+Vice,7.7,1.5,0.4,6.6,6.1
+Unlawful Entry,6.4,4.9,7.4,8.2,6.1
+Ferris Bueller's Day Off,7.8,9.2,8.1,8.5,6.1
+Hot Shots!,6.7,6.5,8.1,7.1,6.1
+Addams Family Values,6.8,6.3,7.5,7.3,6.1
+Traitor,8.8,6.4,6.4,8.5,6.1
+Criminal,5.3,5.7,6.9,8.5,6.1
+Laurel Canyon,2.5,5.2,6.9,8.4,6.1
+Welcome to Collinwood,6.3,5.5,5.5,6.0,6.1
+Blue Crush,5.7,5.8,6.2,4.5,6.1
+Beijing Bicycle,7.2,7.3,6.2,7.2,6.1
+Rumble in the Bronx,6.7,6.5,8.0,8.0,6.1
+You Only Live Twice,6.8,6.8,7.4,6.8,6.1
+Muppets Most Wanted,6.4,5.8,8.0,6.3,6.1
+Lilting,7.2,8.0,8.2,6.2,6.1
+Extract,6.1,3.8,6.2,6.1,6.1
+Abominable,5.1,4.0,6.7,5.8,6.1
+Role Models,6.8,7.4,7.7,8.1,6.1
+Red,6.7,6.8,7.0,6.9,6.1
+The Jane Austen Book Club,6.7,6.7,6.6,6.4,6.1
+Lenny,7.5,8.8,9.0,7.8,6.1
+Evil,7.7,8.7,6.8,7.5,6.1
+Pale Rider,7.3,8.3,9.3,7.5,6.1
+Mr. Jealousy,6.3,6.0,7.1,7.0,6.1
+Fighting,8.8,3.6,3.9,8.4,6.1
+Violet,7.2,5.6,8.5,5.0,6.1
+My Dog Skip,7.0,6.8,7.3,7.9,6.1
+Trance,5.2,6.2,6.9,8.6,6.1
+"Lust, Caution",7.5,8.4,7.2,6.8,6.1
+Transformers,5.6,8.5,5.8,6.9,6.1
+Dead Snow,6.3,5.6,6.8,6.5,6.1
+Elysium,6.8,5.8,6.4,7.8,6.1
+The Lair of the White Worm,6.0,4.7,6.9,6.9,6.1
+Sixteen Candles,7.0,8.5,8.1,6.5,6.1
+The Machinist,7.6,8.3,7.7,8.6,6.1
+Kingsman: The Secret Service,7.7,8.4,7.5,8.0,6.0
+This Boy's Life,7.3,7.9,7.6,3.8,6.0
+Funny People,6.2,4.8,6.9,6.4,6.0
+Beyond the Valley of the Dolls,6.1,7.2,7.6,4.8,6.0
+Like Me,5.8,5.1,6.9,5.4,6.0
+The Lost City,3.6,8.3,7.9,6.8,6.0
+Ransom,5.9,6.2,7.4,2.1,6.0
+Following,7.5,8.5,8.2,8.1,6.0
+Cleopatra,5.4,6.9,5.6,7.0,6.0
+Femme Fatale,4.6,4.9,4.9,5.7,6.0
+The Devil's Advocate,7.5,7.9,6.4,8.5,6.0
+Magic Mike XXL,5.6,5.5,6.5,5.6,6.0
+Them,4.2,6.0,6.3,6.4,6.0
+From Beyond,6.6,7.0,8.0,6.3,6.0
+Our Idiot Brother,6.4,5.1,7.0,6.4,6.0
+9,6.2,5.6,5.8,7.2,6.0
+Overnight,4.8,7.1,7.8,7.0,6.0
+Jagged Edge,6.5,5.9,8.1,7.7,6.0
+Kill the Messenger,8.5,6.9,7.7,7.1,6.0
+Juice,7.1,9.0,7.9,7.2,6.0
+Trumbo,7.4,7.9,7.4,7.3,6.0
+The Importance of Being Earnest,7.5,7.2,5.7,7.3,6.0
+The Last Five Years,7.0,5.7,6.0,7.2,6.0
+Dredd,7.1,7.2,7.9,8.6,6.0
+Babylon,7.3,4.5,10.0,,8.0
+Overlord,7.1,6.7,8.2,6.9,6.0
+Judgment at Nuremberg,8.3,9.3,9.2,8.4,6.0
+Family,7.6,7.6,7.6,6.8,6.0
+Notorious,7.9,9.1,9.6,5.7,6.0
+Warm Bodies,6.8,7.3,8.1,7.0,6.0
+Crawl,7.8,1.9,6.3,6.1,6.0
+Keeping the Faith,6.4,5.9,6.9,8.4,6.0
+Gloomy Sunday,7.8,9.2,8.4,7.6,6.0
+A Perfect Day,5.8,5.6,7.1,6.7,6.0
+Cool Runnings,7.0,8.1,7.6,7.3,6.0
+Mr. Nice,6.3,4.4,5.3,6.3,6.0
+State of Grace,7.2,8.3,8.5,7.9,6.0
+Day of the Dead,7.1,7.5,8.6,7.0,6.0
+Total Recall,7.5,7.9,8.3,8.7,6.0
+The Heat,7.7,7.1,6.6,6.5,6.0
+Machete,6.9,6.3,7.1,7.1,6.0
+Tomorrowland,6.6,4.9,5.0,6.5,6.0
+In Her Shoes,6.5,6.6,7.4,6.8,6.0
+At Middleton,6.5,4.5,6.1,6.4,6.0
+Anything,8.8,7.4,6.7,8.0,6.0
+Mandela: Long Walk to Freedom,7.1,6.8,6.2,5.8,6.0
+The Bear,5.8,8.2,8.7,7.5,6.0
+Stealing Beauty,6.5,7.5,5.0,7.3,6.0
+Goosebumps,7.6,6.2,7.8,6.7,6.0
+Cellular,6.5,5.9,5.6,8.0,6.0
+Spartan,6.5,6.2,6.5,7.5,6.0
+Gangster No. 1,6.7,7.7,7.1,8.5,6.0
+Happy Accidents,7.2,7.5,7.0,6.6,6.0
+Never Been Kissed,6.0,6.9,5.5,8.3,6.0
+Brassed Off,7.2,7.9,8.0,8.1,6.0
+Escape to Witch Mountain,6.3,5.9,7.4,7.0,6.0
+Cat Ballou,6.7,7.4,9.0,6.6,6.0
+They Came Together,5.6,4.0,7.0,6.0,6.0
+To the Stars,8.3,7.0,8.2,6.9,6.0
+Bill & Ted's Bogus Journey,6.3,5.6,5.6,7.5,6.0
+Michael Collins,7.1,8.4,7.8,7.4,6.0
+Red Dragon,4.5,7.4,6.9,8.5,6.0
+Calendar Girls,6.9,6.7,7.4,6.9,6.0
+Manic,7.2,7.9,6.7,8.5,6.0
+Mystic Pizza,6.3,5.4,7.8,8.3,6.0
+Cliffhanger,6.5,5.2,6.7,8.2,6.0
+What About Bob?,7.0,7.9,8.2,8.3,6.0
+Madagascar 3: Europe's Most Wanted,6.8,7.2,7.8,6.6,6.0
+Wayne's World 2,6.2,6.3,6.0,6.0,6.0
+Go for Zucker,6.7,7.2,5.4,6.2,6.0
+Gifted,6.6,8.5,7.3,7.5,6.0
+True Romance,7.9,9.3,9.3,8.4,5.9
+Bedknobs and Broomsticks,7.0,7.4,6.7,6.9,5.9
+Dogville,8.0,8.9,6.9,8.2,5.9
+Captive,4.6,8.0,7.3,7.0,5.9
+Space Jam,6.5,6.3,4.3,7.1,5.9
+Midnight Express,7.5,8.9,9.3,7.7,5.9
+Big Eden,7.3,7.9,6.4,8.5,5.9
+Fantasia 2000,7.1,7.5,8.1,7.2,5.9
+Private Benjamin,6.2,6.0,8.3,6.7,5.9
+Beowulf,4.1,5.0,7.1,6.3,5.9
+Breakfast on Pluto,7.2,8.0,5.7,7.4,5.9
+Spider-Man 3,6.3,5.1,6.3,6.4,5.9
+Mom and Dad,5.2,4.0,7.5,5.9,5.9
+Unbroken,7.0,7.0,5.2,6.5,5.9
+Into the Forest,3.4,4.3,7.6,5.8,5.9
+Seducing Doctor Lewis,7.3,8.6,6.8,8.1,5.9
+The Shallows,6.3,5.9,7.8,6.3,5.9
+Obsession,7.0,5.9,7.3,5.7,5.9
+A Home at the End of the World,6.6,6.7,5.0,7.4,5.9
+Lemon,5.3,3.4,5.5,5.2,5.9
+Little Monsters,6.0,6.2,4.4,6.0,5.9
+Tower Heist,6.2,4.8,6.7,6.8,5.9
+The Hobbit: The Battle of the Five Armies,7.4,7.4,5.9,6.9,5.9
+Don't Move,6.0,8.0,4.6,7.2,5.9
+The Contender,5.6,7.3,7.6,6.9,5.9
+Mighty Aphrodite,7.0,7.3,7.8,8.4,5.9
+J. Edgar,6.5,4.4,4.3,6.5,5.9
+Mr. Peabody & Sherman,6.8,7.3,8.1,6.7,5.9
+Seeking a Friend for the End of the World,6.7,5.3,5.5,7.0,5.9
+Extraordinary Tales,6.4,5.0,5.8,6.6,5.9
+Sing,6.7,7.2,7.1,6.3,5.9
+Deja Vu,6.3,6.1,6.5,5.8,5.9
+Lizzie,6.3,4.8,6.6,6.2,5.9
+Cocaine Cowboys,4.4,7.9,6.9,7.7,5.9
+Creepshow,6.8,6.8,6.5,8.3,5.9
+Heartbreaker,5.1,6.6,6.8,6.5,5.9
+Mr. Holland's Opus,7.3,8.4,7.5,6.3,5.9
+Run All Night,6.6,5.6,5.9,8.0,5.9
+Signs,6.8,6.7,7.5,7.4,5.9
+Nico and Dani,6.7,7.0,8.7,5.8,5.9
+Austin Powers: The Spy Who Shagged Me,6.6,7.1,5.3,8.6,5.9
+Bridget Jones's Baby,6.5,6.5,7.8,6.6,5.9
+Legally Blonde,6.4,7.2,7.1,6.9,5.9
+The Final Girls,6.5,7.0,7.4,7.9,5.9
+Cars 3,6.7,6.9,6.9,6.8,5.9
+Moonlight Mile,6.6,6.6,6.3,7.2,5.9
+Pearl Jam Twenty,8.2,10.0,6.8,7.9,5.9
+Savages,5.5,5.4,5.0,6.4,5.9
+Roll Bounce,6.2,7.0,6.6,6.3,5.9
+Shot Caller,7.3,8.0,7.0,7.5,5.9
+Ip Man,8.0,9.3,8.6,8.2,5.9
+Limitless,8.0,7.4,6.9,6.2,5.9
+Jurassic World,6.9,7.8,7.1,6.8,5.9
+Rubber,5.6,4.6,6.8,6.0,5.9
+Day Watch,6.4,6.8,6.3,6.6,5.9
+Junior,4.5,2.2,3.9,6.4,5.9
+"I, Robot",7.1,7.0,5.6,8.0,5.9
+Barbershop 2: Back in Business,5.7,4.8,6.9,6.1,5.9
+Naqoyqatsi,6.4,7.0,4.8,6.0,5.9
+Point Break,7.3,7.9,7.1,7.7,5.9
+Wall Street: Money Never Sleeps,6.2,4.4,5.5,5.7,5.9
+Heights,6.8,7.4,6.3,6.0,5.9
+Enemy Mine,6.8,6.8,6.3,6.9,5.9
+Death on the Nile,7.2,7.9,7.8,6.9,5.9
+"Definitely, Maybe",7.1,7.2,7.0,7.2,5.9
+Scent of a Woman,7.5,9.2,8.7,8.5,5.9
+Night of the Comet,6.3,5.8,7.9,6.8,5.9
+Clash of the Titans,6.9,7.0,6.3,5.9,5.9
+The Diary of Anne Frank,7.4,7.7,8.0,6.2,5.9
+What If,8.9,6.9,7.4,7.2,5.9
+Diamonds Are Forever,6.5,5.7,6.3,5.7,5.9
+Beautiful Losers,6.6,6.8,6.2,7.4,5.9
+Music and Lyrics,6.5,6.8,6.3,8.2,5.9
+1982,7.4,8.3,9.5,8.3,5.9
+Sharkwater,7.9,8.8,7.9,7.6,5.9
+The Voices,5.3,5.8,7.5,6.9,5.8
+Jumanji: Welcome to the Jungle,7.8,8.7,7.6,6.8,5.8
+Oliver & Company,6.6,6.2,5.4,7.1,5.8
+Fame,5.0,6.9,7.9,8.2,5.8
+Hitch,5.7,6.2,6.9,8.1,5.8
+The Enforcer,7.3,5.9,6.9,6.9,5.8
+Tokyo Tribe,6.4,4.7,5.5,4.8,5.8
+The Mist,7.1,6.5,7.2,7.0,5.8
+X-Men: The Last Stand,6.6,6.1,5.7,6.0,5.8
+Jarhead,7.0,6.8,6.1,7.1,5.8
+Class Action,6.4,5.1,7.7,7.2,5.8
+Footloose,6.6,6.1,6.8,6.1,5.8
+Jason Bourne,6.6,5.5,5.4,6.4,5.8
+Love Liza,6.9,7.6,5.4,6.7,5.8
+Altered States,6.9,7.1,8.5,7.1,5.8
+Help!,4.5,8.6,8.9,7.8,5.8
+Pirate Radio,7.4,7.1,5.9,6.5,5.8
+We Bought a Zoo,7.0,7.1,6.4,6.9,5.8
+Neighbors 2: Sorority Rising,5.7,4.4,6.4,5.4,5.8
+Universal Soldier: Day of Reckoning,5.1,3.4,5.6,5.9,5.8
+The Bridge,6.8,7.2,6.8,6.6,5.8
+Brown Sugar,8.2,9.0,6.6,5.1,5.8
+The Mule,5.6,6.6,7.0,7.7,5.8
+Shrek Forever After,6.3,5.4,5.7,6.7,5.8
+Turbo,6.6,6.5,6.7,6.3,5.8
+Psycho III,5.5,3.4,5.9,4.1,5.8
+Sisters,6.9,8.6,7.1,,7.0
+Biutiful,7.4,7.5,6.6,7.2,5.8
+Unleashed,7.7,7.1,7.5,8.3,5.8
+Quantum of Solace,6.6,5.8,6.4,6.3,5.8
+"Roman J. Israel, Esq.",6.5,5.3,5.4,6.3,5.8
+Danny Collins,7.0,7.3,7.8,6.6,5.8
+Rise of the Guardians,7.2,8.0,7.4,7.4,5.8
+Freaked,6.3,6.6,5.0,5.8,5.8
+Snakes on a Plane,5.5,4.9,6.9,7.3,5.8
+When a Stranger Calls,6.4,4.9,3.8,6.9,5.8
+Ferdinand,6.6,5.2,7.1,6.8,5.8
+Outfoxed: Rupert Murdoch's War on Journalism,7.5,7.7,8.5,6.5,5.8
+K-19: The Widowmaker,6.7,5.2,6.0,6.6,5.8
+Stepmom,6.8,7.5,4.4,7.3,5.8
+Pocahontas,6.7,6.4,5.4,7.1,5.8
+Lights Out,5.4,6.1,7.5,7.6,5.8
+The Woman,5.4,5.5,7.3,6.1,5.8
+The Man Who Killed Don Quixote,6.3,6.0,6.6,6.8,5.8
+Splinter,8.5,4.9,7.6,6.9,5.8
+Leaves of Grass,6.4,4.9,6.1,6.6,5.8
+Lawless,7.5,7.4,6.7,7.8,5.8
+Skin,6.1,7.9,8.6,,6.2
+Prime,6.2,5.2,5.0,6.4,5.8
+The Rock,7.4,8.5,6.7,8.6,5.8
+Tortilla Soup,6.7,7.1,7.4,6.6,5.8
+Ask the Dust,5.7,4.1,3.5,7.6,5.8
+Licence to Kill,6.6,6.1,7.9,7.2,5.8
+First Snow,6.2,4.1,5.8,7.0,5.8
+Southbound,5.9,5.1,8.1,5.8,5.8
+The Finest Hours,7.2,6.6,6.3,6.6,5.8
+Shrek the Third,6.1,5.2,4.1,6.3,5.8
+The Trust,5.8,2.9,6.3,5.3,5.8
+Green Card,6.3,5.0,5.9,7.2,5.8
+Explorers,6.4,6.6,7.2,6.7,5.8
+The Tree,4.8,5.3,7.2,6.0,5.8
+City of Ember,6.4,4.6,5.4,6.4,5.8
+The Night Before,6.1,6.1,6.9,6.4,5.8
+Ocean's Twelve,6.5,6.0,5.5,6.9,5.8
+May,6.6,7.5,7.0,1.2,5.8
+Undisputed,6.1,4.6,4.8,6.3,5.8
+Kiss of the Dragon,6.6,6.8,5.2,8.2,5.8
+American Pie,6.8,6.1,6.1,3.8,5.8
+Away We Go,6.7,7.4,6.7,6.8,5.8
+Heartless,4.6,4.7,7.7,5.3,5.8
+Fading Gigolo,6.2,4.1,5.4,5.9,5.8
+Glory Road,7.2,8.1,5.5,7.8,5.8
+9 to 5,6.9,7.4,6.8,6.9,5.8
+Flash Gordon,7.0,6.9,8.3,6.9,5.8
+Death Race 2000,6.2,6.4,8.1,6.6,5.8
+Benny & Joon,7.1,8.5,7.6,8.2,5.7
+Renaissance,7.1,5.9,4.9,8.0,5.7
+Wayne's World,7.0,8.4,7.9,7.7,5.7
+All Good Things,5.4,3.7,3.5,7.7,5.7
+Crank,6.9,7.1,6.2,4.6,5.7
+Special,8.6,6.3,5.8,7.7,5.7
+Flawless,6.4,5.3,4.1,7.1,5.7
+Daybreakers,6.4,4.9,6.8,6.7,5.7
+Pet Sematary,6.5,3.3,5.6,5.3,5.7
+Indiana Jones and the Temple of Doom,7.5,8.2,8.3,7.7,5.7
+Paul,7.3,6.2,7.0,7.0,5.7
+Bart Got a Room,5.7,5.6,7.0,6.6,5.7
+The Ring,5.2,8.1,9.8,4.5,5.7
+Osmosis Jones,6.3,4.2,5.6,6.2,5.7
+Holy Smoke,5.9,4.7,4.6,8.0,5.7
+Ip Man 3,7.0,7.3,7.7,7.0,5.7
+The Hole,7.0,9.6,9.4,6.3,5.7
+Field of Dreams,7.5,8.6,8.8,8.4,5.7
+Ragtime,7.3,7.7,8.3,5.9,5.7
+Flicka,4.3,8.2,5.4,6.4,5.7
+Vamps,3.9,3.3,5.6,6.5,5.7
+Bram Stoker's Dracula,7.4,7.9,7.8,8.3,5.7
+Life Partners,6.2,4.7,6.8,5.7,5.7
+Thor,8.4,7.6,7.7,7.0,5.7
+Permanent Midnight,6.2,5.4,5.8,8.3,5.7
+Body of Lies,7.0,6.2,5.5,7.1,5.7
+Up in Smoke,5.7,8.2,4.7,7.9,5.7
+Encounter,7.5,5.5,5.7,4.6,5.7
+13 Going on 30,6.3,7.0,6.5,7.9,5.7
+Whiskey Tango Foxtrot,7.9,5.4,6.8,6.5,5.7
+Kinky Boots,7.1,7.4,5.8,6.8,5.7
+Brainstorm,6.6,5.6,5.7,8.4,5.7
+Smart People,6.1,3.9,5.0,7.5,5.7
+Candy,5.1,7.7,4.7,7.4,5.7
+Bad Words,7.6,6.1,6.5,6.3,5.7
+Victory,5.7,7.1,6.7,8.4,5.7
+The Grand,7.5,4.3,4.0,6.8,5.7
+Rocky III,6.8,7.4,6.5,7.2,5.7
+Southpaw,6.6,7.5,6.0,,6.2
+Miss Peregrine's Home for Peculiar Children,6.7,6.0,6.4,6.7,5.7
+Miss Potter,7.0,6.8,6.8,7.1,5.7
+Evil Dead,6.5,6.4,6.3,7.3,5.7
+Our Friend,7.3,9.5,8.5,6.6,5.7
+Barbarians,7.8,1.4,5.5,5.2,5.7
+Cars 2,6.2,4.9,4.0,5.8,5.7
+Journey to the Center of the Earth,7.0,6.9,8.4,5.4,5.7
+The Revenant,6.3,8.4,7.8,7.0,5.7
+France,5.1,3.6,6.6,5.8,5.7
+Toast,7.4,5.2,6.2,5.4,5.7
+Hatchet,5.6,4.5,5.5,7.7,5.7
+Robin Hood,5.2,4.0,1.5,7.4,5.7
+Midnight in the Garden of Good and Evil,6.6,6.5,5.0,6.6,5.7
+First Knight,6.0,5.4,4.3,7.4,5.7
+Snow White and the Huntsman,7.3,5.2,4.9,6.1,5.7
+Coach Carter,7.3,8.5,6.4,7.7,5.7
+Morning Glory,6.4,4.6,6.4,6.6,5.7
+American Pop,7.1,8.0,6.3,6.8,5.7
+Up at the Villa,6.0,3.6,4.5,6.6,5.7
+Horrible Bosses,6.9,7.0,6.9,7.5,5.7
+Mama,8.3,5.5,6.3,6.4,5.7
+Not Without My Daughter,6.4,7.1,5.3,6.0,5.7
+Cujo,6.1,4.6,6.0,6.8,5.7
+Proxy,8.0,3.8,6.5,5.4,5.7
+I Origins,7.3,6.9,5.2,7.6,5.7
+Casanova,6.9,5.8,4.4,6.6,5.7
+War Dogs,5.8,6.9,6.1,7.9,5.7
+American Gigolo,6.3,5.0,6.9,3.8,5.7
+Jack Ryan: Shadow Recruit,6.2,5.3,5.5,5.9,5.7
+Sherlock Holmes,6.1,7.7,6.9,7.4,5.7
+Burial,8.0,4.8,6.1,4.8,5.7
+Brotherhood of the Wolf,7.0,7.8,7.3,7.3,5.7
+Beloved,6.2,7.1,7.2,6.0,5.7
+White Christmas,7.6,8.8,7.7,7.6,5.6
+The Mask,6.2,6.8,8.0,7.6,5.6
+Sympathy for Mr. Vengeance,7.5,8.5,5.3,8.0,5.6
+Date and Switch,5.4,3.8,3.0,6.0,5.6
+The Kingdom,8.2,7.6,5.1,6.0,5.6
+Buffalo Soldiers,6.2,7.2,7.3,7.9,5.6
+Perfume: The Story of a Murderer,7.5,7.4,5.9,7.5,5.6
+Rising Sun,6.2,4.0,3.3,7.3,5.6
+The Commuter,6.0,4.0,5.5,6.4,5.6
+Pump,8.5,8.2,7.5,1.0,5.6
+Leaving,5.7,4.8,6.8,6.7,5.6
+Die Another Day,6.1,4.1,5.5,7.5,5.6
+Excalibur,7.3,8.0,7.2,7.6,5.6
+Dark Blue World,7.1,8.4,6.2,7.6,5.6
+Scream 3,5.6,3.8,4.1,8.0,5.6
+The Muse,5.7,3.4,5.3,7.8,5.6
+Concussion,5.4,7.4,5.8,6.0,5.6
+Game 6,5.7,3.7,6.0,7.1,5.6
+Adrift,6.9,6.5,6.9,6.3,5.6
+Fever Pitch,4.1,2.5,1.4,6.7,5.6
+Star Trek III: The Search for Spock,6.6,6.6,7.8,6.7,5.6
+Guilty of Romance,6.8,6.0,6.7,6.7,5.6
+Transporter 2,6.3,5.8,5.2,4.1,5.6
+Million Dollar Arm,7.0,6.8,6.4,7.1,5.6
+God Bless America,6.9,6.8,6.6,7.3,5.6
+Religulous,7.6,7.8,6.9,7.6,5.6
+Genius,6.0,4.6,5.2,6.7,5.6
+The Cut,6.2,6.6,6.0,5.5,5.6
+Race,5.2,7.7,6.3,6.5,5.6
+Home for the Holidays,6.2,7.2,6.4,7.1,5.6
+Crush,6.1,5.8,3.6,5.9,5.6
+Watchmen,7.6,7.1,6.5,8.1,5.6
+Saints and Soldiers,6.7,7.7,6.6,7.5,5.6
+Mermaids,6.7,7.0,7.1,7.5,5.6
+Diary of a Wimpy Kid,6.2,4.0,7.5,6.4,5.6
+Lords of Dogtown,7.1,8.1,5.5,7.8,5.6
+Focus,6.9,6.2,5.6,6.2,5.6
+Nighthawks,6.2,3.8,4.0,7.7,5.6
+Paper Towns,6.2,4.7,5.8,6.3,5.6
+Leatherheads,6.0,3.8,5.2,5.6,5.6
+Once Upon a Time in Mexico,6.3,6.4,6.6,8.5,5.6
+Cruel Intentions,6.8,8.0,5.4,8.4,5.6
+Hyena,5.3,5.4,7.8,6.2,5.6
+The Fate of the Furious,6.6,7.2,6.7,6.9,5.6
+Date Night,7.7,5.5,6.6,5.8,5.6
+The DUFF,6.4,6.6,7.3,6.6,5.6
+Danny Deckchair,6.7,7.7,5.5,6.9,5.6
+Sylvia,6.6,5.6,3.7,6.5,5.6
+Anna and the King,7.3,6.4,5.1,6.6,5.6
+Sabrina,7.6,6.4,6.3,7.4,5.6
+Waterworld,6.3,4.3,4.5,4.2,5.6
+Hellraiser,6.9,7.3,7.0,8.5,5.6
+Minions,6.4,4.9,5.5,5.5,5.6
+Real Steel,7.1,7.3,6.0,7.1,5.6
+Wall Street,6.8,8.1,7.9,8.4,5.6
+War Machine,6.8,3.4,4.7,6.0,5.6
+Unknown,6.4,5.4,3.8,6.6,5.6
+Take Me,5.6,4.9,7.0,6.5,5.6
+Ramona and Beezus,6.5,7.1,7.0,7.4,5.6
+Filth,6.2,6.7,6.6,5.7,5.6
+Rollerball,6.5,1.4,0.3,7.4,5.6
+Doc Hollywood,6.3,5.0,6.8,7.4,5.6
+Hereafter,8.8,3.8,4.7,6.1,5.6
+Troy,7.3,7.3,5.3,8.6,5.6
+Phone Booth,7.1,6.4,7.2,8.7,5.6
+CQ,6.2,6.9,6.6,6.9,5.6
+Men of Honor,7.2,8.1,4.2,7.7,5.6
+Maleficent,7.7,7.0,5.4,6.8,5.6
+Pretty in Pink,6.7,8.1,7.3,8.3,5.6
+December Boys,6.5,5.2,4.1,6.2,5.6
+The Man Who Knew Infinity,7.2,7.1,6.3,7.2,5.6
+Ghostbusters II,6.6,6.1,5.5,7.0,5.6
+My Girl,6.9,7.7,5.0,8.3,5.6
+Dinner for Schmucks,5.9,4.2,4.2,5.7,5.6
+Death Becomes Her,6.6,6.1,5.5,8.4,5.6
+Ned Kelly,5.0,2.6,2.7,6.6,5.6
+Dinosaur,6.4,4.8,6.5,7.1,5.6
+Alive,7.1,6.8,6.1,7.0,5.6
+Black Rain,6.6,5.5,5.4,6.6,5.6
+W.,6.3,4.2,5.8,5.2,5.6
+Prefontaine,6.8,7.8,5.6,7.6,5.6
+Zack and Miri Make a Porno,6.5,6.6,6.5,6.5,5.6
+Twilight,7.4,7.2,4.9,4.9,5.6
+Max,5.6,6.4,6.9,7.7,5.6
+Soft Fruit,6.6,8.0,6.4,6.6,5.6
+Live and Let Die,6.7,6.4,6.5,6.3,5.5
+Mommie Dearest,6.6,7.2,4.7,7.0,5.5
+Pacific Heights,6.4,4.6,5.2,8.2,5.5
+Tie Me Up! Tie Me Down!,7.0,7.9,6.8,7.8,5.5
+Desperado,7.1,7.9,6.7,8.5,5.5
+Back to the Future Part III,7.4,7.8,8.0,8.2,5.5
+Safety,7.9,7.8,7.9,6.3,5.5
+Mad Love,6.6,8.2,10.0,5.5,5.5
+Man of Steel,6.9,7.5,5.6,7.6,5.5
+The Fog,7.2,1.9,0.4,7.0,5.5
+American Fable,5.8,4.1,7.6,6.0,5.5
+A Christmas Carol,6.0,8.9,8.6,7.1,5.5
+Yes,7.8,7.4,5.3,7.6,5.5
+Becoming Jane,7.0,7.4,5.8,6.9,5.5
+Driven,5.9,6.3,7.1,6.6,5.5
+Taking Woodstock,6.7,4.7,4.8,6.7,5.5
+Green Street Hooligans,7.4,8.7,4.6,8.5,5.5
+The Eagle,6.6,4.1,3.9,6.2,5.5
+Dark Shadows,5.5,4.6,3.5,5.9,5.5
+Purple Rain,6.5,7.8,7.0,7.0,5.5
+Camp,5.8,6.8,6.4,6.9,5.5
+Below,6.1,4.4,6.6,6.6,5.5
+Street Kings,6.8,5.8,3.6,7.2,5.5
+Money Monster,6.5,5.1,5.9,6.6,5.5
+Yesterday,5.4,8.9,6.3,6.3,5.5
+The Purge: Election Year,6.0,4.8,5.5,6.0,5.5
+Valmont,7.0,6.9,4.8,7.7,5.5
+Dominion: Prequel to the Exorcist,5.2,2.5,2.9,5.8,5.5
+Wendy,7.1,7.5,4.2,6.7,5.5
+P.S.,6.8,3.9,5.4,5.0,5.5
+Veronica Guerin,6.8,6.9,5.3,6.5,5.5
+Kids in the Hall: Brain Candy,6.9,7.7,4.4,8.5,5.5
+2 Guns,6.7,6.6,6.4,6.6,5.5
+Legend,6.3,5.9,6.1,8.4,5.5
+About Time,8.0,8.1,7.0,8.5,5.5
+Mr. & Mrs. Smith,6.3,5.8,5.9,8.3,5.5
+Nim's Island,6.0,4.6,5.2,8.4,5.5
+The Hundred-Foot Journey,7.3,8.1,6.8,7.0,5.5
+Love Actually,7.6,7.2,6.4,8.4,5.5
+The Gambler,7.8,7.7,8.0,5.5,5.5
+Starsky & Hutch,6.1,4.9,6.3,8.3,5.5
+Spirited,6.6,8.1,7.0,6.2,5.5
+Perfect Sense,9.2,6.0,5.7,6.9,5.5
+Rob Roy,6.8,7.5,7.3,8.3,5.5
+Ice Princess,6.0,5.8,5.2,6.5,5.5
+Torn Curtain,6.6,5.3,6.5,6.6,5.5
+Flatliners,6.5,5.9,5.0,8.3,5.5
+Take the Lead,6.6,7.7,4.4,6.4,5.5
+Zoom,7.7,4.7,6.1,5.7,5.5
+Party Girl,5.1,5.7,8.3,8.0,5.5
+Sukiyaki Western Django,6.1,5.7,5.6,6.7,5.5
+Volcano,6.7,3.2,4.9,5.9,5.5
+Rocky V,5.3,3.1,3.1,5.7,5.5
+Bride & Prejudice,6.2,7.0,6.4,5.5,5.5
+Clouds,6.5,8.9,7.6,8.0,5.5
+Barefoot in the Park,7.0,7.9,8.1,7.3,5.5
+The Fundamentals of Caring,7.3,8.3,7.7,8.5,5.5
+American: The Bill Hicks Story,7.7,8.6,8.4,6.7,5.5
+The First Time,6.0,6.5,4.7,6.8,5.5
+Frankie,6.5,3.1,5.7,6.0,5.5
+Tusk,4.8,3.6,4.6,5.4,5.5
+Harry Brown,7.2,7.5,6.3,6.9,5.5
+Screamers,6.3,4.5,2.9,6.5,5.5
+Facing Windows,7.2,8.7,6.3,6.7,5.5
+Evelyn,7.2,7.7,6.4,7.2,5.5
+Hearts in Atlantis,6.9,6.4,4.9,7.9,5.5
+All the Pretty Horses,5.8,4.2,3.2,6.6,5.5
+Mimic,6.0,3.7,6.7,8.1,5.5
+Volunteers,5.5,3.3,5.8,5.6,5.5
+Liberal Arts,6.7,6.0,7.1,7.2,5.5
+Hours,6.4,6.0,6.1,6.9,5.5
+Baby Mama,6.0,5.5,6.3,7.9,5.5
+Hostel,6.0,5.3,5.9,4.1,5.5
+Kindred,6.0,5.1,7.0,2.3,5.5
+Dodgeball: A True Underdog Story,6.7,7.6,7.1,4.7,5.5
+Baby Boy,6.4,8.7,7.1,7.0,5.5
+Tigerland,6.9,7.1,7.7,6.7,5.5
+Road Trip,6.5,6.5,5.7,5.1,5.5
+Seven Years in Tibet,7.1,7.3,5.8,7.4,5.5
+The Joneses,7.1,4.7,6.2,6.7,5.5
+Ichi the Killer,7.0,8.2,6.5,7.5,5.5
+They Live,7.2,7.9,8.5,7.7,5.5
+Idlewild,6.1,6.6,4.7,7.9,5.5
+Pathology,5.9,3.9,4.8,6.4,5.5
+Old School,3.4,8.6,6.0,8.1,5.4
+City of Angels,7.8,8.2,5.8,8.1,5.4
+Higher Learning,6.5,7.4,4.5,6.4,5.4
+Dunston Checks In,5.3,4.0,1.7,5.2,5.4
+Magic in the Moonlight,6.5,4.5,5.1,6.4,5.4
+Hulk,6.4,2.9,6.2,5.3,5.4
+Rounders,7.3,8.7,6.4,8.0,5.4
+Psycho II,6.6,5.9,6.1,6.2,5.4
+Brubaker,7.1,7.3,7.5,7.5,5.4
+Pledge,8.1,6.5,7.7,5.6,5.4
+V/H/S,5.8,4.1,5.6,6.8,5.4
+Deep Blue Sea,5.9,3.9,6.0,6.6,5.4
+Imagine That,4.0,4.0,4.1,5.6,5.4
+Puncture,8.7,5.4,5.2,7.1,5.4
+A Street Cat Named Bob,7.3,7.7,7.7,7.9,5.4
+Charlie Bartlett,6.9,7.1,5.8,7.1,5.4
+Mood Indigo,7.5,5.3,6.1,6.2,5.4
+Thor: The Dark World,6.8,7.5,6.6,7.0,5.4
+The Last Stand,6.3,5.3,6.1,6.6,5.4
+Cashback,7.6,7.7,4.7,8.1,5.4
+Battle in Seattle,6.6,6.4,5.6,7.5,5.4
+Jersey Boys,6.8,6.2,5.1,6.6,5.4
+Memoirs of a Geisha,7.3,8.3,3.5,6.8,5.4
+Hidalgo,7.7,6.4,4.6,7.5,5.4
+All Is Bright,8.2,2.3,4.9,5.5,5.4
+Pontypool,6.5,6.8,8.4,6.6,5.4
+Bamboozled,6.3,7.4,5.3,6.6,5.4
+Art School Confidential,6.3,4.8,3.5,6.2,5.4
+Ricki and the Flash,6.0,4.3,6.4,6.4,5.4
+Life Stinks,5.9,4.5,2.1,5.7,5.4
+So I Married an Axe Murderer,6.5,6.8,5.3,6.0,5.4
+Jackass Presents: Bad Grandpa,6.5,6.0,6.1,6.4,5.4
+10 Items or Less,6.5,6.5,6.3,5.8,5.4
+Melinda and Melinda,6.4,4.7,5.1,5.9,5.4
+Too Late,7.7,7.5,8.0,6.4,5.4
+Entrapment,6.3,5.0,4.0,8.2,5.4
+Friday,6.1,9.1,7.6,7.4,5.4
+Hamlet 2,6.3,5.6,6.2,6.3,5.4
+Diary of a Wimpy Kid: Dog Days,6.3,6.3,5.2,6.6,5.4
+Bruno,6.0,6.9,2.0,5.9,5.4
+Return to Paradise,6.0,7.4,7.0,7.0,5.4
+Get Smart,8.2,6.7,5.1,7.0,5.4
+Deathtrap,7.0,7.0,7.2,6.9,5.4
+From Hell,6.7,6.6,5.7,5.3,5.4
+Return to Me,6.9,7.9,6.2,6.5,5.4
+LBJ,6.6,5.4,5.7,7.6,5.4
+The Discovery,7.6,4.3,4.6,6.1,5.4
+Eddie the Eagle,7.3,8.2,8.1,7.2,5.4
+Bobby,6.9,7.2,4.7,6.3,5.4
+Booty Call,5.4,5.9,3.1,7.3,5.4
+Educating Rita,7.2,8.1,8.2,6.9,5.4
+Warriors of Heaven and Earth,6.3,5.6,6.8,5.7,5.4
+Dare,6.9,4.2,6.1,5.9,5.4
+Paper Heart,5.9,4.5,6.0,5.4,5.4
+Big Wednesday,7.1,8.7,6.7,7.6,5.4
+Bandit,7.5,8.0,7.2,5.8,5.4
+Oblivion,4.9,8.9,9.4,7.1,5.4
+Aqua Teen Hunger Force Colon Movie Film for Theaters,6.7,6.8,4.8,7.3,5.4
+Camp X-Ray,6.9,6.3,7.5,7.3,5.4
+Blue Steel,5.3,3.6,7.5,7.6,5.4
+Boogie,5.4,5.7,4.2,6.0,5.4
+Gerry,6.0,6.1,6.1,5.0,5.4
+Music of the Heart,6.8,7.2,6.3,7.7,5.4
+For Your Eyes Only,6.7,6.4,6.9,6.4,5.4
+Observe and Report,5.7,3.7,5.1,6.2,5.4
+Blue in the Face,6.6,7.6,4.3,7.5,5.4
+Anon,6.1,3.4,3.6,5.9,5.4
+Blame,5.0,6.5,8.1,7.6,5.4
+Fullmetal Alchemist: The Sacred Star of Milos,6.9,8.1,8.3,5.8,5.4
+Wolf Creek,6.2,4.9,5.4,6.0,5.4
+People I Know,5.4,3.1,4.4,7.4,5.3
+Human Traffic,7.1,8.9,5.9,8.3,5.3
+Paranormal Activity 2,5.7,4.8,5.7,5.8,5.3
+2010,8.6,6.1,6.6,7.3,5.3
+Red Dawn,6.3,5.1,1.4,5.7,5.3
+Sinister,3.6,6.2,6.3,7.2,5.3
+A Wrinkle in Time,5.6,2.6,4.2,2.9,5.3
+Conan the Destroyer,5.9,3.8,2.7,6.2,5.3
+Book Club,7.6,5.1,5.4,4.8,5.3
+Beowulf & Grendel,5.8,4.0,4.9,6.7,5.3
+Alpha Dog,6.9,6.7,5.4,6.2,5.3
+Ella Enchanted,6.3,5.7,5.1,7.9,5.3
+Save the Last Dance,6.2,5.9,5.3,7.7,5.3
+Bandits,6.7,5.8,6.4,7.6,5.3
+In Too Deep,4.4,7.5,3.9,8.1,5.3
+George of the Jungle,6.7,4.2,5.5,6.4,5.3
+Mrs. Doubtfire,7.1,7.7,7.0,8.1,5.3
+Soul Surfer,7.0,7.5,4.6,7.2,5.3
+In the Mouth of Madness,7.1,7.3,5.8,7.2,5.3
+Nancy Drew,6.6,5.9,4.9,6.3,5.3
+Aline,6.7,6.9,5.6,5.3,5.3
+30 Days of Night,6.6,5.6,5.1,8.0,5.3
+Irrational Man,6.6,4.6,4.6,6.7,5.3
+Shaolin,6.8,7.1,7.4,7.2,5.3
+Baby Boom,6.3,6.2,7.0,6.2,5.3
+Kika,6.5,7.1,5.9,5.7,5.3
+Looking for Comedy in the Muslim World,5.5,2.7,4.2,5.9,5.3
+Lucky Number Slevin,7.7,8.7,5.1,8.5,5.3
+Shooter,6.9,8.0,4.8,7.9,5.3
+Flightplan,6.3,4.8,3.7,5.8,5.3
+RocknRolla,7.2,7.1,6.0,8.3,5.3
+Grumpy Old Men,7.0,7.4,6.4,7.3,5.3
+Imaginary Heroes,7.1,8.1,3.5,5.9,5.3
+Logan's Run,6.8,6.7,6.2,6.8,5.3
+Broken,7.1,7.3,6.3,7.3,5.3
+John Dies at the End,6.3,5.4,6.0,6.7,5.3
+Ma,5.6,6.4,5.5,5.4,5.3
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,6.5,8.0,3.2,5.8,5.3
+Passion,6.6,2.5,3.3,5.4,5.3
+Vanity Fair,5.7,5.0,5.1,5.8,5.3
+De-Lovely,6.6,6.5,4.8,7.0,5.3
+Lost and Delirious,6.8,7.8,5.1,7.8,5.3
+Mischief,6.5,6.7,5.7,8.0,5.3
+Bad Boys,6.8,7.8,4.3,8.5,5.3
+Palindromes,6.7,6.9,4.3,7.1,5.3
+Lost Highway,7.6,8.7,6.8,7.7,5.3
+Hysteria,6.0,5.4,5.9,6.1,5.3
+We Are Marshall,7.0,7.9,4.9,7.9,5.3
+Penguins of Madagascar,6.6,6.3,7.4,6.4,5.3
+The Amazing Spider-Man 2,6.6,6.4,5.1,6.3,5.3
+Benji,6.1,6.8,6.0,7.6,5.3
+The Journey,6.8,6.4,6.8,6.4,5.3
+Rent,6.7,8.3,4.7,7.3,5.3
+Suspect,6.6,5.8,6.7,6.7,5.3
+Mr. Popper's Penguins,6.0,5.3,4.7,6.0,5.3
+Twins,5.5,3.9,4.2,8.1,5.3
+Wanderlust,5.2,3.9,5.9,6.4,5.3
+Australia,6.3,6.5,5.4,6.7,5.3
+Wasabi,6.6,6.9,4.3,6.8,5.3
+40 Days and 40 Nights,5.6,4.3,3.9,7.4,5.3
+O,6.1,5.8,6.4,2.8,5.3
+Beauty Shop,5.6,6.2,3.8,6.1,5.3
+Demons,6.6,6.5,6.4,7.3,5.3
+Duck,7.3,4.5,5.0,6.7,5.3
+Heartbreak Ridge,6.8,7.4,6.8,6.6,5.3
+White Squall,6.6,6.5,5.7,6.2,5.3
+Pirates of the Caribbean: Dead Man's Chest,7.4,7.2,5.3,7.2,5.3
+Metroland,6.3,5.4,6.2,8.1,5.3
+Point of No Return,5.2,5.0,5.2,7.6,5.3
+Legend of the Guardians: The Owls of Ga'Hoole,6.9,6.3,5.2,8.2,5.3
+Overboard,6.2,7.4,4.6,8.0,5.3
+Big Trouble in Little China,7.2,8.2,7.4,7.3,5.3
+Carrie,7.3,5.7,7.1,6.1,5.3
+The Guardian,6.4,3.2,2.7,7.7,5.3
+In Time,6.9,5.1,3.7,6.4,5.3
+5 to 7,7.1,7.0,7.0,7.7,5.2
+Bounce,5.8,3.2,5.3,7.0,5.2
+Charlie's Angels,6.5,4.5,6.8,8.4,5.2
+Can't Hardly Wait,6.5,6.3,4.0,7.3,5.2
+Tomorrow Never Dies,6.5,5.3,5.7,7.2,5.2
+Man of Tai Chi,6.0,5.0,7.1,6.6,5.2
+White House Down,6.3,6.2,5.1,5.8,5.2
+Anger Management,6.2,6.0,4.2,8.6,5.2
+Like Father,6.8,4.7,4.6,5.2,5.2
+Malice,6.5,4.6,5.7,7.4,5.2
+Orfeu,5.5,5.3,3.6,7.2,5.2
+The Wood,7.0,9.2,6.1,8.2,5.2
+Ghost,7.2,7.5,10.0,8.3,5.2
+Jumpin' Jack Flash,5.9,5.8,2.7,7.6,5.2
+The Holiday,6.9,8.0,5.1,8.4,5.2
+Black Snake Moan,6.9,6.9,6.6,7.1,5.2
+Paradise,5.6,5.0,3.3,6.0,5.2
+Mr. Right,5.2,3.0,1.5,6.4,5.2
+Comet,9.1,5.3,4.4,7.9,5.2
+Remember,6.4,7.9,6.9,7.3,5.2
+Fay Grim,6.1,5.7,4.7,6.7,5.2
+Blade II,6.7,6.8,5.7,8.1,5.2
+Gridiron Gang,8.0,8.1,4.2,7.7,5.2
+The Machine,7.6,4.6,7.9,6.9,5.2
+Boulevard,6.6,3.0,5.2,6.0,5.2
+Deadfall,5.7,3.7,3.4,5.7,5.2
+Bean,6.5,5.3,4.3,6.8,5.2
+Spirit: Stallion of the Cimarron,7.2,7.7,6.9,7.7,5.2
+Mars Attacks!,6.4,5.3,5.6,6.9,5.2
+Black Beauty,5.7,5.5,4.8,6.5,5.2
+Maggie,5.1,6.2,6.3,6.3,5.2
+London Boulevard,6.2,3.0,3.7,6.0,5.2
+Murder on the Orient Express,7.2,5.4,6.1,6.4,5.2
+Three Amigos!,6.5,6.7,4.5,7.4,5.2
+Serendipity,6.8,7.9,5.9,8.1,5.2
+Bring It On,6.1,6.6,6.4,4.4,5.2
+Center Stage,7.5,8.2,4.2,4.8,5.2
+Halloween H20: 20 Years Later,5.8,4.9,5.3,5.0,5.2
+I Know What You Did Last Summer,5.8,4.1,4.4,4.2,5.2
+Greed,8.0,9.1,9.6,5.7,5.2
+Dark Water,5.1,2.8,4.7,7.8,5.2
+Detachment,5.4,7.4,5.8,7.8,5.2
+Central Intelligence,6.3,6.2,7.1,6.2,5.2
+School Daze,6.1,7.9,5.9,5.2,5.2
+Silent Night,6.2,3.3,6.4,5.5,5.2
+Last Holiday,7.3,7.7,10.0,7.0,5.2
+Insidious,6.0,6.2,6.6,7.3,5.2
+Grease 2,4.5,5.3,3.5,4.1,5.2
+Breathless,7.7,8.3,8.4,7.9,5.2
+Secondhand Lions,7.5,8.4,6.0,7.5,5.2
+Atlantis: The Lost Empire,6.9,5.4,4.9,7.3,5.2
+Julien Donkey-Boy,6.7,7.1,2.9,7.9,5.2
+Be Kind Rewind,6.4,5.6,6.5,6.7,5.2
+Wild at Heart,7.2,8.1,6.6,6.8,5.2
+Hook,6.8,7.6,2.9,7.2,5.2
+300,7.6,8.9,6.1,7.3,5.2
+Race to Witch Mountain,5.7,4.4,4.2,6.0,5.2
+Any Given Sunday,6.9,7.3,5.2,7.8,5.2
+Eiffel,6.2,8.9,4.8,5.6,5.2
+Scream 4,6.2,5.6,6.0,6.5,5.2
+Splendor,6.2,6.3,6.0,5.8,5.2
+Absolute Power,6.7,5.2,5.6,6.5,5.2
+Water for Elephants,6.9,7.0,6.0,6.9,5.2
+Dead Man's Shoes,8.1,9.1,5.8,7.8,5.2
+X-Men: Apocalypse,6.6,6.5,4.7,6.4,5.2
+Rudderless,7.4,8.3,6.4,7.9,5.2
+Felony,4.4,4.6,7.0,5.6,5.2
+Critters,6.1,4.5,5.0,6.7,5.2
+Nacho Libre,5.9,5.4,4.0,6.9,5.2
+Epic,5.7,6.5,6.4,6.3,5.2
+Under the Tuscan Sun,6.7,7.8,6.2,7.6,5.2
+Rat Race,5.6,6.4,4.5,8.2,5.2
+Blow,7.5,8.7,5.5,8.5,5.2
+Romeo Must Die,6.1,6.1,3.2,7.2,5.2
+Snake Eyes,6.1,3.5,4.1,2.2,5.2
+Wild Things,6.6,5.3,6.3,8.0,5.2
+Beautiful Creatures,5.8,3.3,3.8,6.1,5.2
+Haiku Tunnel,6.1,7.5,6.0,6.9,5.1
+The Intern,7.4,7.3,5.9,6.7,5.1
+96 Minutes,5.7,4.5,5.0,7.4,5.1
+Uncle Buck,7.1,7.7,6.2,7.6,5.1
+Robin Hood: Prince of Thieves,6.9,7.2,5.0,7.0,5.1
+A Walk in the Woods,8.5,4.8,4.7,5.8,5.1
+Jurassic World: Fallen Kingdom,6.1,4.8,4.7,5.6,5.1
+Poetic Justice,6.1,8.3,3.4,7.4,5.1
+The Neon Demon,6.1,5.1,5.8,4.4,5.1
+Mammoth,5.4,6.3,4.5,6.1,5.1
+Windtalkers,6.1,5.0,3.3,6.1,5.1
+Pretty Woman,7.1,6.8,6.5,8.6,5.1
+Contraband,6.5,5.7,5.1,6.1,5.1
+Cesar Chavez,6.4,6.0,3.8,5.5,5.1
+The Second Best Exotic Marigold Hotel,6.5,5.9,6.5,6.0,5.1
+You Will Meet a Tall Dark Stranger,6.3,3.4,4.6,6.2,5.1
+High Heels,5.8,8.3,5.3,7.9,5.1
+Due Date,6.5,5.2,4.0,6.5,5.1
+Commando,7.2,6.7,6.7,6.9,5.1
+How to Be Single,6.1,4.7,4.6,6.1,5.1
+"Girl, Interrupted",7.3,8.4,5.3,7.5,5.1
+Birthday Girl,6.0,3.9,5.9,7.8,5.1
+Mamma Mia!,6.5,6.6,5.5,6.9,5.1
+Think Like a Man,6.5,7.9,5.4,6.2,5.1
+Teenage Mutant Ninja Turtles,6.8,5.0,2.1,8.1,5.1
+Snitch,4.6,6.1,5.7,6.1,5.1
+Blackhat,5.5,2.4,3.3,5.4,5.1
+Aquamarine,5.4,6.1,5.1,7.7,5.1
+Risen,4.1,7.0,5.3,6.9,5.1
+Transporter 3,6.1,4.8,4.0,5.8,5.1
+Jaws 2,5.8,3.8,6.1,7.2,5.1
+Saint Ralph,7.3,8.5,6.4,6.3,5.1
+What Lies Beneath,6.6,5.8,4.7,6.9,5.1
+Austin Powers: International Man of Mystery,7.0,7.7,7.3,8.5,5.1
+Casino Jack,6.2,3.4,3.9,5.1,5.1
+That Demon Within,5.9,4.0,4.7,7.8,5.1
+Rough Night,5.2,2.9,4.5,4.7,5.1
+Blind Date,6.0,4.2,2.4,3.3,5.1
+Doomsday,6.3,4.4,5.1,5.1,5.1
+Johnny English,6.2,5.1,3.3,6.9,5.1
+Death Wish,6.9,7.1,1.8,5.3,5.1
+Woman in Gold,7.3,7.9,5.7,7.2,5.1
+Eros,6.3,4.5,3.4,6.8,5.1
+Jay and Silent Bob Strike Back,6.8,7.5,5.2,8.3,5.1
+Heavy Metal,6.6,6.7,6.6,7.1,5.1
+Barbarella,5.8,5.6,7.4,5.7,5.1
+The Accountant,7.3,7.6,5.2,7.3,5.1
+My Blueberry Nights,6.6,6.1,4.6,6.7,5.1
+Fear,5.7,3.7,2.2,1.1,5.1
+Holly,6.8,6.3,6.4,6.8,5.1
+Ender's Game,6.6,6.5,6.2,6.5,5.1
+Apt Pupil,6.7,5.6,5.3,6.5,5.1
+Sister Act,6.5,6.5,7.5,7.2,5.1
+Star Trek: Nemesis,6.4,4.9,3.8,5.9,5.1
+Birth,6.2,4.3,3.9,6.3,5.1
+Papillon,8.0,6.7,5.2,6.5,5.1
+Campfire,6.8,7.5,8.8,4.6,5.1
+Anonymous,5.5,5.3,4.6,6.1,5.0
+Jack Reacher,7.0,6.7,6.3,6.4,5.0
+Super,5.8,5.6,4.9,7.9,5.0
+French Kiss,6.2,7.5,4.8,8.0,5.0
+Always,5.6,6.0,6.5,6.6,5.0
+Partisan,5.5,3.8,5.8,6.3,5.0
+Firestarter,6.0,4.7,1.0,6.4,5.0
+Kill the Irishman,7.0,6.7,6.2,6.6,5.0
+Billabong Odyssey,6.7,8.9,3.6,8.3,5.0
+City by the Sea,6.1,4.0,4.8,8.4,5.0
+Varsity Blues,6.5,7.6,4.3,7.5,5.0
+Hoodlum,6.3,6.5,4.3,8.1,5.0
+Cadillac Man,5.7,3.2,5.8,6.4,5.0
+True Story,6.6,3.8,4.5,6.0,5.0
+Maze Runner: The Death Cure,6.2,5.8,4.3,6.4,5.0
+Happy Feet Two,5.8,6.0,4.5,5.5,5.0
+Last Christmas,5.8,8.1,4.6,5.9,5.0
+Final Destination 5,5.9,5.2,6.2,6.5,5.0
+No Strings Attached,5.0,5.1,4.8,5.5,5.0
+Holidays,7.8,2.4,5.0,4.3,5.0
+Hellraiser III: Hell on Earth,5.5,3.5,4.0,6.7,5.0
+Young Guns,6.8,7.6,4.2,7.8,5.0
+Red State,6.1,5.4,6.0,6.3,5.0
+Eat Pray Love,5.8,4.2,3.6,5.1,5.0
+Elektra Luxx,5.0,1.9,2.4,6.5,5.0
+Bill & Ted's Excellent Adventure,6.9,7.5,8.2,8.4,5.0
+Constantine,7.0,7.2,4.6,8.4,5.0
+Hoffa,6.6,5.9,5.2,8.0,5.0
+No Reservations,6.3,6.2,4.2,6.7,5.0
+"Honey, I Blew Up the Kid",4.9,2.4,4.0,6.4,5.0
+Short Circuit,6.6,6.7,6.1,6.4,5.0
+The Brothers,8.1,8.4,6.3,7.5,5.0
+My Best Friend's Wedding,6.3,7.3,7.4,8.0,5.0
+Tombstone,7.8,9.4,7.2,7.1,5.0
+Bloodsucking Bastards,5.7,4.8,6.7,5.4,5.0
+Duplex,5.9,4.0,3.5,6.7,5.0
+Lifeforce,6.1,4.6,5.7,7.3,5.0
+Going in Style,7.1,7.4,8.2,,6.5
+Passenger 57,5.9,3.8,2.4,6.4,5.0
+Star Trek: The Motion Picture,6.4,4.2,5.3,6.4,5.0
+Last Night,7.1,4.6,5.4,6.9,5.0
+Prom,5.2,3.9,3.5,6.3,5.0
+Billy Jack,6.2,6.3,6.3,6.8,5.0
+All Dogs Go to Heaven,6.7,6.3,4.4,7.1,5.0
+American Ultra,6.1,4.5,4.4,6.1,5.0
+Two for the Money,7.9,4.8,2.2,2.5,5.0
+Management,5.8,3.0,4.7,6.0,5.0
+The Boss Baby,6.3,5.1,5.3,5.1,5.0
+Murder by Numbers,5.0,4.9,3.0,7.1,5.0
+Pirates of the Caribbean: At World's End,7.1,7.2,4.4,6.4,5.0
+Boundaries,6.2,1.4,8.0,4.7,5.0
+Mr. Mom,6.6,5.7,7.6,7.0,5.0
+Trash,6.1,7.0,6.6,6.9,5.0
+Fur: An Imaginary Portrait of Diane Arbus,6.3,6.3,3.2,5.5,5.0
+Letters to Juliet,6.5,6.2,4.2,6.3,5.0
+Garage Days,5.8,6.1,4.4,4.1,5.0
+Storytelling,6.8,6.7,5.4,7.2,5.0
+The Island,7.4,8.0,10.0,8.6,5.0
+The Ten,4.9,4.0,3.5,6.7,5.0
+Look,7.2,5.6,6.0,4.3,5.0
+You People,5.5,3.5,4.1,3.4,5.0
+My Super Ex-Girlfriend,5.2,3.1,4.0,8.4,5.0
+Prince of Darkness,6.7,6.1,6.1,7.6,5.0
+Prince of Persia: The Sands of Time,8.5,5.8,3.7,7.2,5.0
+Dark Skies,7.5,4.9,4.1,7.2,5.0
+Top Gun,6.2,8.3,5.8,6.9,5.0
+Halloween III: Season of the Witch,5.1,2.8,5.1,5.9,5.0
+Cowboys & Aliens,6.0,4.3,4.4,5.9,5.0
+Blonde,6.1,4.6,6.0,4.7,5.0
+Alfie,7.0,5.1,4.8,,7.0
+Behind Enemy Lines,5.6,6.2,3.7,6.2,4.9
+B. Monkey,5.9,5.4,6.0,8.2,4.9
+Mickey Blue Eyes,5.9,4.2,4.5,7.7,4.9
+Magic,6.8,6.4,8.6,7.0,4.9
+Wilson,6.4,3.0,4.7,5.3,4.9
+Cassandra's Dream,6.6,4.9,4.6,7.8,4.9
+Escape Plan,6.7,5.5,5.0,7.7,4.9
+Guess Who,5.9,4.9,4.1,8.3,4.9
+Sex Drive,5.2,5.8,4.5,7.4,4.9
+Daddy's Little Girls,5.1,8.1,2.6,5.5,4.9
+Addicted to Love,6.1,5.0,5.5,7.7,4.9
+Death of a President,7.3,5.8,3.9,6.2,4.9
+Lucky You,5.9,2.8,2.8,6.6,4.9
+Far and Away,6.6,6.2,5.0,7.2,4.9
+Casper,6.2,4.9,5.1,7.3,4.9
+Henry's Crime,5.9,2.5,4.2,5.5,4.9
+Demolition,5.6,5.4,5.4,7.4,4.9
+2012,5.8,4.7,3.9,5.5,4.9
+Paid in Full,7.0,9.3,5.3,6.0,4.9
+"Mystery, Alaska",6.7,6.6,3.7,8.5,4.9
+Out to Sea,6.1,5.2,3.6,6.0,4.9
+Queens,6.5,6.0,4.5,5.0,4.9
+Nicotina,6.5,7.3,4.6,6.5,4.9
+Sidewalks of New York,5.6,5.4,5.6,7.4,4.9
+Final Fantasy: The Spirits Within,6.4,4.8,4.4,6.2,4.9
+My Fellow Americans,6.5,6.4,4.7,6.8,4.9
+Richie Rich,5.4,3.2,2.6,5.9,4.9
+Coneheads,5.4,3.7,3.5,5.4,4.9
+April Fool's Day,6.1,4.7,5.5,4.8,4.9
+American Reunion,6.7,6.3,4.5,7.3,4.9
+Krampus,6.3,5.1,6.6,7.6,4.9
+"New York, I Love You",6.2,3.7,3.7,5.2,4.9
+Porno,5.6,3.8,7.7,3.5,4.9
+Shoot 'Em Up,6.6,6.5,6.7,8.0,4.9
+Marked for Death,5.9,5.0,2.7,5.8,4.9
+The Grudge,6.4,2.3,2.0,3.5,4.9
+Conspiracy Theory,6.7,6.4,5.7,6.8,4.9
+Terminator Salvation,6.5,5.3,3.3,6.0,4.9
+Hancock,7.4,5.9,4.1,6.4,4.9
+Mary Shelley,4.8,4.8,4.1,5.7,4.9
+Callas Forever,6.4,5.4,4.1,5.4,4.9
+Antichrist,5.7,5.5,5.4,7.2,4.9
+Eyes of Laura Mars,6.2,4.3,5.5,5.8,4.9
+Four Brothers,6.8,8.0,5.2,6.2,4.9
+Sleuth,8.0,9.0,9.3,5.8,4.9
+Mars Needs Moms,5.4,4.0,3.7,4.4,4.9
+Django,7.2,8.3,9.3,7.3,4.9
+Kalifornia,6.7,6.4,5.8,8.4,4.9
+Harvard Man,4.8,3.3,3.3,1.4,4.9
+Harrison's Flowers,7.1,7.6,4.9,5.5,4.9
+Bedazzled,6.8,7.4,7.4,,7.7
+Mary Shelley's Frankenstein,6.4,4.9,4.2,6.7,4.9
+I Think I Love My Wife,5.5,4.1,1.9,6.2,4.9
+Dennis the Menace,7.0,3.8,2.7,6.8,4.9
+Men in Black II,6.2,4.5,3.8,7.0,4.9
+Dead or Alive,5.9,7.4,5.5,4.6,4.9
+Green Dragon,6.1,5.1,6.1,5.2,4.9
+Father of the Bride Part II,6.1,6.0,5.2,7.4,4.9
+Species,5.9,3.1,4.2,8.5,4.9
+Hatchet II,5.5,3.6,4.2,7.2,4.9
+Imagine Me & You,6.7,7.4,3.5,7.4,4.9
+Stalingrad,7.5,4.0,5.1,4.3,4.9
+Azumi,6.8,8.1,4.7,7.7,4.9
+Open Season,6.1,5.7,4.9,6.2,4.9
+Lola Versus,5.5,3.1,3.6,5.4,4.9
+"Me, Myself & Irene",6.6,5.7,4.8,7.7,4.9
+Despicable Me 3,6.2,5.3,5.9,5.6,4.9
+Running Scared,7.3,5.8,5.9,6.0,4.9
+Nine,3.4,3.7,3.9,4.5,4.9
+30 Minutes or Less,6.1,4.0,4.5,5.6,4.9
+Elsa & Fred,7.5,5.1,3.2,4.9,4.9
+The Emperor's Club,6.9,6.7,5.0,7.3,4.9
+Hart's War,6.3,4.8,6.0,5.7,4.9
+K-PAX,7.4,7.4,4.2,7.5,4.9
+Jeepers Creepers,6.7,4.9,4.6,5.8,4.9
+Dr. Dolittle 2,4.7,2.6,4.2,5.7,4.9
+Inventing the Abbotts,6.4,5.1,3.3,6.3,4.9
+Gold,5.2,7.6,5.0,6.4,4.9
+Son of a Gun,7.8,6.3,6.2,6.1,4.9
+Return to Never Land,5.8,3.8,4.5,6.3,4.9
+"Scotland, Pa.",6.6,7.4,5.9,6.6,4.9
+Pitch Black,7.0,7.7,5.9,8.5,4.9
+Romance,5.7,4.6,4.9,6.5,4.9
+Angel-A,7.0,7.4,4.5,5.9,4.8
+Scoop,5.9,5.5,4.1,6.6,4.8
+Gung Ho,6.0,4.6,3.3,7.4,4.8
+Less Than Zero,6.4,6.3,5.0,7.5,4.8
+Goon: Last of the Enforcers,5.8,4.1,4.1,5.3,4.8
+Charlie's Angels: Full Throttle,4.9,4.0,4.1,5.4,4.8
+Charlotte Gray,6.4,6.2,3.3,7.3,4.8
+Remember the Titans,7.8,9.3,7.2,8.1,4.8
+Titan A.E.,6.6,6.1,5.0,8.4,4.8
+Ride,4.4,3.8,3.1,5.3,4.8
+Outland,6.6,5.4,5.4,6.7,4.8
+The Love Bug,6.5,6.6,7.8,6.6,4.8
+Sherlock Holmes: A Game of Shadows,7.4,7.7,5.9,7.4,4.8
+Made in America,5.1,2.9,3.3,4.1,4.8
+Timecop,5.9,3.6,4.2,6.8,4.8
+Brother Bear,6.8,6.5,3.7,6.5,4.8
+Bartleby,6.5,6.8,3.5,7.1,4.8
+My First Mister,7.2,7.5,5.3,7.6,4.8
+Saw III,6.2,7.1,3.0,7.3,4.8
+Ted 2,6.3,5.0,4.4,6.2,4.8
+Bride of Chucky,5.6,4.8,4.7,8.2,4.8
+The Greatest Showman,7.5,8.6,5.6,7.5,4.8
+Last Vegas,7.1,5.9,4.6,7.0,4.8
+Luck,7.2,6.8,4.8,6.4,4.8
+Spanglish,6.4,6.0,5.4,8.0,4.8
+50 First Dates,6.8,6.5,4.5,6.6,4.8
+Sinbad: Legend of the Seven Seas,6.7,5.6,4.5,6.7,4.8
+Rush Hour 2,6.7,7.4,5.1,8.1,4.8
+Sugar & Spice,5.7,4.2,2.8,6.9,4.8
+Scary Movie,4.9,4.3,5.1,3.8,4.8
+Caddyshack,7.2,8.7,7.2,7.5,4.8
+Planes: Fire & Rescue,5.9,5.6,4.5,5.2,4.8
+Emperor,6.9,4.6,3.2,6.0,4.8
+Tomb Raider,8.0,5.4,5.3,6.2,4.8
+Chicken Little,7.3,4.7,3.6,5.3,4.8
+Child's Play,5.5,6.4,7.2,6.1,4.8
+21,7.3,6.6,3.6,6.4,4.8
+I'm Gonna Git You Sucka,6.6,7.0,6.2,7.1,4.8
+Super Troopers,7.0,9.0,3.6,7.6,4.8
+Orange County,6.2,6.1,4.7,7.1,4.8
+Vertical Limit,5.9,4.1,4.8,6.0,4.8
+The Mummy,7.0,3.5,1.5,8.6,4.8
+From Dusk Till Dawn,7.2,7.6,6.3,8.6,4.8
+300: Rise of an Empire,6.2,5.1,4.5,6.6,4.8
+Lockout,3.9,4.6,3.7,7.7,4.8
+Memoirs of an Invisible Man,6.0,3.2,2.6,6.1,4.8
+Bullet to the Head,5.7,3.9,4.5,5.7,4.8
+Just Cause,6.4,4.6,2.6,5.8,4.8
+I'm Still Here,7.4,3.8,5.3,6.1,4.8
+Angels & Demons,6.7,5.7,3.7,6.3,4.8
+Dummy,7.2,7.4,7.0,7.7,4.8
+High Crimes,6.4,5.0,3.0,6.6,4.8
+Shallow Hal,6.0,4.5,5.0,5.4,4.8
+Orgazmo,6.1,6.6,4.8,7.7,4.8
+One Day,6.0,5.0,3.6,6.1,4.8
+Beverly Hills Cop II,6.5,5.7,4.6,6.6,4.8
+King of Thieves,7.1,3.0,3.3,5.8,4.8
+Airplane II: The Sequel,6.1,5.0,4.2,6.4,4.8
+The FP,7.0,5.4,5.0,6.5,4.8
+The Great Raid,6.6,7.0,3.8,7.8,4.8
+Night at the Museum,6.5,6.7,4.3,6.8,4.8
+17 Again,6.4,6.7,5.6,5.9,4.8
+Pet,6.3,3.2,5.6,6.5,4.8
+Frances,7.2,7.8,6.7,8.5,4.8
+Buffy the Vampire Slayer,5.7,4.3,3.6,7.7,4.8
+National Treasure: Book of Secrets,6.5,6.7,3.6,5.9,4.8
+Shark Tale,6.0,4.6,3.5,6.5,4.8
+Morgan,8.2,3.0,3.7,5.7,4.8
+Hannah Montana: The Movie,4.6,6.7,4.3,5.8,4.7
+Percy Jackson & the Olympians: The Lightning Thief,5.9,5.3,4.9,5.1,4.7
+Willow,7.2,8.0,5.3,7.6,4.7
+One Crazy Summer,6.4,6.3,4.5,6.2,4.7
+Pink Flamingos,6.0,7.2,8.4,3.4,4.7
+Bella,5.9,8.1,4.4,7.7,4.7
+Sgt. Bilko,5.8,4.7,3.0,7.0,4.7
+Accepted,6.4,7.2,3.8,8.0,4.7
+Easy,5.6,4.8,5.9,3.8,4.7
+Better Than Sex,6.3,6.9,4.7,7.2,4.7
+Brother,6.9,7.9,4.7,7.3,4.7
+Josie and the Pussycats,6.2,5.2,5.3,7.7,4.7
+Chaplin,7.5,8.1,5.9,7.5,4.7
+Hotel,6.6,3.1,4.1,4.8,4.7
+Shooting Fish,6.5,7.6,5.7,7.5,4.7
+Night at the Museum: Secret of the Tomb,6.2,5.7,4.7,6.0,4.7
+He's Just Not That Into You,6.4,5.9,4.1,6.0,4.7
+In the Land of Women,6.4,5.2,4.4,5.5,4.7
+In the Heart of the Sea,6.9,5.3,4.2,6.8,4.7
+Jennifer's Body,5.5,3.5,4.6,7.3,4.7
+Bad Teacher,5.6,3.6,4.5,5.3,4.7
+Lions for Lambs,6.2,4.7,2.7,5.0,4.7
+Flight of the Phoenix,6.1,4.0,3.0,8.0,4.7
+Ladder 49,6.5,8.1,4.1,7.8,4.7
+"Legally Blonde 2: Red, White & Blonde",4.8,2.9,3.6,5.9,4.7
+Heartbreakers,6.1,5.1,5.4,8.3,4.7
+Burlesque,4.4,6.4,3.7,7.6,4.7
+Jack Reacher: Never Go Back,6.1,4.2,3.8,5.6,4.7
+Flyboys,6.5,6.7,3.3,6.9,4.7
+The Dressmaker,6.3,6.6,5.9,7.2,4.7
+Choke,7.4,5.2,5.6,8.5,4.7
+Coming to America,7.1,8.5,7.3,7.8,4.7
+1492: Conquest of Paradise,6.4,5.0,3.2,6.2,4.7
+I Am David,7.1,8.4,3.9,6.1,4.7
+Shall We Dance,7.5,8.4,8.9,7.6,4.7
+Luther,6.5,7.4,4.5,6.3,4.7
+Midway,6.7,9.2,4.2,6.1,4.7
+Young Guns II,6.5,6.6,2.8,8.3,4.7
+The Hitman's Bodyguard,6.9,6.7,4.3,6.5,4.7
+The Wild,5.5,3.6,1.9,4.9,4.7
+"Blood In, Blood Out",7.8,9.4,6.2,8.5,4.7
+Murder at 1600,6.1,4.2,3.2,7.8,4.7
+Primal Fear,7.7,8.9,7.7,8.3,4.7
+Nine Months,6.8,3.7,2.5,6.5,4.7
+Project Almanac,6.3,4.5,3.8,5.5,4.7
+Robot Overlords,4.6,2.4,6.1,4.3,4.7
+Blade,5.4,7.8,5.7,8.0,4.7
+Man on Fire,6.5,8.9,3.8,8.5,4.7
+Pushing Tin,6.0,4.2,4.8,6.7,4.7
+Maniac,3.7,3.1,8.9,6.7,4.7
+Wyatt Earp,6.7,6.1,3.1,6.7,4.7
+Blair Witch,6.6,3.1,3.7,4.9,4.7
+Hotel Transylvania,7.0,7.2,4.4,6.9,4.7
+Rock of Ages,1.5,5.5,4.3,5.9,4.7
+The Alamo,6.8,6.4,5.2,6.3,4.7
+Hollywood Homicide,5.3,2.7,3.0,8.1,4.7
+Like Mike,5.4,5.2,5.7,5.9,4.7
+Big Trouble,5.1,5.4,4.8,,7.0
+Cats & Dogs,5.1,3.2,5.3,5.8,4.7
+U.S. Marshals,6.6,5.3,3.0,6.8,4.7
+Semi-Pro,5.8,3.8,2.2,5.8,4.7
+My Stepmother Is an Alien,5.4,3.0,2.0,7.5,4.7
+Lakeview Terrace,6.2,3.9,4.4,4.9,4.7
+Only the Lonely,6.3,5.0,6.5,5.8,4.7
+National Lampoon's European Vacation,6.2,4.9,3.4,6.6,4.7
+Kate,6.0,5.1,4.6,6.2,4.7
+Pink Cadillac,5.3,2.5,2.4,4.8,4.7
+Pumpkinhead,6.2,4.8,6.5,8.4,4.7
+Just Like Heaven,5.2,7.5,5.4,8.5,4.7
+Just Friends,6.3,7.1,4.2,6.5,4.7
+History of the World: Part I,6.8,8.1,6.1,7.1,4.7
+Dangerous Minds,6.5,6.4,3.3,6.6,4.7
+Newsies,6.9,8.8,3.9,6.5,4.6
+Wrong Turn,6.1,5.4,4.0,4.4,4.6
+Gringo,6.1,3.8,4.0,5.6,4.6
+Now You See Me 2,6.4,5.3,3.4,6.2,4.6
+Maybe Baby,5.3,4.8,5.0,6.5,4.6
+Payback,4.3,5.6,7.3,,5.5
+Dr. Dolittle,8.0,3.5,4.1,6.9,4.6
+Red Tails,5.9,5.8,4.0,5.9,4.6
+Clay Pigeons,6.6,6.7,6.1,7.5,4.6
+In the Cut,5.4,3.4,3.4,7.4,4.6
+Guarding Tess,6.2,4.7,5.6,6.7,4.6
+Ali G Indahouse,6.2,5.4,5.6,3.8,4.6
+Toy Soldiers,4.8,6.6,4.1,7.0,4.6
+Seed of Chucky,4.9,4.1,3.4,3.8,4.6
+Ashby,6.4,4.8,5.2,6.1,4.6
+Lavender,6.2,2.7,3.9,4.4,4.6
+Immortals,9.5,4.9,4.9,5.8,4.6
+"Kiss Me, Guido",6.0,4.0,3.8,5.0,4.6
+Tank Girl,5.4,6.3,4.1,5.1,4.6
+Mirror Mirror,5.5,4.9,5.0,5.3,4.6
+Beyond the Sea,6.7,6.4,4.2,,6.1
+28 Days,6.1,5.0,3.3,6.1,4.6
+Beaches,7.0,3.1,5.0,4.1,4.6
+Johnny English Reborn,6.3,4.5,3.8,6.4,4.6
+"You, Me and Dupree",5.6,5.0,2.0,8.3,4.6
+Tommy Boy,7.1,9.0,4.1,6.2,4.6
+Manderlay,7.2,7.5,5.0,6.9,4.6
+Airheads,6.2,5.0,2.9,5.9,4.6
+If I Stay,6.7,6.1,3.5,5.9,4.6
+Secret Window,6.5,6.5,4.6,5.3,4.6
+One Night at McCool's,6.2,3.9,3.3,8.1,4.6
+Dog Park,5.2,2.8,3.6,5.4,4.6
+Forces of Nature,5.5,7.6,8.9,7.8,4.6
+Fast & Furious,6.5,6.7,2.8,6.5,4.6
+Hoot,5.5,5.4,2.6,6.2,4.6
+Fifty Shades of Grey,6.2,4.1,2.4,2.9,4.6
+Above Suspicion,6.5,4.0,6.0,5.2,4.6
+Ravenous,6.9,7.8,5.1,7.4,4.6
+Horns,7.7,4.9,4.2,6.4,4.6
+Saw,7.6,8.4,5.0,8.3,4.6
+Bruce Almighty,6.8,5.7,4.8,7.5,4.6
+Hollywood Ending,6.5,4.9,4.7,7.0,4.6
+How the Grinch Stole Christmas,6.3,9.5,10.0,6.5,4.6
+Foxy Brown,6.5,6.6,6.2,6.4,4.6
+Things to Do in Denver When You're Dead,6.7,7.2,3.4,4.9,4.6
+Rambo,6.3,6.9,3.7,7.8,4.6
+Beerfest,6.2,7.5,4.0,6.5,4.6
+Touch of Pink,6.4,6.5,3.7,5.2,4.6
+Knight and Day,6.3,4.9,5.2,6.3,4.6
+Must Love Dogs,5.9,5.0,3.7,5.2,4.6
+Detour,7.3,4.1,6.3,,5.5
+Wolves,6.2,3.3,2.0,5.4,4.6
+White Nights,7.8,8.8,8.8,7.8,4.6
+Spaceballs,7.1,8.3,5.7,7.8,4.6
+Grand Theft Parsons,6.0,5.2,4.6,7.1,4.6
+All Over the Guy,6.4,6.7,4.3,7.4,4.6
+Kiss the Girls,6.6,6.2,3.2,3.3,4.6
+Jetsons: The Movie,5.5,4.5,2.7,7.1,4.6
+The Mighty Ducks,6.5,6.5,2.1,4.2,4.6
+Cheaper by the Dozen,7.0,6.6,8.3,7.1,4.6
+Chasing Liberty,6.1,6.0,1.8,5.1,4.6
+Pumpkin,5.7,5.7,3.6,7.3,4.6
+Revolution OS,7.3,7.7,4.3,6.5,4.6
+Greenfingers,6.8,6.6,4.6,8.1,4.6
+Crazy in Alabama,6.2,6.4,3.0,7.8,4.6
+Blue Streak,6.3,6.4,3.6,8.5,4.6
+She's the Man,6.4,7.9,4.3,6.6,4.5
+Flipped,7.8,7.8,5.5,7.8,4.5
+Tracers,5.6,3.7,2.3,7.1,4.5
+Krull,6.1,5.2,3.0,6.3,4.5
+Pain & Gain,6.4,4.7,5.0,6.5,4.5
+Joe Versus the Volcano,5.9,5.4,6.4,5.5,4.5
+Little Darlings,6.5,7.4,6.7,3.7,4.5
+The Boy,8.0,3.9,6.8,5.6,4.5
+Mona Lisa Smile,6.5,6.0,3.4,6.9,4.5
+Evening,7.5,4.8,2.7,4.9,4.5
+Takers,6.2,6.2,2.8,7.8,4.5
+Factory Girl,6.4,6.0,2.0,6.3,4.5
+Pretty Persuasion,6.4,6.2,3.3,8.1,4.5
+Whatever Works,7.5,6.1,5.0,6.4,4.5
+Into the Blue,6.1,5.7,2.1,5.7,4.5
+How to Deal,5.6,6.4,2.7,6.7,4.5
+Proof of Life,6.3,4.3,3.9,6.8,4.5
+Fire and Ice,6.5,5.3,6.3,5.2,4.5
+Mr. Brooks,7.3,7.6,5.5,8.5,4.5
+Latter Days,7.0,7.8,4.6,7.6,4.5
+Maid in Manhattan,7.0,4.4,3.8,8.4,4.5
+Life as a House,7.5,8.8,4.7,7.4,4.5
+Valiant,5.5,2.9,3.2,5.2,4.5
+American Dreamz,5.5,3.1,3.8,4.5,4.5
+Wonder Wheel,6.2,4.2,3.1,6.1,4.5
+The Possession,5.9,4.8,3.8,7.9,4.5
+Pirates of the Caribbean: On Stranger Tides,6.6,5.4,3.3,6.3,4.5
+Damien: Omen II,6.2,4.9,4.6,6.7,4.5
+Unforgettable,6.0,3.3,2.8,3.7,4.5
+Digging Up the Marrow,5.8,4.3,6.0,5.5,4.5
+Sniper,6.1,5.5,3.8,1.7,4.5
+Click,6.1,6.6,3.4,6.7,4.5
+Blindness,6.6,4.7,4.4,5.9,4.5
+Elizabeth: The Golden Age,6.8,5.9,3.5,6.3,4.5
+Pride and Glory,6.6,4.9,3.5,6.1,4.5
+Sweet Home Alabama,6.2,7.8,3.8,7.0,4.5
+Jefferson in Paris,5.7,3.4,3.1,5.9,4.5
+Upside Down,6.3,4.2,2.8,8.4,4.5
+Taken 2,6.2,5.2,2.2,5.6,4.5
+It Takes Two,7.0,6.0,0.8,7.0,4.5
+Alien Nation,6.3,4.4,5.3,6.9,4.5
+Hall Pass,5.9,4.0,3.3,5.5,4.5
+Sydney White,6.2,7.0,3.5,7.1,4.5
+I Love You to Death,6.4,6.3,5.8,5.8,4.5
+Prom Night,5.3,3.4,4.8,7.5,4.5
+Flower,5.6,4.2,5.0,5.4,4.5
+Loverboy,6.0,3.5,1.8,5.7,4.5
+Elizabethtown,6.3,6.6,2.8,6.1,4.5
+Vanilla Sky,6.9,7.2,4.3,8.3,4.5
+Home Fries,5.1,3.4,3.1,5.5,4.5
+Smilla's Sense of Snow,6.3,5.7,5.3,7.8,4.5
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze,6.0,6.7,3.5,6.8,4.5
+Pride and Prejudice and Zombies,5.8,4.5,4.6,5.5,4.5
+Two Night Stand,6.5,4.5,3.8,6.4,4.5
+Surrogates,6.3,3.8,3.7,5.9,4.5
+Evita,6.3,6.8,6.4,7.8,4.5
+Fanboys,6.7,5.7,3.2,7.7,4.5
+Novocaine,5.8,3.8,3.8,6.8,4.5
+Kicking & Screaming,5.6,4.3,4.1,8.4,4.5
+Hesher,6.9,6.1,5.5,7.0,4.5
+Descent,7.3,3.3,3.5,6.5,4.5
+The Chamber,6.0,1.9,3.3,7.1,4.5
+Smokin' Aces,6.6,6.2,3.0,6.2,4.5
+Our Father,6.3,6.7,4.2,,7.0
+Secret in Their Eyes,6.3,4.1,3.9,5.6,4.5
+Mean Machine,6.4,7.2,3.4,7.9,4.5
+Cocoon: The Return,5.4,3.4,3.1,6.0,4.5
+Ace Ventura: When Nature Calls,6.4,7.2,2.1,6.8,4.5
+Rampage,5.5,7.2,5.1,5.7,4.5
+The Expendables,8.4,6.4,4.2,6.4,4.5
+Adventures in Babysitting,6.9,6.6,8.6,6.5,4.5
+S.W.A.T.,6.7,5.2,4.8,7.9,4.5
+How to Lose a Guy in 10 Days,6.5,7.7,4.2,6.6,4.5
+The Kid,8.2,4.7,4.4,6.4,4.5
+Mad City,6.3,4.2,3.6,6.3,4.5
+Foul Play,6.5,6.8,7.4,7.4,4.5
+Above the Law,6.0,4.8,5.0,5.8,4.5
+Levity,6.4,4.7,3.4,6.2,4.5
+The Scorpion King,5.5,3.7,4.1,5.4,4.5
+Bangkok Dangerous,6.5,6.2,5.1,4.2,4.5
+Rules of Engagement,7.0,5.5,3.7,6.5,4.5
+Legends of the Fall,7.5,8.7,5.7,7.0,4.5
+Cherry,5.4,6.7,6.4,7.2,4.4
+Wild Horses,4.8,1.6,1.7,5.3,4.4
+K-9,6.0,4.4,3.0,6.5,4.4
+School for Scoundrels,7.3,5.2,2.7,7.7,4.4
+Kate & Leopold,6.4,6.2,5.2,8.5,4.4
+Chaos Theory,6.8,5.8,3.0,7.3,4.4
+Pearl Harbor,6.2,6.6,2.4,5.6,4.4
+Brokedown Palace,6.4,6.6,3.1,6.2,4.4
+Kingsman: The Golden Circle,6.7,6.4,5.0,6.4,4.4
+The Legend of Tarzan,6.7,5.8,3.5,6.1,4.4
+By the Sea,5.7,2.8,3.5,5.6,4.4
+Rapture-Palooza,5.2,2.9,2.4,5.3,4.4
+Stomp the Yard,5.4,8.2,2.7,6.9,4.4
+Kidnap,7.0,5.0,3.5,5.2,4.4
+Henry Poole Is Here,6.4,5.2,4.0,7.0,4.4
+Vatel,6.6,6.1,3.1,6.7,4.4
+The Brothers Grimsby,6.2,4.1,3.6,6.0,4.4
+Hyena Road,6.5,5.9,5.7,5.9,4.4
+Hotel Transylvania 2,6.6,6.3,5.5,7.1,4.4
+Two Weeks,6.4,6.6,1.9,7.3,4.4
+Hostage,4.8,6.2,3.5,8.5,4.4
+Second Best,6.8,7.9,10.0,6.8,4.4
+Walking Tall,6.9,7.0,7.5,,6.0
+Schizopolis,6.7,8.0,6.5,5.9,4.4
+Renaissance Man,6.2,5.3,1.2,6.9,4.4
+Delivery Man,6.8,4.7,4.0,6.2,4.4
+Faster,7.7,9.0,5.3,6.5,4.4
+Last Action Hero,6.5,4.7,3.8,8.4,4.4
+It Runs in the Family,5.5,2.9,2.9,5.1,4.4
+Plunkett & Macleane,6.4,6.7,2.4,7.9,4.4
+Twilight Zone: The Movie,6.4,5.5,5.9,6.8,4.4
+"See No Evil, Hear No Evil",6.8,7.2,2.7,7.2,4.4
+Robin Hood: Men in Tights,6.7,8.1,4.1,6.2,4.4
+Girl 6,5.3,3.6,3.9,6.3,4.4
+We're the Millers,7.0,7.2,4.9,7.0,4.4
+Mary Reilly,5.8,4.0,2.6,6.8,4.4
+What Dreams May Come,7.0,8.4,5.2,6.9,4.4
+Barney's Great Adventure,3.2,4.4,3.2,8.1,4.4
+Firefox,5.9,4.2,3.8,5.5,4.4
+13 Sins,6.3,4.5,6.4,6.7,4.4
+Batman v Superman: Dawn of Justice,6.5,6.3,2.9,7.1,4.4
+This Is Where I Leave You,6.6,6.0,4.4,6.6,4.4
+Mortal Kombat,5.8,5.7,4.5,6.2,4.4
+Bridget Jones: The Edge of Reason,6.0,6.0,2.7,7.2,4.4
+Raw Deal,7.2,2.9,3.1,6.6,4.4
+Jobs,7.3,4.0,2.8,5.2,4.4
+Southland Tales,5.3,4.1,4.1,6.1,4.4
+Nina's Heavenly Delights,6.3,6.4,1.6,4.2,4.4
+Devil,8.9,4.3,4.9,8.3,4.4
+Superman III,5.0,2.3,3.0,4.6,4.4
+Along Came Polly,6.0,4.7,2.7,8.0,4.4
+America's Sweethearts,5.7,4.0,3.2,5.6,4.4
+Snow Falling on Cedars,6.7,6.7,3.9,6.1,4.4
+Killer Elite,6.4,4.2,2.8,5.8,4.4
+Blood,4.8,5.7,5.4,,5.5
+Eagle Eye,6.6,6.2,2.6,6.7,4.3
+Racing Stripes,5.2,4.2,3.5,6.1,4.3
+Teknolust,5.3,4.1,3.0,7.2,4.3
+Malibu's Most Wanted,5.2,5.4,3.1,8.0,4.3
+Under Suspicion,6.2,4.8,4.9,3.9,4.3
+Palmetto,6.1,3.1,3.7,7.0,4.3
+City Slickers II: The Legend of Curly's Gold,5.6,3.1,1.5,6.2,4.3
+Madison,7.0,5.0,3.0,5.1,4.3
+Catch and Release,5.9,5.5,2.2,7.9,4.3
+Jersey Girl,6.0,4.8,4.3,7.6,4.3
+Suicide Kings,6.9,7.4,3.3,8.3,4.3
+Fathers' Day,4.5,2.5,2.5,5.5,4.3
+Hot Rod,5.9,6.4,3.9,8.0,4.3
+The Angry Birds Movie,6.3,4.6,4.3,6.4,4.3
+Equals,5.7,4.2,3.6,6.4,4.3
+MacGruber,7.1,3.5,4.7,6.4,4.3
+Anything Else,6.3,4.4,4.0,5.8,4.3
+American Pie 2,6.4,6.8,5.2,5.1,4.3
+The Beach,6.7,5.7,2.1,8.1,4.3
+Redemption,5.7,3.8,4.8,8.3,4.3
+Paycheck,6.3,4.5,2.7,8.0,4.3
+Kingpin,6.9,6.9,4.9,8.0,4.3
+Dear John,6.4,5.5,2.9,6.2,4.3
+Youth Without Youth,6.1,4.4,3.3,6.7,4.3
+The Lady,6.5,6.2,3.6,6.6,4.3
+Hocus Pocus,5.4,7.2,3.8,7.5,4.3
+Women in Trouble,6.4,2.8,2.9,6.7,4.3
+Freedomland,5.2,2.5,2.3,5.1,4.3
+Meet Dave,5.1,3.5,2.0,5.4,4.3
+Needful Things,6.2,4.4,3.1,6.3,4.3
+Violet & Daisy,6.0,3.4,2.2,6.8,4.3
+American Wedding,6.3,6.3,5.3,7.4,4.3
+Death Race,6.2,6.0,4.2,6.8,4.3
+The Forgotten,5.9,3.6,3.1,7.6,4.3
+Instinct,6.4,6.7,2.6,6.9,4.3
+Eternal,4.8,4.0,1.8,5.8,4.3
+Miss Meadows,5.8,3.6,2.5,6.3,4.3
+Conan the Barbarian,6.9,7.4,6.6,8.0,4.3
+Monte Carlo,6.7,5.0,4.0,7.6,4.3
+Dante's Peak,6.0,3.8,2.8,5.9,4.3
+Spread,5.8,2.8,2.2,5.3,4.3
+A Dog's Purpose,7.2,7.3,3.5,6.3,4.3
+Miss Congeniality,6.3,6.9,4.1,3.9,4.3
+Meet Joe Black,7.2,8.1,4.5,5.8,4.3
+M. Butterfly,6.7,6.7,4.3,6.8,4.3
+Death Note,7.5,8.2,7.8,3.1,4.3
+Glass,7.8,6.7,3.7,6.5,4.3
+Feast,5.2,5.9,5.5,7.5,4.3
+Recess: School's Out,6.5,5.6,6.0,7.2,4.3
+Cruising,6.5,4.8,5.0,7.6,4.3
+D.E.B.S.,6.3,5.6,4.2,6.5,4.2
+Office Christmas Party,5.9,4.0,4.0,5.0,4.2
+G,5.3,6.0,2.7,5.5,4.2
+Bones,6.1,4.0,2.5,7.3,4.2
+Wet Hot American Summer,6.5,7.5,3.8,6.6,4.2
+Drive Me Crazy,5.8,5.3,2.7,8.2,4.2
+Joe Somebody,5.5,2.7,2.1,7.8,4.2
+The Adderall Diaries,5.2,2.7,2.5,6.4,4.2
+Trade,5.4,7.4,3.3,5.8,4.2
+Gun Shy,6.8,3.6,2.6,8.4,4.2
+Total Eclipse,6.5,6.1,2.2,5.3,4.2
+Burnt,8.2,4.5,2.8,5.8,4.2
+Two Weeks Notice,6.1,5.9,4.2,7.3,4.2
+Jackass: The Movie,6.6,7.5,4.9,7.2,4.2
+Jurassic Park III,5.9,3.6,4.9,6.2,4.2
+Let It Snow,5.5,4.6,8.1,7.7,4.2
+Psycho Beach Party,6.0,6.6,5.6,7.4,4.2
+Against All Odds,6.6,4.5,6.4,8.4,4.2
+Stargate,7.0,7.3,5.2,7.6,4.2
+Parker,4.0,4.8,4.1,7.9,4.2
+Daddy's Home,9.7,4.9,3.0,8.0,4.2
+Anna,7.0,8.1,3.3,6.8,4.2
+Bicentennial Man,6.9,5.9,3.6,7.8,4.2
+Superstar,6.3,5.9,3.2,1.6,4.2
+Austenland,6.3,5.4,3.2,5.5,4.2
+Harry and the Hendersons,6.1,5.4,4.5,6.5,4.2
+The Family,6.3,7.5,7.1,6.2,4.2
+Albatross,5.3,3.9,5.4,4.6,4.2
+Underworld,7.5,8.7,8.9,8.6,4.2
+Trapped,6.1,8.0,8.5,7.9,4.2
+Armageddon,6.8,7.3,3.8,6.3,4.2
+Lost in Space,7.2,2.4,2.7,6.1,4.2
+Transformers: Dark of the Moon,6.2,5.5,3.5,5.8,4.2
+Along Came a Spider,6.4,5.3,3.2,6.5,4.2
+Night at the Museum: Battle of the Smithsonian,6.0,4.7,4.4,5.7,4.2
+Abraham Lincoln: Vampire Hunter,5.9,5.0,3.3,5.8,4.2
+Orphan,7.2,5.8,3.8,8.6,4.2
+RoboCop 2,5.8,3.6,2.8,7.0,4.2
+Persuasion,6.5,8.4,8.7,4.0,4.2
+Fire in the Sky,6.5,5.7,4.8,6.8,4.2
+Next,7.4,5.3,2.8,6.0,4.2
+Take Me Home Tonight,6.3,4.2,2.8,6.3,4.2
+Heavyweights,6.6,7.7,2.9,7.8,4.2
+A Bad Moms Christmas,5.6,4.3,3.2,4.8,4.2
+The Star,7.0,7.0,4.3,3.0,4.2
+Hope Floats,6.0,7.2,2.7,7.1,4.2
+Blank Check,5.3,3.4,0.9,5.5,4.2
+Courageous,6.9,8.6,3.6,7.6,4.2
+Return to Oz,5.5,7.1,5.6,7.7,4.2
+Bubble Boy,5.7,4.8,3.1,7.5,4.1
+Celebrity,6.8,4.2,4.2,6.1,4.1
+Holy Man,4.9,2.4,1.2,5.8,4.1
+Lionheart,5.8,5.2,3.9,6.3,4.1
+Knowing,8.3,4.2,3.4,6.1,4.1
+Journey 2: The Mysterious Island,5.7,5.9,4.4,5.8,4.1
+Beverly Hills Chihuahua,3.9,5.1,4.0,4.1,4.1
+Larry Crowne,6.1,4.1,3.7,5.8,4.1
+John Tucker Must Die,5.7,6.9,2.7,5.7,4.1
+What to Expect When You're Expecting,7.7,4.7,2.3,7.9,4.1
+Next Friday,6.1,7.6,2.1,6.3,4.1
+Big Daddy,5.8,7.4,3.9,7.7,4.1
+Crocodile Dundee II,5.7,3.8,0.9,5.8,4.1
+Candyman: Farewell to the Flesh,5.2,3.0,2.2,4.4,4.1
+Battleship,6.4,5.4,3.3,4.9,4.1
+Torque,4.1,4.1,2.2,7.9,4.1
+What a Girl Wants,5.8,6.2,3.6,6.6,4.1
+Mallrats,7.0,8.2,5.8,8.3,4.1
+Tango & Cash,6.4,5.2,3.1,6.6,4.1
+Marlowe,6.4,5.2,6.3,4.8,4.1
+Little Ashes,6.4,4.9,2.4,8.1,4.1
+The Purge,7.4,3.6,4.0,5.3,4.1
+Resident Evil: Extinction,6.2,5.8,2.4,7.0,4.1
+Stand Up Guys,6.4,4.6,3.6,7.9,4.1
+Good Burger,5.8,6.3,3.3,7.5,4.1
+Hellbound: Hellraiser II,6.4,5.8,5.0,8.4,4.1
+Ride Along,7.7,5.8,1.8,5.6,4.1
+Mr. Woodcock,5.2,3.2,1.4,7.6,4.1
+Crisis,6.4,4.6,7.1,6.7,4.1
+Alvin and the Chipmunks: The Squeakquel,4.5,4.9,2.1,4.6,4.1
+Dragon Blade,5.9,3.9,3.5,6.0,4.1
+Meet the Fockers,6.3,5.8,3.8,7.3,4.1
+Agent Cody Banks,5.1,3.2,3.8,5.7,4.1
+Woman on Top,5.3,4.3,3.5,8.5,4.1
+First Sunday,4.6,5.6,1.2,5.8,4.1
+Olympus Has Fallen,6.5,6.6,5.0,5.8,4.1
+Kick-Ass 2,5.8,5.7,3.2,6.9,4.1
+Stay,6.7,7.0,2.6,,4.8
+Phenomenon,6.4,5.9,4.9,8.0,4.1
+Spun,6.7,7.5,3.7,8.3,4.1
+Village of the Damned,7.3,2.7,3.0,5.9,4.1
+Career Opportunities,5.8,3.7,3.9,5.6,4.1
+Drillbit Taylor,5.7,4.4,2.6,6.3,4.1
+Stoned,6.6,4.4,1.6,6.0,4.1
+What Planet Are You From?,5.6,2.8,4.2,6.6,4.1
+Supergirl,4.4,2.6,0.8,4.5,4.1
+Dune,6.3,6.5,4.3,6.3,4.1
+One Eight Seven,6.6,6.8,3.0,6.7,4.1
+Passengers,6.2,3.5,1.9,6.9,4.1
+Sabotage,7.0,6.9,9.2,,8.5
+G-Force,5.1,3.9,2.2,4.5,4.1
+Fear and Loathing in Las Vegas,7.5,8.9,5.0,7.7,4.1
+The Chumscrubber,6.9,7.5,3.7,6.6,4.1
+Four Christmases,5.7,4.7,2.5,7.3,4.1
+Mojave,7.0,3.0,3.2,4.8,4.1
+Nowhere to Run,6.7,3.2,3.6,6.3,4.1
+White Chicks,5.8,5.5,1.5,6.6,4.1
+Chappie,6.8,5.6,3.2,7.2,4.1
+Hop,6.9,5.3,2.4,4.8,4.1
+Final Destination 3,5.8,5.7,4.3,6.2,4.1
+Priest,7.1,8.3,6.4,5.2,4.1
+House of Wax,7.0,4.3,2.7,7.9,4.1
+Outlander,6.2,4.4,3.5,7.5,4.0
+The Hunted,6.5,4.6,2.9,8.3,4.0
+Jakob the Liar,6.5,6.3,2.9,7.1,4.0
+Mighty Morphin Power Rangers: The Movie,7.5,5.6,3.2,6.5,4.0
+Gangster Squad,6.7,5.7,3.0,6.2,4.0
+Better Living Through Chemistry,7.5,3.8,2.2,5.9,4.0
+Lethal Weapon 3,6.7,6.1,5.8,6.7,4.0
+Paranormal Activity 4,4.6,3.4,2.3,4.7,4.0
+Vantage Point,6.6,5.7,3.4,6.8,4.0
+Barb Wire,6.2,1.4,2.8,6.2,4.0
+Halloween II,6.5,4.4,2.3,8.0,4.0
+Table 19,5.8,4.0,2.6,5.9,4.0
+Fletch Lives,6.1,5.5,3.7,6.9,4.0
+Nightwatch,7.2,8.0,6.0,2.0,4.0
+Suicide Squad,4.3,5.8,2.6,5.9,4.0
+Appleseed,6.3,7.4,2.5,6.9,4.0
+Nightbreed,6.5,6.0,4.8,6.8,4.0
+65,5.4,6.4,3.4,4.4,4.0
+Fireworks,7.0,6.0,4.3,4.1,4.0
+Max Keeble's Big Move,5.4,3.8,2.9,7.2,4.0
+Amy,6.4,8.7,9.5,7.3,4.0
+Beneath,5.3,1.9,3.8,5.7,4.0
+Over the Top,6.1,4.9,3.2,6.8,4.0
+Monkeybone,4.8,2.7,2.0,7.8,4.0
+3 Days to Kill,6.2,4.3,2.7,5.7,4.0
+Wicker Park,6.9,7.9,2.7,8.4,4.0
+Double Jeopardy,6.3,6.1,2.8,4.8,4.0
+Good,6.1,3.2,3.3,4.9,4.0
+Remember Me,6.8,6.9,2.6,7.6,4.0
+Phantom,6.7,4.4,2.5,5.4,4.0
+Fantastic Four,6.6,4.5,2.8,6.3,4.0
+Deliver Us From Evil,9.9,7.8,9.4,5.9,4.0
+Teenage Mutant Ninja Turtles III,4.8,3.4,1.9,5.2,4.0
+Alexander,4.9,3.5,1.6,5.3,4.0
+Scary Movie 4,5.1,5.1,3.4,5.8,4.0
+Bulletproof Monk,5.4,3.8,2.3,7.9,4.0
+Clockstoppers,5.2,3.0,2.9,6.3,4.0
+How to Kill Your Neighbor's Dog,6.8,7.4,5.9,6.8,4.0
+Deep Impact,6.2,4.3,4.4,5.8,4.0
+Fire Down Below,6.0,3.6,1.4,5.2,4.0
+National Treasure,6.9,7.6,4.6,6.9,4.0
+Shrink,5.5,5.0,2.7,6.1,4.0
+Three Fugitives,6.2,5.0,1.4,6.3,4.0
+Domino,7.0,1.7,3.2,4.5,4.0
+Aloha,5.8,2.8,2.0,4.3,4.0
+Teenage Mutant Ninja Turtles: Out of the Shadows,6.7,4.6,3.7,5.7,4.0
+Insidious: Chapter 2,6.5,5.7,3.8,6.7,4.0
+Mine,6.6,4.4,1.7,6.1,4.0
+Wild Card,5.3,2.9,3.1,5.3,4.0
+Pay It Forward,7.2,7.7,3.9,8.1,4.0
+Double Impact,5.6,4.2,3.3,5.9,4.0
+Sandy Wexler,5.2,4.0,2.7,4.4,4.0
+Poltergeist III,4.7,2.2,1.6,5.6,4.0
+Man on a Ledge,5.5,5.2,3.1,6.3,4.0
+Jack Frost,6.6,3.1,1.7,7.5,4.0
+Porky's,6.2,5.7,3.4,6.8,4.0
+Duets,6.1,4.9,2.1,7.6,4.0
+Peaceful Warrior,7.2,7.6,2.5,7.6,4.0
+Butter,6.6,4.4,3.4,6.3,4.0
+Beastly,5.5,4.8,2.1,5.6,4.0
+X-Men Origins: Wolverine,6.5,5.8,3.8,5.4,4.0
+Slumberland,8.7,8.5,4.0,6.4,4.0
+Brick Mansions,5.6,4.7,2.6,5.5,4.0
+Dracula Untold,6.2,5.8,2.5,6.4,4.0
+Green Lantern,5.5,4.5,2.6,6.0,3.9
+Inhale,8.8,4.6,3.8,6.6,3.9
+Angel Eyes,4.3,4.6,3.2,7.9,3.9
+Simon Birch,6.8,7.7,4.4,6.3,3.9
+Exorcist II: The Heretic,3.8,1.3,1.0,3.2,3.9
+Percy Jackson: Sea of Monsters,7.1,5.4,4.2,5.0,3.9
+Swing Kids,6.7,7.9,5.6,8.3,3.9
+Jumanji,7.1,6.2,5.2,7.7,3.9
+Dark Places,5.7,3.3,2.3,6.2,3.9
+Dirty Dancing: Havana Nights,5.9,7.3,2.3,7.3,3.9
+Captain Ron,5.8,5.2,2.6,6.7,3.9
+Clue,7.2,8.6,6.8,8.1,3.9
+Why Him?,6.2,5.1,3.9,7.8,3.9
+Zipper,5.7,2.7,2.0,5.1,3.9
+St. Trinian's,5.8,5.5,3.1,5.6,3.9
+Bringing Down the House,5.6,4.9,3.4,6.3,3.9
+Bait,4.4,4.1,2.6,3.9,3.9
+Life as We Know It,7.1,6.1,3.0,5.6,3.9
+Zoe,6.3,5.9,3.2,6.5,3.9
+Queen of the Desert,5.7,3.5,1.8,4.4,3.9
+Flashdance,6.2,6.1,3.5,6.4,3.9
+Alvin and the Chipmunks,5.2,6.4,2.8,5.5,3.9
+Man of the Year,5.1,2.0,2.4,5.2,3.9
+Silk,3.9,2.9,0.7,5.6,3.9
+The Darkest Minds,5.7,7.2,1.5,5.7,3.9
+Virtuosity,5.5,3.2,3.2,1.5,3.9
+"As Above, So Below",7.7,4.0,2.8,6.3,3.9
+Resident Evil: Retribution,5.3,5.1,2.8,5.6,3.9
+Daddy Day Care,5.6,4.8,2.7,5.8,3.9
+Creepshow 2,6.0,4.1,2.9,7.0,3.9
+Legendary,8.1,5.9,2.0,6.6,3.9
+Police Academy 2: Their First Assignment,5.8,4.3,2.9,7.0,3.9
+Down Periscope,6.1,6.2,1.1,8.3,3.9
+Runaway Bride,5.6,5.3,4.6,8.0,3.9
+But I'm a Cheerleader,6.8,7.4,4.2,7.7,3.9
+Message in a Bottle,6.2,6.6,3.2,6.9,3.9
+Tammy,7.0,3.6,2.4,3.0,3.9
+P.S. I Love You,7.7,8.0,2.5,6.9,3.9
+Freddy's Dead: The Final Nightmare,4.7,3.2,2.3,4.7,3.9
+Annie,6.6,6.9,4.9,6.3,3.9
+Pirates of the Caribbean: Dead Men Tell No Tales,7.4,6.0,3.0,6.2,3.9
+Fat Albert,4.4,4.4,2.3,6.5,3.9
+Reign of Fire,6.2,4.9,4.2,6.2,3.9
+Exit Wounds,5.6,4.5,3.3,7.8,3.9
+Stage Fright,5.8,2.7,3.7,7.9,3.9
+Planet 51,6.0,4.0,2.3,5.3,3.9
+Underworld: Awakening,6.3,6.2,2.5,6.3,3.9
+August,6.5,2.3,3.6,6.5,3.9
+Planes,8.2,4.9,2.5,4.0,3.9
+The Runner,6.1,2.2,2.4,5.0,3.9
+After the Sunset,6.2,5.2,1.8,7.8,3.8
+Wild Wild West,4.9,2.8,1.6,6.7,3.8
+Sister Act 2: Back in the Habit,5.7,6.1,1.8,6.8,3.8
+Entourage,6.8,5.7,3.3,5.2,3.8
+Terminator Genisys,6.3,5.2,2.6,5.8,3.8
+Eragon,5.1,4.6,1.6,3.5,3.8
+Bad Boys II,6.6,7.8,2.3,4.1,3.8
+Empire,7.9,6.2,2.1,5.3,3.8
+The Green Inferno,5.3,2.9,3.8,4.8,3.8
+Summer Rental,6.3,5.1,1.7,7.5,3.8
+Sleepwalkers,5.3,3.1,2.9,7.7,3.8
+Balls of Fury,5.3,3.3,2.1,4.9,3.8
+Never Die Alone,5.6,6.1,2.6,7.0,3.8
+Radio,6.4,7.9,3.5,8.1,3.8
+Just Visiting,5.7,5.3,3.3,7.3,3.8
+No Escape,5.9,6.2,4.8,6.4,3.8
+Gigantic,7.6,3.4,3.5,5.2,3.8
+Confessions of a Shopaholic,5.8,4.9,2.7,5.1,3.8
+Goats,4.5,3.9,1.9,7.4,3.8
+Paparazzi,6.5,3.8,1.8,2.1,3.8
+Raising Helen,6.0,6.1,2.5,6.3,3.8
+Laws of Attraction,5.8,4.7,1.8,5.9,3.8
+Nutty Professor II: The Klumps,4.5,3.3,2.7,5.7,3.8
+Backdraft,6.7,7.5,7.4,8.0,3.8
+Bad Santa 2,5.6,3.4,2.3,5.4,3.8
+12 Rounds,6.3,4.5,3.1,5.0,3.8
+Sliver,5.1,2.8,1.5,0.9,3.8
+BASEketball,6.5,7.4,4.1,7.2,3.8
+The Ward,6.4,2.6,3.3,7.1,3.8
+Think Like a Man Too,5.7,5.9,2.3,3.9,3.8
+August Rush,7.4,8.2,3.7,7.5,3.8
+2 Fast 2 Furious,5.9,5.0,3.6,7.4,3.8
+I Don't Know How She Does It,5.0,3.2,1.7,3.5,3.8
+And So It Goes,6.0,4.0,1.8,6.1,3.8
+Scrooged,6.9,7.1,6.9,8.0,3.8
+Death to Smoochy,6.3,6.6,4.2,7.4,3.8
+Dad's Army,8.1,3.6,3.1,5.9,3.8
+Porky's II: The Next Day,5.0,4.0,1.1,5.6,3.8
+Murder Mystery,6.1,4.4,4.4,5.4,3.8
+Blade: Trinity,5.8,5.8,2.4,3.1,3.8
+I Am,7.3,8.0,3.6,5.4,3.8
+Cell,6.2,1.7,1.1,3.5,3.8
+Final Destination 2,6.2,5.8,4.8,4.3,3.8
+Little Nicky,5.3,5.5,2.1,7.6,3.8
+Random Hearts,5.3,2.4,1.5,4.8,3.8
+Gothika,5.8,4.5,1.4,6.5,3.8
+Psychopaths,7.2,1.4,2.4,4.0,3.7
+Made of Honor,5.8,5.5,1.6,5.1,3.7
+Reindeer Games,5.8,2.7,2.5,1.6,3.7
+Paper Man,5.9,4.8,3.2,6.4,3.7
+Ace Ventura: Pet Detective,6.9,5.7,4.8,7.1,3.7
+Striptease,7.9,2.4,1.4,5.6,3.7
+Dirty,6.5,4.2,2.1,5.1,3.7
+Underdog,7.2,4.2,1.5,5.9,3.7
+Knock Off,4.8,2.6,1.0,4.9,3.7
+Annapolis,7.5,6.0,1.0,5.0,3.7
+Baywatch,5.4,6.1,1.7,4.7,3.7
+Another Gay Movie,5.0,6.1,5.0,6.4,3.7
+Anaconda,4.9,2.4,4.0,7.9,3.7
+Inescapable,4.2,2.6,1.7,5.6,3.7
+My Big Fat Greek Wedding 2,6.0,5.3,2.7,5.3,3.7
+Freddy vs. Jason,5.7,5.0,4.2,8.3,3.7
+Be Cool,5.6,4.2,3.0,7.5,3.7
+Brewster's Millions,6.5,5.5,3.5,6.7,3.7
+Resident Evil: Afterlife,5.8,4.8,2.1,6.0,3.7
+Son of God,7.2,7.3,2.0,4.1,3.7
+Serenity,8.3,9.1,8.2,4.7,3.7
+The Crew,4.0,3.4,2.0,4.5,3.7
+Fools Rush In,6.3,6.4,3.4,7.5,3.7
+All the King's Men,7.4,4.0,1.1,5.6,3.7
+Fist Fight,5.8,4.0,2.5,5.3,3.7
+Haven,6.2,6.0,1.5,5.8,3.7
+Mercury Rising,6.1,4.0,2.1,6.4,3.7
+Analyze That,5.9,3.9,2.7,5.3,3.7
+Garfield: A Tail of Two Kitties,5.0,4.3,1.2,5.6,3.7
+Shutter,4.9,3.3,1.1,7.6,3.7
+Honey,5.7,6.7,10.0,,7.5
+The Nut Job,5.7,4.3,1.3,4.2,3.7
+Battle: Los Angeles,4.9,4.8,3.7,5.8,3.7
+Child's Play 2,5.9,5.0,4.0,8.2,3.7
+Suspect Zero,5.8,3.8,1.8,5.4,3.7
+Cold Creek Manor,5.0,2.3,1.2,7.5,3.7
+Only God Forgives,5.7,3.7,4.1,7.8,3.7
+The Cloverfield Paradox,5.5,4.2,2.2,5.3,3.7
+You Got Served,3.8,6.9,1.4,6.4,3.7
+Lethal Weapon 4,6.6,6.4,5.2,7.7,3.7
+Cutthroat Island,5.7,4.0,3.9,6.8,3.7
+Speed Racer,7.2,6.0,4.1,7.9,3.7
+Seven Pounds,7.6,7.5,2.7,5.8,3.6
+Little Black Book,5.3,3.7,2.2,8.5,3.6
+Poolhall Junkies,6.8,8.7,3.3,8.4,3.6
+Three to Tango,6.1,4.9,2.8,8.1,3.6
+Bird on a Wire,6.0,4.1,2.6,5.4,3.6
+Returner,6.4,6.5,3.6,6.8,3.6
+Biker Boyz,4.6,5.4,2.2,6.5,3.6
+Abandon,4.8,3.1,1.6,5.0,3.6
+Shanghai,6.1,3.7,0.4,6.3,3.6
+War,8.8,8.0,7.1,8.1,3.6
+Employee of the Month,6.1,5.2,1.1,5.2,3.6
+Thunderbirds,5.9,3.7,1.9,7.3,3.6
+Amy's Orgasm,5.3,3.4,2.6,7.5,3.6
+Big Fat Liar,5.5,4.4,4.5,7.7,3.6
+Final Destination,6.7,6.8,3.5,8.5,3.6
+Hard Rain,5.9,3.4,3.1,5.8,3.6
+Victor Frankenstein,5.9,3.5,2.6,5.5,3.6
+The Jackal,6.4,5.1,2.4,6.8,3.6
+Diary of a Mad Black Woman,5.7,8.6,1.6,7.0,3.6
+Are We Done Yet?,4.3,2.9,0.8,4.0,3.6
+Underworld: Evolution,6.7,7.2,1.7,8.5,3.6
+Three O'Clock High,7.1,7.3,5.7,7.8,3.6
+Sex Tape,7.0,3.3,1.6,3.1,3.6
+Gone,7.1,2.0,5.4,5.7,3.6
+Body Shots,4.9,2.8,1.1,7.9,3.6
+3 Ninjas,5.3,5.3,3.2,6.2,3.6
+Pan,6.5,4.0,2.6,5.1,3.6
+Parental Guidance,7.5,5.9,1.8,5.1,3.6
+Righteous Kill,6.0,3.7,1.8,4.9,3.6
+6 Days,4.7,4.7,6.3,7.0,3.6
+Assassin's Creed,8.0,4.2,1.9,6.0,3.6
+My Name Is Bruce,6.1,4.8,3.8,6.9,3.6
+Cradle 2 the Grave,5.8,5.2,2.6,8.1,3.6
+Senseless,6.0,4.5,0.6,7.8,3.6
+Solace,7.8,4.4,2.4,5.9,3.6
+Lady in the Water,5.5,4.9,2.5,6.3,3.6
+That Awkward Moment,6.1,4.6,2.2,5.5,3.6
+Death Sentence,6.2,6.0,2.0,7.9,3.6
+Road House,5.6,6.9,9.2,6.7,3.6
+Serena,6.4,2.3,1.6,5.2,3.6
+Party Monster,7.2,7.5,2.9,6.6,3.6
+Who Is Cletis Tout?,6.3,5.1,2.3,7.2,3.6
+Captain Corelli's Mandolin,5.9,5.0,2.8,7.2,3.6
+Buddy Boy,6.3,6.7,6.3,7.3,3.6
+Alpha and Omega,5.1,4.1,1.9,5.7,3.6
+College Road Trip,4.3,5.0,1.2,6.5,3.6
+Dumb and Dumber To,5.6,3.5,3.0,5.6,3.6
+I Am Number Four,6.1,5.7,3.3,6.0,3.6
+What Happens in Vegas,7.0,3.7,2.5,5.7,3.6
+Something Borrowed,5.8,4.8,1.5,5.1,3.6
+Rambo III,5.8,4.5,4.1,6.1,3.6
+Revenge of the Green Dragons,5.3,3.0,1.5,6.7,3.6
+No Such Thing,6.0,5.9,3.1,7.5,3.6
+Stolen Summer,6.5,6.6,3.6,5.8,3.6
+Johnny Mnemonic,5.6,3.1,1.8,4.9,3.6
+License to Drive,6.3,6.1,2.4,6.7,3.6
+Saw IV,5.9,6.2,1.8,6.1,3.6
+Perfect,4.7,2.8,1.9,4.3,3.6
+Can't Buy Me Love,6.8,7.4,5.0,8.0,3.6
+Push,6.8,8.3,10.0,6.9,3.6
+Kin,5.8,5.3,3.5,5.0,3.5
+Love's Labour's Lost,6.8,4.0,5.0,6.6,3.5
+Teaching Mrs. Tingle,5.3,3.1,1.9,1.1,3.5
+Universal Soldier,6.1,4.6,3.4,7.4,3.5
+Grudge Match,8.2,4.6,3.0,6.4,3.5
+How to Lose Friends & Alienate People,6.4,4.2,3.6,6.7,3.5
+Masters of the Universe,5.3,4.1,2.2,4.8,3.5
+Indecent Proposal,6.0,4.7,3.4,8.0,3.5
+Awake,6.5,5.4,2.3,3.3,3.5
+My Blue Heaven,6.2,5.9,7.1,7.1,3.5
+Stealth,7.4,3.9,1.2,5.7,3.5
+Star Wars: The Clone Wars,6.6,4.0,1.8,5.6,3.5
+Sphere,6.1,3.8,1.3,7.9,3.5
+Venom,5.8,2.1,1.1,6.3,3.5
+Dream House,7.0,3.6,0.7,8.4,3.5
+Jumper,7.9,4.4,1.5,7.5,3.5
+Salvation Boulevard,5.3,2.3,2.2,5.8,3.5
+Drift,5.4,2.6,6.3,3.8,3.5
+My Mother,7.1,6.0,8.4,6.1,3.5
+Event Horizon,6.6,6.1,3.2,8.0,3.5
+Van Helsing,6.1,5.7,2.4,6.3,3.5
+St. Elmo's Fire,6.4,6.8,4.2,6.5,3.5
+Identity Thief,5.7,5.3,1.9,5.0,3.5
+Man of the House,6.0,3.3,1.4,6.0,3.5
+Deal,6.2,3.8,0.3,5.8,3.5
+31,5.1,3.5,4.7,6.4,3.5
+Everly,5.1,2.9,2.8,6.4,3.5
+Resident Evil: Apocalypse,6.1,6.0,1.9,6.8,3.5
+Urban Legend,6.2,3.7,2.4,8.4,3.5
+The Expendables 3,6.1,4.8,3.1,5.8,3.5
+Turbo: A Power Rangers Movie,3.6,4.0,1.5,5.2,3.5
+102 Dalmatians,4.8,3.2,3.1,5.1,3.5
+What's Your Number?,6.0,4.4,2.3,5.6,3.5
+Mirrors,4.4,4.4,1.4,7.5,3.5
+Hitman,6.1,5.7,1.6,6.4,3.5
+Primeval,8.2,3.2,1.9,5.2,3.5
+Friday After Next,5.8,7.5,2.6,5.8,3.5
+Loser,7.4,3.5,2.4,8.3,3.5
+Super Mario Bros.,4.1,2.9,2.9,4.4,3.5
+Ghost Rider,5.0,4.7,2.7,4.0,3.5
+Kingsglaive: Final Fantasy XV,6.7,6.8,1.2,8.4,3.5
+Yogi Bear,4.6,3.4,1.3,4.6,3.5
+I Spy,6.1,3.3,1.5,3.5,3.5
+Diablo,8.5,2.8,1.9,2.6,3.5
+The Wedding Ringer,6.6,6.3,2.9,3.3,3.5
+Don't Tell Mom the Babysitter's Dead,6.3,5.7,3.5,7.7,3.5
+Diana,7.0,2.6,0.7,4.0,3.5
+The Forest,3.9,2.2,1.0,6.7,3.4
+Ghosts of Girlfriends Past,5.8,4.0,2.8,7.8,3.4
+My Life in Ruins,5.9,4.4,1.0,7.1,3.4
+The Dark Tower,6.0,4.4,1.5,4.5,3.4
+The Last Witch Hunter,5.9,4.3,1.8,6.4,3.4
+Sleepless,5.2,5.0,5.5,4.5,3.4
+Dead or Alive: Final,5.6,4.0,4.2,4.9,3.4
+15 Minutes,6.1,3.7,3.2,6.2,3.4
+Major Payne,6.3,6.8,2.9,7.4,3.4
+Street Fighter,4.0,2.0,1.1,2.9,3.4
+Get Hard,6.0,4.5,2.8,4.3,3.4
+Law Abiding Citizen,7.1,7.5,2.6,6.9,3.4
+Demolition Man,6.7,6.6,6.2,8.1,3.4
+Friday the 13th,6.4,6.0,6.3,6.6,3.4
+Ghost Rider: Spirit of Vengeance,4.3,3.1,1.8,4.2,3.4
+Year One,5.8,2.3,1.4,4.8,3.4
+The Longest Week,5.4,2.1,1.0,5.0,3.4
+Motherhood,8.0,1.6,2.0,7.3,3.4
+Halloween 4: The Return of Michael Myers,5.8,5.3,3.3,7.9,3.4
+Doom,5.3,3.4,1.8,5.6,3.4
+Alice Through the Looking Glass,5.9,4.8,2.9,5.9,3.4
+Jingle All the Way,5.7,3.9,1.9,7.3,3.4
+Stolen,9.3,4.7,6.7,6.9,3.4
+Amityville II: The Possession,5.6,3.6,2.4,5.6,3.4
+Cheaper by the Dozen 2,5.5,5.7,0.6,4.5,3.4
+Texas Chainsaw Massacre,4.7,2.5,3.1,4.4,3.4
+Ninja Assassin,6.3,5.4,2.6,6.8,3.4
+Siberia,6.4,1.2,6.2,,5.9
+Kings,8.8,3.2,1.3,3.4,3.4
+Valentine's Day,5.3,4.7,1.8,5.1,3.4
+All About the Benjamins,5.8,7.7,3.1,6.6,3.4
+The Girl,5.1,4.1,7.0,,5.4
+Snow Day,5.1,2.7,2.9,8.0,3.4
+Safe Haven,4.5,6.7,1.4,5.8,3.4
+The Final Conflict,5.5,3.3,2.5,6.7,3.4
+1941,5.8,4.8,4.0,6.2,3.4
+Lake Placid,5.8,3.7,4.7,6.3,3.4
+Undead,5.4,4.4,3.2,5.6,3.4
+Eulogy,6.4,7.1,3.4,6.8,3.4
+Town & Country,4.5,1.4,1.3,5.1,3.4
+Elektra,7.9,2.9,1.1,4.5,3.4
+Mr. Destiny,6.4,5.6,3.5,7.5,3.4
+Vacation,7.1,4.5,2.7,6.4,3.4
+My Best Friend's Girl,5.9,4.6,1.4,7.0,3.4
+Jonah Hex,4.7,2.0,1.2,4.0,3.3
+Raise Your Voice,5.8,7.1,1.5,6.1,3.3
+Collateral Damage,5.5,2.7,1.9,7.3,3.3
+Lara Croft: Tomb Raider,5.7,4.7,2.0,5.7,3.3
+Equilibrium,7.3,8.1,4.0,8.3,3.3
+Soul Man,5.3,3.4,1.3,7.0,3.3
+Kidnapping Mr. Heineken,6.1,2.4,1.9,5.6,3.3
+Grandma's Boy,7.0,7.3,8.0,7.2,3.3
+Looking Glass,7.5,1.0,2.1,5.1,3.3
+Chasing Papi,4.8,4.0,1.4,5.7,3.3
+End of Days,5.8,3.2,1.1,8.1,3.3
+Despite the Falling Snow,5.8,4.5,0.9,6.0,3.3
+Blood and Chocolate,5.3,5.2,1.1,5.2,3.3
+Bedtime Stories,8.0,5.5,2.7,5.2,3.3
+Virginia,6.9,2.5,1.1,5.2,3.3
+Welcome to Mooseport,5.3,1.9,1.3,3.5,3.3
+My Favorite Martian,7.2,3.0,1.2,6.0,3.3
+Class,6.0,5.0,2.9,7.5,3.3
+Air America,5.8,3.4,1.3,6.9,3.3
+Chill Factor,5.2,3.0,0.9,2.2,3.3
+The Space Between Us,6.4,5.5,1.6,5.2,3.3
+Let It Ride,6.8,7.6,2.7,8.0,3.3
+RV,5.6,4.5,2.4,5.4,3.3
+Superhero Movie,4.7,3.2,1.6,5.6,3.3
+Uptown Girls,6.2,6.0,1.3,7.3,3.3
+Impostor,6.1,4.1,2.4,7.6,3.3
+Original Sin,4.8,6.1,1.2,7.5,3.3
+Mindhunters,6.3,5.7,2.4,8.1,3.3
+Resident Evil,6.6,6.7,3.5,7.2,3.3
+Hanging Up,4.8,3.4,1.2,6.8,3.3
+Trash Humpers,5.0,4.4,6.0,6.3,3.3
+Elite Squad,8.0,8.7,5.1,8.4,3.3
+Dear Wendy,6.5,6.6,3.6,6.9,3.3
+After Earth,7.8,3.6,1.2,3.9,3.3
+Big Momma's House,5.2,5.7,3.0,6.5,3.3
+The Man,6.0,4.1,1.2,7.9,3.3
+Haunt,6.4,10.0,6.9,4.9,3.3
+The 5th Wave,5.2,3.8,1.7,5.3,3.3
+Soul Plane,4.5,5.1,1.8,8.4,3.3
+Confessions of a Teenage Drama Queen,4.7,3.5,1.4,6.2,3.3
+54,5.9,3.6,1.5,2.2,3.3
+Being Human,5.3,4.2,5.4,6.8,3.3
+The Longest Ride,7.5,7.1,3.1,5.2,3.3
+The Punisher,5.6,3.3,2.5,8.0,3.3
+Detroit Rock City,6.8,8.2,4.9,7.9,3.3
+200 Cigarettes,5.9,5.9,3.0,7.3,3.3
+High School High,5.5,3.7,1.9,7.5,3.3
+The Fan,6.6,3.5,3.7,1.5,3.2
+The Ex,5.2,3.2,1.9,7.4,3.2
+Spice World,3.6,4.5,3.5,3.5,3.2
+Scouts Guide to the Zombie Apocalypse,6.3,4.8,4.4,7.7,3.2
+Independence Day: Resurgence,6.8,3.0,2.9,4.5,3.2
+G.I. Joe: The Rise of Cobra,5.7,5.0,3.3,5.3,3.2
+Snipes,5.4,7.7,2.5,7.5,3.2
+Warcraft,6.7,7.6,2.9,8.1,3.2
+Addicted,6.8,5.1,0.7,2.4,3.2
+Cats,7.3,5.3,1.9,5.2,3.2
+Agent Cody Banks 2: Destination London,4.5,3.1,1.4,4.5,3.2
+Beyond Borders,6.4,7.2,1.4,5.7,3.2
+Careful What You Wish For,6.0,6.1,1.7,3.2,3.2
+Land of the Lost,7.1,3.2,2.6,5.1,3.2
+Swordfish,6.5,5.9,2.5,7.4,3.2
+Plastic,7.3,3.3,1.4,3.8,3.2
+"Game Over, Man!",5.4,4.7,1.8,5.0,3.2
+Untraceable,6.2,5.2,1.6,5.8,3.2
+Showtime,5.6,2.5,2.5,3.9,3.2
+Black Knight,4.9,3.4,1.5,8.3,3.2
+Unfinished Business,6.4,2.6,1.0,4.2,3.2
+Repo Men,7.4,4.1,2.1,6.0,3.2
+Boogeyman,4.2,2.1,1.3,6.1,3.2
+Dying of the Light,4.5,1.5,1.1,3.1,3.1
+The Blue Lagoon,6.4,5.4,0.8,6.7,3.1
+Silent Hill,9.0,6.3,3.1,8.0,3.1
+Cursed,4.4,3.0,1.5,8.3,3.1
+Your Highness,7.9,3.4,2.7,5.0,3.1
+House of 1000 Corpses,6.0,6.5,2.0,4.7,3.1
+Countdown,5.9,7.2,2.6,6.2,3.1
+They,5.8,3.8,6.7,7.6,3.1
+This Means War,8.6,5.6,2.5,6.1,3.1
+That's My Boy,5.5,5.1,2.0,5.0,3.1
+Pootie Tang,5.3,6.3,2.7,8.1,3.1
+Antitrust,6.1,5.0,2.4,8.3,3.1
+Gossip,5.9,4.7,2.9,1.1,3.1
+New Rose Hotel,5.1,3.8,1.9,7.1,3.1
+High School,6.5,4.8,2.8,6.8,3.1
+Hit by Lightning,5.1,1.9,1.1,4.5,3.1
+Envy,4.6,2.7,0.8,2.1,3.1
+Very Bad Things,6.3,5.8,4.1,1.6,3.1
+Monster-in-Law,5.5,5.5,1.8,8.7,3.1
+Life or Something Like It,5.8,4.4,2.7,4.4,3.1
+First Daughter,6.9,4.2,0.8,6.3,3.1
+Creature,4.4,1.7,1.0,4.3,3.1
+Blended,6.5,6.4,1.5,5.8,3.1
+National Security,5.6,4.5,1.1,4.7,3.1
+Hot Pursuit,7.0,3.5,0.8,4.1,3.1
+Cop Out,6.0,3.9,1.8,4.9,3.1
+House at the End of the Street,5.5,4.1,1.2,5.2,3.1
+Get a Job,4.4,2.1,0.9,5.0,3.1
+Seventh Son,5.5,3.4,1.2,4.1,3.0
+The Cave,6.6,8.1,9.7,7.4,3.0
+Alex Cross,5.2,4.7,1.1,4.9,3.0
+Playing It Cool,5.9,3.3,1.4,6.5,3.0
+Punisher: War Zone,5.9,4.2,2.9,6.0,3.0
+My Way,6.9,6.5,8.3,7.9,3.0
+Badland,6.1,5.4,1.6,3.0,3.0
+The Spirit,5.3,2.5,1.4,7.4,3.0
+Saw VI,6.0,4.5,3.9,6.3,3.0
+Bulletproof,4.9,4.4,0.8,6.1,3.0
+Feeling Minnesota,5.4,2.7,1.4,4.4,3.0
+Gods and Generals,6.2,6.4,0.8,5.3,3.0
+Kill Me Three Times,5.8,3.0,1.6,4.8,3.0
+Little Boy,6.6,7.8,2.5,6.4,3.0
+The Boy Next Door,7.2,3.3,1.2,7.8,3.0
+Queen of the Damned,5.2,6.6,1.7,7.6,3.0
+Exorcist: The Beginning,5.1,2.7,1.0,4.9,3.0
+John Q,7.1,7.8,2.5,6.6,3.0
+Empire Records,6.7,8.3,3.1,6.5,3.0
+Grown Ups,6.3,6.2,1.1,5.1,3.0
+Stonewall,7.1,8.4,0.9,3.6,3.0
+The House,6.4,3.5,2.0,4.5,3.0
+The Butterfly Effect,5.6,8.1,3.4,8.5,3.0
+Grind,5.4,7.9,0.8,8.2,3.0
+Deuce Bigalow: Male Gigolo,5.7,4.2,2.2,7.7,3.0
+"I, Frankenstein",5.1,3.8,0.5,4.4,3.0
+Knockaround Guys,6.1,5.1,2.1,1.4,3.0
+Never Again,6.2,6.4,3.1,3.0,3.0
+After,7.3,6.5,0.8,4.5,3.0
+Nature Calls,7.9,1.7,0.5,4.1,3.0
+Body of Evidence,5.3,2.3,0.8,8.1,2.9
+Without a Paddle,5.8,6.8,1.4,8.1,2.9
+Premonition,4.6,5.0,0.8,4.0,2.9
+Texas Rangers,5.2,2.9,0.2,6.2,2.9
+Domestic Disturbance,5.6,3.7,2.3,8.5,2.9
+13,5.8,3.4,0.7,5.0,2.9
+New in Town,5.7,3.7,2.8,5.4,2.9
+Eye of the Beholder,5.0,3.2,0.9,1.8,2.9
+Undiscovered,4.2,4.8,0.8,4.5,2.9
+Hot Tub Time Machine 2,5.0,2.6,1.4,3.5,2.9
+Swimfan,5.1,3.2,1.5,2.4,2.9
+How High,6.2,7.9,2.6,4.8,2.9
+Boys and Girls,6.4,5.0,1.1,6.9,2.9
+Somewhere in Time,7.2,8.8,5.2,8.1,2.9
+Drive Hard,5.7,1.3,0.8,3.4,2.9
+The Quiet,6.1,5.1,2.1,8.3,2.9
+Ratchet & Clank,8.4,4.2,2.1,6.5,2.9
+Scary Movie 2,5.3,5.2,1.4,5.8,2.9
+Fool's Gold,3.7,4.8,1.1,4.6,2.9
+Red Riding Hood,6.2,3.9,1.0,4.5,2.9
+Rock the Kasbah,7.1,2.9,0.7,4.1,2.9
+Bright,7.8,8.3,2.6,7.1,2.9
+Hector and the Search for Happiness,6.9,6.1,3.8,8.4,2.9
+Just My Luck,4.4,4.8,1.4,6.4,2.9
+Snow Dogs,5.2,4.0,2.5,6.4,2.9
+You Again,5.7,4.3,1.9,5.5,2.8
+I Am Sam,7.6,8.6,3.6,7.4,2.8
+Even Cowgirls Get the Blues,4.3,2.8,1.8,7.0,2.8
+Inside Out,5.7,2.2,2.5,4.7,2.8
+Timeline,5.6,4.5,1.3,5.0,2.8
+47 Ronin,6.4,4.8,1.6,6.2,2.8
+London Has Fallen,5.9,5.0,2.7,5.3,2.8
+Revenge of the Nerds II: Nerds in Paradise,5.1,3.4,0.7,6.0,2.8
+Just Married,6.7,4.7,2.0,5.8,2.8
+Batman & Robin,3.8,1.6,1.2,5.8,2.8
+Blood: The Last Vampire,6.6,3.3,2.5,6.2,2.8
+A Merry Friggin' Christmas,5.1,2.1,1.4,5.8,2.8
+CHIPS,6.0,4.5,1.9,5.0,2.8
+Winchester,5.4,3.2,1.3,4.4,2.8
+Pandorum,6.7,4.9,3.0,6.6,2.8
+Cool World,4.8,3.1,0.4,5.7,2.8
+Drop Dead Gorgeous,5.2,7.5,4.7,4.7,2.8
+House on Haunted Hill,6.8,4.2,3.1,4.6,2.8
+Season of the Witch,7.2,3.0,7.0,5.1,2.8
+Survivor,4.3,3.2,0.8,4.1,2.8
+Rage,6.3,4.0,3.8,2.3,2.8
+Gentlemen Broncos,6.1,4.4,2.0,5.8,2.8
+Pixels,7.5,4.6,1.8,5.1,2.7
+Pokémon Heroes,6.0,6.0,1.7,7.6,2.7
+Head Over Heels,6.2,5.6,1.0,4.6,2.7
+Last Knights,6.2,4.6,1.6,7.1,2.7
+Sweet November,6.8,7.6,1.5,7.3,2.7
+Nina,5.8,2.4,0.2,5.9,2.7
+Mortdecai,5.5,3.0,1.1,3.5,2.7
+Beverly Hills Ninja,5.5,5.3,1.4,6.1,2.7
+I Spit on Your Grave,5.5,4.0,5.1,6.1,2.7
+Vampire in Brooklyn,4.6,3.1,1.2,7.6,2.7
+The Darkness,8.4,1.9,0.3,2.4,2.7
+Coyote Ugly,5.7,7.1,2.3,5.8,2.7
+The Women,7.7,3.7,1.4,4.7,2.7
+Playing for Keeps,4.4,4.1,0.4,5.8,2.7
+Let's Go to Prison,5.9,4.8,1.3,6.0,2.7
+Taxi,6.6,7.3,10.0,4.8,2.7
+Summer School,6.1,5.8,5.6,6.8,2.7
+The Musketeer,4.7,3.3,1.1,5.8,2.7
+Dead Man on Campus,6.0,5.5,1.5,7.6,2.7
+Norbit,4.2,5.3,0.9,4.5,2.7
+Child's Play 3,5.2,3.7,2.1,8.2,2.7
+Simply Irresistible,5.2,5.4,1.6,7.7,2.7
+Terminal,4.7,3.6,2.0,5.0,2.7
+Little Fockers,5.5,3.4,0.9,7.4,2.7
+Twisted,4.7,3.1,0.2,1.9,2.6
+Little Man,5.6,5.5,1.2,5.0,2.6
+War Room,7.2,8.7,3.4,5.5,2.6
+Because I Said So,5.9,6.5,0.4,3.2,2.6
+Dolittle,7.8,7.6,1.5,5.3,2.6
+Babylon A.D.,5.5,2.6,0.7,5.6,2.6
+Boxing Helena,4.7,3.5,1.7,6.3,2.6
+Basic Instinct 2,4.4,2.6,0.6,2.9,2.6
+Tideland,6.3,6.4,2.9,6.6,2.6
+Phantoms,5.4,2.7,1.3,7.6,2.6
+Silver Bullet,6.4,5.6,4.1,7.0,2.6
+Taken 3,6.0,4.3,1.3,4.7,2.6
+Hell Ride,5.0,3.0,1.0,8.2,2.5
+License to Wed,5.2,5.3,0.7,4.6,2.5
+American Outlaws,5.9,6.7,1.4,6.1,2.5
+Drowning Mona,5.7,4.6,2.9,7.6,2.5
+Patch Adams,6.8,7.3,2.1,6.6,2.5
+Cobra,6.4,4.3,1.8,7.3,2.5
+Sorority Boys,5.4,5.4,1.2,6.6,2.5
+Spy Hard,5.3,3.1,0.7,5.3,2.5
+Drop Dead Fred,5.9,7.7,1.1,5.1,2.5
+A Cinderella Story,5.9,5.3,1.2,6.7,2.5
+When in Rome,6.6,4.1,1.7,5.0,2.5
+Stealing Harvard,5.1,3.9,0.9,1.6,2.5
+R.I.P.D.,5.6,3.8,1.2,4.7,2.5
+Obsessed,6.6,4.6,1.9,5.7,2.5
+Jason X,4.4,2.5,1.9,7.4,2.5
+Dragonfly,5.1,6.2,0.7,5.9,2.5
+Rings,4.8,2.3,0.8,4.0,2.5
+Welcome to the Jungle,7.4,2.0,2.2,4.0,2.5
+Encino Man,5.8,5.6,1.5,6.9,2.5
+Smiley,6.6,3.0,1.7,3.2,2.5
+Wrong Cops,5.9,4.2,5.5,6.1,2.5
+Revolver,7.0,5.6,1.5,7.2,2.5
+Strange Magic,7.0,5.2,1.8,5.1,2.5
+Double Take,4.4,5.0,1.2,7.6,2.5
+Abduction,5.0,4.2,0.5,4.6,2.5
+Enough,5.8,6.7,2.2,8.6,2.5
+Walk of Shame,6.9,3.7,1.5,4.8,2.5
+Savannah,5.6,3.6,1.3,5.6,2.5
+Gods of Egypt,5.4,3.7,1.5,4.6,2.5
+Apollo 18,3.0,2.3,2.4,4.9,2.4
+Autumn in New York,5.6,5.4,1.9,7.4,2.4
+The Loft,7.4,3.7,1.4,3.6,2.4
+London,7.3,6.0,1.4,7.9,2.4
+Superman IV: The Quest for Peace,3.7,1.6,1.0,2.8,2.4
+Piranha 3DD,3.8,2.2,1.2,4.1,2.4
+Cyborg,5.0,3.1,2.2,5.0,2.4
+Maximum Overdrive,5.4,5.0,1.5,6.4,2.4
+Gotti,7.2,8.2,6.0,4.5,2.4
+Mr. Deeds,5.8,5.9,2.2,7.0,2.4
+Kazaam,3.1,2.0,0.5,5.8,2.4
+Highlander,7.0,7.9,7.1,7.7,2.4
+Stay Alive,5.0,5.5,1.0,7.4,2.4
+Godsend,4.8,2.0,0.4,6.0,2.4
+Hollow Man,5.8,2.8,2.6,4.9,2.4
+Alvin and the Chipmunks: Chipwrecked,4.3,5.1,1.2,3.8,2.4
+Return to Sender,5.6,2.3,1.4,3.3,2.3
+Deuce Bigalow: European Gigolo,4.7,3.3,0.9,4.6,2.3
+Music,5.7,1.4,0.7,,7.2
+The Snowman,8.2,8.0,8.0,4.0,2.3
+Jack and Jill,2.2,3.6,0.3,2.3,2.3
+Couples Retreat,5.5,3.9,1.0,5.7,2.3
+Bats,4.0,1.4,1.8,7.4,2.3
+Ready to Rumble,5.3,5.2,2.2,8.3,2.3
+Underworld: Blood Wars,5.7,4.9,2.1,5.4,2.3
+Darkness Falls,5.5,3.4,0.9,6.7,2.3
+Beautiful,7.7,5.5,1.6,2.0,2.3
+Speed 2: Cruise Control,3.9,1.6,0.4,2.6,2.3
+The Cobbler,6.3,3.6,1.0,5.1,2.3
+"Big Mommas: Like Father, Like Son",4.4,5.8,0.5,5.5,2.2
+Vanquish,7.5,2.2,0.5,1.1,2.2
+Saving Silverman,5.8,5.1,1.9,6.6,2.2
+Search Party,6.7,3.2,1.0,4.5,2.2
+Spies Like Us,6.4,5.6,3.2,7.1,2.2
+Congo,5.3,2.9,2.0,5.9,2.2
+Jawbreaker,5.7,5.5,1.4,8.7,2.2
+Twelve,6.7,3.2,0.3,5.7,2.2
+Blame It on Rio,5.8,4.0,0.8,8.8,2.2
+Barefoot,7.1,4.5,1.7,5.3,2.2
+Take,5.8,4.1,4.5,6.6,2.2
+One for the Money,8.2,4.2,0.2,4.8,2.2
+Say It Isn't So,5.0,3.1,0.8,1.9,2.1
+Molly,6.6,5.3,1.4,8.4,2.1
+Cabin Boy,5.3,4.2,4.8,4.9,2.1
+The Body,5.3,4.4,1.3,6.3,2.1
+Mannequin,7.0,5.5,2.0,7.3,2.1
+I Still Know What You Did Last Summer,4.7,2.9,0.7,5.0,2.1
+Geostorm,5.7,3.5,1.7,4.2,2.1
+Dirty Grandpa,5.9,4.4,1.0,4.0,2.1
+211,4.4,1.0,0.4,3.4,2.1
+Killers,2.3,6.4,7.3,3.9,2.1
+The Order,4.6,2.8,1.3,1.1,2.1
+The Clapper,6.7,3.3,2.3,6.0,2.1
+Summer Catch,5.1,4.0,0.8,3.0,2.1
+Hellraiser: Bloodline,5.1,3.6,2.4,7.0,2.1
+3000 Miles to Graceland,6.0,4.6,1.4,3.2,2.1
+Highlander: Endgame,4.6,3.8,1.1,5.8,2.1
+Saw V,5.8,5.2,1.3,5.7,2.0
+Expelled: No Intelligence Allowed,3.7,6.8,1.1,3.5,2.0
+Son of the Mask,2.3,1.6,0.6,5.5,2.0
+Joe Dirt,6.0,6.3,0.9,7.7,2.0
+Whatever It Takes,6.7,4.5,1.6,6.8,2.0
+Looker,6.1,4.1,3.2,5.8,2.0
+Corky Romano,4.7,3.9,0.7,7.3,2.0
+Showgirls,5.0,3.7,2.3,3.1,2.0
+Vegas Vacation,5.9,5.1,1.6,7.4,2.0
+Old Dogs,8.0,4.4,0.5,5.0,1.9
+Good Luck Chuck,5.6,5.7,0.5,4.2,1.9
+Lost & Found,5.1,3.3,7.3,6.3,1.9
+Halloween: Resurrection,3.9,2.5,1.0,5.2,1.9
+Surviving Christmas,5.4,3.0,0.8,7.3,1.9
+Species II,4.5,1.8,0.9,5.7,1.9
+Polar,6.0,6.9,1.8,6.4,1.9
+Valentine,6.0,3.3,1.1,8.3,1.8
+Ultraviolet,4.9,3.0,0.9,3.1,1.8
+Gigli,2.6,1.3,0.6,4.8,1.8
+Company Man,5.2,4.4,1.4,7.2,1.8
+Swept Away,7.5,2.8,0.5,5.2,1.8
+Hush,5.4,3.7,5.0,6.6,1.8
+Serving Sara,5.3,2.6,0.4,2.4,1.8
+Death Wish 3,5.8,5.4,1.1,3.8,1.8
+Movie 43,7.0,2.4,0.4,3.1,1.8
+Boat Trip,4.9,3.6,0.7,3.3,1.8
+Mr. Magoo,4.0,2.4,1.0,4.7,1.8
+See No Evil,6.6,5.0,0.9,6.0,1.7
+Material Girls,3.9,4.4,0.4,4.3,1.7
+Hudson Hawk,5.7,5.6,3.1,5.3,1.7
+Extreme Ops,4.4,2.8,0.7,2.8,1.7
+Armed and Dangerous,5.7,3.9,1.0,6.3,1.7
+Leprechaun,4.8,3.2,2.7,7.5,1.7
+Bless the Child,5.1,4.3,0.3,4.1,1.7
+Epic Movie,2.4,2.9,0.2,2.3,1.7
+I Know Who Killed Me,3.6,2.6,0.9,3.1,1.6
+Lost Souls,6.3,2.2,0.8,2.0,1.6
+Weekend at Bernie's II,4.8,4.1,1.0,3.5,1.6
+Urban Legends: Final Cut,4.4,2.0,0.9,3.3,1.6
+Half Baked,6.6,8.1,2.8,7.8,1.6
+Billy Madison,6.3,7.9,4.1,5.0,1.6
+Deuces Wild,5.6,5.1,0.3,7.8,1.6
+Beverly Hills Cop III,5.5,3.5,1.1,5.9,1.6
+Harlem Nights,6.1,8.0,2.7,8.4,1.6
+Shanghai Surprise,3.2,1.5,2.0,6.4,1.6
+House of the Dead,2.1,1.0,0.3,1.5,1.5
+Carpool,5.1,4.0,1.3,5.8,1.5
+Evidence,7.3,2.8,0.6,4.9,1.4
+What Love Is,5.2,5.5,1.5,7.5,1.4
+Mixed Nuts,4.4,4.7,1.3,4.7,1.4
+Kung Pow: Enter the Fist,6.2,6.9,1.3,8.5,1.4
+Friday the 13th Part VIII: Jason Takes Manhattan,4.5,2.7,1.1,7.0,1.4
+From Justin to Kelly,1.9,3.9,0.8,2.5,1.4
+Glitter,6.5,4.8,0.6,1.7,1.4
+Dungeons & Dragons,8.0,2.0,1.0,4.8,1.4
+Daddy Day Camp,3.2,3.8,0.1,2.0,1.3
+Freddy Got Fingered,4.6,5.6,1.1,5.7,1.3
+Paul Blart: Mall Cop 2,4.4,3.3,0.6,2.6,1.3
+Down to You,5.0,4.9,0.3,5.4,1.3
+Strange Wilderness,7.2,3.5,0.2,5.1,1.2
+Cocktail,5.9,5.8,0.9,2.5,1.2
+The Emoji Movie,3.4,3.7,0.6,2.1,1.2
+Slackers,5.3,5.0,1.0,3.8,1.2
+King's Ransom,5.5,3.2,0.2,1.4,1.1
+Date Movie,2.8,3.5,0.7,2.9,1.1
+Nine Lives,7.2,6.7,7.6,3.0,1.1
+Whipped,4.4,3.2,1.3,1.7,1.0
+Halloween: The Curse of Michael Myers,4.7,3.7,0.9,7.6,1.0
+Saturn 3,5.1,3.0,2.9,3.8,0.9
+Alone in the Dark,6.8,1.1,0.1,1.7,0.9
+Meet the Spartans,2.8,2.5,0.2,2.8,0.9
+Miss March,5.0,3.0,0.5,4.3,0.7
+Screwed,6.0,4.8,1.0,8.1,0.7
+Caddyshack II,3.8,1.7,0.4,6.4,0.7
+Baby Geniuses,2.6,2.4,0.2,3.2,0.6
+Bio-Dome,4.4,5.1,0.4,7.5,0.1
+Chaos,6.7,6.2,7.1,2.5,0.1
